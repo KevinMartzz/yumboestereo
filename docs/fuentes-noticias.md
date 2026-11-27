@@ -2,32 +2,32 @@
 
 Este archivo lo escribe el recolector (`scripts/recolectar.mts`) en cada corrida. No lo edites a mano: para agregar una fuente, edita `data/fuentes.json`.
 
-Última revisión: **2026-11-27 04:41 UTC**
+Última revisión: **2026-11-27 16:43 UTC**
 
 | Medio | ¿Funciona? | Notas | Nota más reciente | RSS que se usa / motivo de la falla |
 |---|---|---|---|---|
-| Google News: Yumbo | Sí | 40 | 2026-11-26 22:46 UTC | `https://news.google.com/rss/search?q=Yumbo&hl=es-419&gl=CO&ceid=CO:es-419` |
-| Google News: Cali y Valle | Sí | 40 | 2026-11-27 04:04 UTC | `https://news.google.com/rss/search?q=Cali+OR+%22Valle+del+Cauca%22&hl=es-419&gl=CO&ceid=CO:es-419` |
-| Google News: Colombia | Sí | 34 | 2026-11-27 04:24 UTC | `https://news.google.com/rss?hl=es-419&gl=CO&ceid=CO:es-419` |
-| El País Cali | Sí | 40 | 2026-11-27 03:52 UTC | `https://www.elpais.com.co/arc/outboundfeeds/rss/?outputType=xml` |
-| 90 Minutos | Sí | 12 | 2026-11-26 23:10 UTC | `https://90minutos.co/feed/` |
-| El Tiempo | Sí | 10 | 2026-11-27 04:24 UTC | `https://www.eltiempo.com/rss/colombia.xml` |
-| El Espectador | Sí | 20 | 2026-11-27 04:24 UTC | `https://www.elespectador.com/arc/outboundfeeds/discover/` (encontrada en la página) |
-| Semana | Sí | 40 | 2026-11-27 03:58 UTC | `https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml` |
-| Caracol Radio | Sí | 40 | 2026-11-27 03:15 UTC | `https://caracol.com.co/arc/outboundfeeds/rss/?outputType=xml` |
+| Google News: Yumbo | Sí | 40 | 2026-11-27 15:32 UTC | `https://news.google.com/rss/search?q=Yumbo&hl=es-419&gl=CO&ceid=CO:es-419` |
+| Google News: Cali y Valle | Sí | 40 | 2026-11-27 16:39 UTC | `https://news.google.com/rss/search?q=Cali+OR+%22Valle+del+Cauca%22&hl=es-419&gl=CO&ceid=CO:es-419` |
+| Google News: Colombia | Sí | 34 | 2026-11-27 15:33 UTC | `https://news.google.com/rss?hl=es-419&gl=CO&ceid=CO:es-419` |
+| El País Cali | Sí | 40 | 2026-11-27 16:37 UTC | `https://www.elpais.com.co/arc/outboundfeeds/rss/?outputType=xml` |
+| 90 Minutos | Sí | 12 | 2026-11-27 16:27 UTC | `https://90minutos.co/feed/` |
+| El Tiempo | Sí | 10 | 2026-11-27 16:11 UTC | `https://www.eltiempo.com/rss/colombia.xml` |
+| El Espectador | Sí | 20 | 2026-11-27 16:34 UTC | `https://www.elespectador.com/arc/outboundfeeds/discover/` (encontrada en la página) |
+| Semana | Sí | 40 | 2026-11-27 16:37 UTC | `https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml` |
+| Caracol Radio | Sí | 40 | 2026-11-27 16:32 UTC | `https://caracol.com.co/arc/outboundfeeds/rss/?outputType=xml` |
 | Blu Radio | No | - | - | HTTP 404; Maximum nested tags exceeded |
 | La FM | No | - | - | HTTP 404; la página no anuncia RSS |
 | RCN Radio | No | - | - | no es un RSS/Atom; no es un RSS/Atom; la página no anuncia RSS |
-| Infobae Colombia | Sí | 40 | 2026-11-27 04:30 UTC | `https://www.infobae.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml` |
+| Infobae Colombia | Sí | 40 | 2026-11-27 16:31 UTC | `https://www.infobae.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml` |
 | El Colombiano | No | - | - | HTTP 404; la página no anuncia RSS |
-| La República | Sí | 40 | 2026-11-27 01:55 UTC | `https://www.larepublica.co/rss/` |
+| La República | Sí | 40 | 2026-11-27 16:01 UTC | `https://www.larepublica.co/rss/` |
 
 ## Señal en vivo (reproductor de la web actual)
 
 ```json
 {
   "pagina": "https://roquetest.dongee.com/radio_yumbo.php",
-  "revisado": "2026-11-27T04:41:50.711Z",
+  "revisado": "2026-11-27T16:43:31.133Z",
   "paginaEstado": 200,
   "paginaTipo": "audio/mpeg",
   "recursos": [],

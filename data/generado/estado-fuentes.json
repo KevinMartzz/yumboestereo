@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-27T04:41:50.516Z",
+  "generado": "2026-11-27T16:43:30.847Z",
   "fuentes": [
     {
       "id": "google-yumbo",
@@ -9,7 +9,7 @@
       "url": "https://news.google.com/rss/search?q=Yumbo&hl=es-419&gl=CO&ceid=CO:es-419",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-26T22:46:00.000Z",
+      "ultima": "2026-11-27T15:32:10.000Z",
       "intentos": [
         {
           "url": "https://news.google.com/rss/search?q=Yumbo&hl=es-419&gl=CO&ceid=CO:es-419",
@@ -25,7 +25,7 @@
       "url": "https://news.google.com/rss/search?q=Cali+OR+%22Valle+del+Cauca%22&hl=es-419&gl=CO&ceid=CO:es-419",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-27T04:04:01.000Z",
+      "ultima": "2026-11-27T16:39:12.000Z",
       "intentos": [
         {
           "url": "https://news.google.com/rss/search?q=Cali+OR+%22Valle+del+Cauca%22&hl=es-419&gl=CO&ceid=CO:es-419",
@@ -41,7 +41,7 @@
       "url": "https://news.google.com/rss?hl=es-419&gl=CO&ceid=CO:es-419",
       "descubierta": false,
       "notas": 34,
-      "ultima": "2026-11-27T04:24:41.000Z",
+      "ultima": "2026-11-27T15:33:45.000Z",
       "intentos": [
         {
           "url": "https://news.google.com/rss?hl=es-419&gl=CO&ceid=CO:es-419",
@@ -57,7 +57,7 @@
       "url": "https://www.elpais.com.co/arc/outboundfeeds/rss/?outputType=xml",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-27T03:52:29.000Z",
+      "ultima": "2026-11-27T16:37:47.000Z",
       "intentos": [
         {
           "url": "https://www.elpais.com.co/arc/outboundfeeds/rss/?outputType=xml",
@@ -73,7 +73,7 @@
       "url": "https://90minutos.co/feed/",
       "descubierta": false,
       "notas": 12,
-      "ultima": "2026-11-26T23:10:58.000Z",
+      "ultima": "2026-11-27T16:27:32.000Z",
       "intentos": [
         {
           "url": "https://90minutos.co/feed/",
@@ -89,7 +89,7 @@
       "url": "https://www.eltiempo.com/rss/colombia.xml",
       "descubierta": false,
       "notas": 10,
-      "ultima": "2026-11-27T04:24:11.000Z",
+      "ultima": "2026-11-27T16:11:23.000Z",
       "intentos": [
         {
           "url": "https://www.eltiempo.com/rss/colombia.xml",
@@ -105,7 +105,7 @@
       "url": "https://www.elespectador.com/arc/outboundfeeds/discover/",
       "descubierta": true,
       "notas": 20,
-      "ultima": "2026-11-27T04:24:31.000Z",
+      "ultima": "2026-11-27T16:34:53.000Z",
       "intentos": [
         {
           "url": "https://www.elespectador.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml",
@@ -133,7 +133,7 @@
       "url": "https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-27T03:58:29.000Z",
+      "ultima": "2026-11-27T16:37:16.000Z",
       "intentos": [
         {
           "url": "https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml",
@@ -149,7 +149,7 @@
       "url": "https://caracol.com.co/arc/outboundfeeds/rss/?outputType=xml",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-27T03:15:00.000Z",
+      "ultima": "2026-11-27T16:32:15.000Z",
       "intentos": [
         {
           "url": "https://caracol.com.co/arc/outboundfeeds/rss/?outputType=xml",
@@ -229,7 +229,7 @@
       "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-27T04:30:53.000Z",
+      "ultima": "2026-11-27T16:31:39.000Z",
       "intentos": [
         {
           "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml",
@@ -265,7 +265,7 @@
       "url": "https://www.larepublica.co/rss/",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-27T01:55:24.000Z",
+      "ultima": "2026-11-27T16:01:16.000Z",
       "intentos": [
         {
           "url": "https://www.larepublica.co/rss/",
@@ -276,7 +276,7 @@
   ],
   "senal": {
     "pagina": "https://roquetest.dongee.com/radio_yumbo.php",
-    "revisado": "2026-11-27T04:41:50.711Z",
+    "revisado": "2026-11-27T16:43:31.133Z",
     "paginaEstado": 200,
     "paginaTipo": "audio/mpeg",
     "recursos": [],
