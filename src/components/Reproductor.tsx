@@ -222,7 +222,7 @@ export function BarraReproductor() {
   }, [programa?.nombre, alternar]);
 
   return (
-    <div className="sobre-oscuro fixed inset-x-0 bottom-0 z-40 border-t border-white/10 bg-noche text-white">
+    <div className="sobre-oscuro fixed inset-x-0 bottom-0 z-40 border-t border-white/10 bg-noche pb-[env(safe-area-inset-bottom)] text-white">
       <div className="mx-auto flex max-w-6xl items-center gap-3 px-4 py-2.5 sm:gap-4">
         <button
           type="button"

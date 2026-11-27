@@ -30,11 +30,20 @@ export function AlAireAhora() {
   const { horarios } = useDemo();
   const ahora = useAhora();
 
+  // Lo que está al aire depende de la hora del navegador. Mientras carga se
+  // dibuja el mismo armazón con el mismo alto, para que la página no salte.
   if (!ahora) {
     return (
       <div aria-busy="true">
-        <p className="flex items-center gap-2 text-white/80">Al aire ahora</p>
-        <p className="titular mt-2 text-5xl text-white/40 sm:text-7xl">Cargando…</p>
+        <div className={CABEZA}>
+          <p className="flex items-center gap-2 text-white/85">
+            <span className="punto-vivo" aria-hidden="true" />
+            Al aire ahora
+          </p>
+          <p className={`titular mt-3 ${TAMANO_TITULO} text-white/30`}>Cargando…</p>
+        </div>
+        <p className={SIGUE}>&nbsp;</p>
+        <Botones />
       </div>
     );
   }
@@ -48,16 +57,18 @@ export function AlAireAhora() {
 
   return (
     <div>
-      <p className="flex items-center gap-2 text-white/85">
-        <span className="punto-vivo" aria-hidden="true" />
-        Al aire ahora, hasta {conArticulo(fin)}
-      </p>
-      <h1 className="titular mt-3 text-[clamp(2.8rem,9vw,6.5rem)] text-white">
-        <Link href={`/programas/${p.slug}/`} className="hover:text-amarillo-suave">
-          {p.nombre}
-        </Link>
-      </h1>
-      <p className="mt-3 max-w-xl text-lg text-white/85">
+      <div className={CABEZA}>
+        <p className="flex items-center gap-2 text-white/85">
+          <span className="punto-vivo" aria-hidden="true" />
+          Al aire ahora, hasta {conArticulo(fin)}
+        </p>
+        <h1 className={`titular mt-3 ${TAMANO_TITULO} text-white`}>
+          <Link href={`/programas/${p.slug}/`} className="hover:text-amarillo-suave">
+            {p.nombre}
+          </Link>
+        </h1>
+      </div>
+      <p className={SIGUE}>
         {voces.length ? <>Con {voces.join(" y ")}. </> : null}
         {sig ? (
           <>
@@ -68,12 +79,24 @@ export function AlAireAhora() {
           </>
         ) : null}
       </p>
-      <div className="mt-6 flex flex-wrap gap-3">
-        <BotonEscuchar grande />
-        <Link href="/programacion/" className="btn btn-borde px-6 py-3 text-lg text-white">
-          Ver la programación
-        </Link>
-      </div>
+      <Botones />
+    </div>
+  );
+}
+
+const TAMANO_TITULO = "text-[clamp(2.8rem,9vw,6.5rem)]";
+// Título reservado a dos líneas, pegado abajo: si el nombre cabe en una, el
+// espacio libre queda arriba y no empuja nada.
+const CABEZA = "flex min-h-[calc(1.5rem+0.75rem+2*1.02*clamp(2.8rem,9vw,6.5rem))] flex-col justify-end";
+const SIGUE = "mt-3 min-h-[5.25rem] max-w-xl text-lg text-white/85 sm:min-h-[3.5rem]";
+
+function Botones() {
+  return (
+    <div className="mt-6 flex flex-wrap gap-3">
+      <BotonEscuchar grande />
+      <Link href="/programacion/" className="btn btn-borde px-6 py-3 text-lg text-white">
+        Ver la programación
+      </Link>
     </div>
   );
 }

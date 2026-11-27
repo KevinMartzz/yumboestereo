@@ -1,8 +1,28 @@
 import type { Metadata, Viewport } from "next";
+import localFont from "next/font/local";
 import "./globals.css";
 import { BarraReproductor, ProveedorReproductor } from "@/components/Reproductor";
 import { Encabezado, FranjaDemo, Pie } from "@/components/Marco";
 import { emisora } from "@/data/emisora";
+
+// Fuentes servidas desde el propio sitio, solo el subconjunto latino (cubre el
+// español). next/font las precarga y ajusta la fuente de respaldo para que el
+// texto no salte cuando cargan.
+const anybody = localFont({
+  src: "./fuentes/anybody.woff2",
+  weight: "100 900",
+  variable: "--fuente-anybody",
+  display: "swap",
+  declarations: [{ prop: "font-stretch", value: "50% 150%" }],
+  adjustFontFallback: "Arial",
+});
+const atkinson = localFont({
+  src: "./fuentes/atkinson-hyperlegible-next.woff2",
+  weight: "200 800",
+  variable: "--fuente-atkinson",
+  display: "swap",
+  adjustFontFallback: "Arial",
+});
 
 export const metadata: Metadata = {
   title: {
@@ -25,11 +45,13 @@ export const viewport: Viewport = {
   themeColor: "#062a1a",
   width: "device-width",
   initialScale: 1,
+  // Permite usar el área de la barra de inicio del iPhone (con safe-area en CSS).
+  viewportFit: "cover",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="es-CO">
+    <html lang="es-CO" className={`${anybody.variable} ${atkinson.variable}`}>
       <body>
         <a
           href="#contenido"

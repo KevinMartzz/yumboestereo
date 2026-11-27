@@ -70,7 +70,7 @@ export function ListaNoticias() {
             type="button"
             aria-pressed={categoria === c}
             onClick={() => setCategoria(c)}
-            className="rounded-full border-2 border-monte px-3 py-1 font-bold text-monte aria-pressed:bg-monte aria-pressed:text-white"
+            className="min-h-11 rounded-full border-2 border-monte px-3 py-1 font-bold text-monte aria-pressed:bg-monte aria-pressed:text-white"
           >
             {c}
           </button>
@@ -121,7 +121,7 @@ export function ListaClasificados({ limite }: { limite?: number }) {
               type="button"
               aria-pressed={cat === c}
               onClick={() => setCat(c)}
-              className="rounded-full border-2 border-vino px-3 py-1 font-bold text-vino aria-pressed:bg-vino aria-pressed:text-white"
+              className="min-h-11 rounded-full border-2 border-vino px-3 py-1 font-bold text-vino aria-pressed:bg-vino aria-pressed:text-white"
             >
               {c}
             </button>

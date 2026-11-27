@@ -77,7 +77,7 @@ export default function EditorProgramacion() {
             setBorrador((l) => [...l, { id: nuevoId("f"), programa: elegibles[0].slug, dias: [1], inicio: "11:00", fin: "12:00" }]);
           }}
         >
-          Agregar programa a la parrilla
+          Agregar programa
         </button>
         <span className="text-sm text-gris" aria-live="polite">
           {sucio ? "Tienes cambios sin guardar." : guardado ? "Guardado. Ya se ve en la web." : ""}
@@ -109,11 +109,11 @@ export default function EditorProgramacion() {
               key={f.id}
               className={`rounded-xl border bg-white p-4 ${conChoque.has(f.id) || invalida ? "border-vino" : "border-linea"}`}
             >
-              <fieldset className="grid gap-4 xl:grid-cols-[1.2fr_2fr_auto_auto_auto] xl:items-end">
+              <fieldset className="grid grid-cols-2 gap-x-3 gap-y-4 xl:grid-cols-[1.2fr_2fr_auto_auto_auto] xl:items-end">
                 <legend className="sr-only">
                   {p?.nombre}, {describirDias(f.dias)}
                 </legend>
-                <label>
+                <label className="col-span-2 xl:col-span-1">
                   <span className="etiqueta">Programa</span>
                   <select className="campo" value={f.programa} onChange={(e) => editar(f.id, { programa: e.target.value })}>
                     {elegibles.map((x) => (
@@ -123,7 +123,7 @@ export default function EditorProgramacion() {
                     ))}
                   </select>
                 </label>
-                <div>
+                <div className="col-span-2 xl:col-span-1">
                   <span className="etiqueta">Días</span>
                   <div className="flex flex-wrap gap-1">
                     {ORDEN.map((d) => {
@@ -155,7 +155,7 @@ export default function EditorProgramacion() {
                 </label>
                 <button
                   type="button"
-                  className="btn text-vino hover:bg-vino/10"
+                  className="btn col-span-2 justify-self-start text-vino hover:bg-vino/10 xl:col-span-1"
                   onClick={() => {
                     setGuardado(false);
                     setBorrador((l) => l.filter((x) => x.id !== f.id));
