@@ -1,0 +1,211 @@
+@import "tailwindcss";
+@import "@fontsource-variable/anybody/standard.css";
+@import "@fontsource-variable/atkinson-hyperlegible-next/index.css";
+
+/* Colores de la marca (los de la web actual) y tipografías propias de la propuesta. */
+@theme {
+  --color-monte: #0c5a36;
+  --color-monte-claro: #1b7a4c;
+  --color-noche: #062a1a;
+  --color-amarillo: #fbc80a;
+  --color-amarillo-suave: #fde58a;
+  --color-vino: #7f1f2b;
+  --color-papel: #eef2ea;
+  --color-hoja: #f8faf6;
+  --color-tinta: #10201a;
+  --color-gris: #55655c;
+  --color-linea: #cad5c7;
+
+  --font-display: "Anybody Variable", "Arial Narrow", sans-serif;
+  --font-sans: "Atkinson Hyperlegible Next Variable", system-ui, sans-serif;
+}
+
+@layer base {
+:root {
+  color-scheme: light;
+}
+
+html {
+  background: var(--color-papel);
+  color: var(--color-tinta);
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: 1.0625rem;
+  line-height: 1.55;
+  background: var(--color-papel);
+  /* espacio para la barra del reproductor */
+  padding-bottom: 5.5rem;
+}
+
+}
+
+@layer components {
+/* Titulares: Anybody estrecha, el ancho cambia según el tamaño. */
+.titular {
+  font-family: var(--font-display);
+  font-stretch: 72%;
+  font-weight: 760;
+  line-height: 1.02;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+}
+.titular-ancho {
+  font-family: var(--font-display);
+  font-stretch: 118%;
+  font-weight: 650;
+  line-height: 1.15;
+}
+.cifras {
+  font-family: var(--font-display);
+  font-variant-numeric: tabular-nums;
+  font-stretch: 85%;
+}
+
+.prosa p + p {
+  margin-top: 1em;
+}
+.prosa {
+  max-width: 68ch;
+  line-height: 1.65;
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-amarillo);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+.sobre-oscuro :focus-visible {
+  outline-color: var(--color-amarillo);
+}
+
+/* Botones */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 2.75rem;
+  padding: 0.55rem 1.1rem;
+  border-radius: 999px;
+  font-weight: 700;
+  line-height: 1.1;
+  transition: background-color 0.15s, color 0.15s, border-color 0.15s;
+}
+.btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+.btn-amarillo {
+  background: var(--color-amarillo);
+  color: var(--color-noche);
+}
+.btn-amarillo:hover {
+  background: var(--color-amarillo-suave);
+}
+.btn-monte {
+  background: var(--color-monte);
+  color: white;
+}
+.btn-monte:hover {
+  background: var(--color-monte-claro);
+}
+.btn-borde {
+  border: 2px solid currentColor;
+}
+.btn-borde:hover {
+  background: color-mix(in srgb, currentColor 10%, transparent);
+}
+
+/* Campos de formulario */
+.campo {
+  display: block;
+  width: 100%;
+  border: 1.5px solid var(--color-linea);
+  background: white;
+  border-radius: 0.5rem;
+  padding: 0.6rem 0.75rem;
+  font: inherit;
+  color: inherit;
+}
+.campo:focus {
+  border-color: var(--color-monte);
+  outline: 2px solid color-mix(in srgb, var(--color-monte) 30%, transparent);
+  outline-offset: 0;
+}
+.etiqueta {
+  display: block;
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+}
+.ayuda {
+  display: block;
+  font-size: 0.875rem;
+  color: var(--color-gris);
+  margin-top: 0.25rem;
+}
+
+/* Marca de contenido de ejemplo */
+.marca-ejemplo {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.1rem 0.45rem;
+  border-radius: 0.25rem;
+  background: var(--color-amarillo-suave);
+  color: var(--color-noche);
+  vertical-align: middle;
+}
+
+/* Punto de "al aire" */
+.punto-vivo {
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 999px;
+  background: #e5484d;
+  box-shadow: 0 0 0 0 rgba(229, 72, 77, 0.6);
+  animation: latido 2s infinite;
+}
+@keyframes latido {
+  0% { box-shadow: 0 0 0 0 rgba(229, 72, 77, 0.55); }
+  70% { box-shadow: 0 0 0 0.55rem rgba(229, 72, 77, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(229, 72, 77, 0); }
+}
+
+/* Barras del ecualizador cuando suena */
+.eq span {
+  display: inline-block;
+  width: 3px;
+  margin-right: 2px;
+  background: currentColor;
+  animation: eq 0.9s ease-in-out infinite alternate;
+}
+.eq span:nth-child(2) { animation-delay: -0.3s; }
+.eq span:nth-child(3) { animation-delay: -0.6s; }
+@keyframes eq {
+  from { height: 4px; }
+  to { height: 16px; }
+}
+
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .punto-vivo,
+  .eq span {
+    animation: none;
+  }
+  .eq span { height: 10px; }
+  * {
+    scroll-behavior: auto !important;
+  }
+}
+
+/* El dial: escala del sintonizador */
+.dial-escala {
+  background-image: repeating-linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0.35) 0 1px,
+    transparent 1px calc(100% / 96)
+  );
+}
