@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T03:50:18.299Z",
+ "generado": "2026-11-27T03:54:24.524Z",
  "ventanaHoras": 48,
  "grupos": [
   {
@@ -45,12 +45,21 @@
      "resumen": ""
     },
     {
-     "id": "6192dc6d7a12",
+     "id": "7ca9759e220e",
      "fuente": "google-yumbo",
      "medio": "El Espectador",
      "titulo": "Operativo de la Policía en Cali, Jamundí y Yumbo deja 89 capturas",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT05VSldESmRvOXNaYnpLNHpPTWc2eXlWLXNKX3dsMm42ckpUMjBBcjJaY0lDd0dhbzZfYjY2YU1Gc3ZaU09qMjZQdmg3RzFEN09pb0o2VHcyN0w2OVphRWFPOGVxVUhITW1KS1N3OGJ4UUpmcDI5M2w2cGRTSEhBZjMzeGlsTFBQcURiZy1zeFFCSmJiTWdfUmxmUEtzUFZnazFObERR0gG6AUFVX3lxTE1RWC1UVEpmZ0w4YmNMOXNUXzFuaUNHRXVwQWxSQjZKdWxFck1RX01MWWRnMXZORlpTanNFc0VFMkJzYkRJSHVxWFBiQTdXRERCNHo3cDBVbkg0N29veGlILVhpNk5tSWxwMURqUHFXcjN2UE1mNzZtUEc5SHNGWXg5dksyNEVGX2g4VmRqWkRjQmNTeDN2RklkcENERnVTVFRMV0M5Q2pMbE5kUzJOX3pGeGxraHZINHNjQQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUVgtVFRKZmdMOGJjTDlzVF8xbmlDR0V1cEFsUkI2SnVsRXJNUV9NTFlkZzF2TkZaU2pzRXNFRTJCc2JESUh1cVhQYkE3V0REQjR6N3AwVW5INDdvb3hpSC1YaTZObUlscDFEalBxV3IzdlBNZjc2bVBHOUhzRll4OXZLMjRFRl9oOFZkalpEY0JjU3gzdkZJZHBDREZ1U1RUTFdDOUNqTGxOZFMyTl96Rnhsa2h2SDRzY0HSAboBQVVfeXFMTVFYLVRUSmZnTDhiY0w5c1RfMW5pQ0dFdXBBbFJCNkp1bEVyTVFfTUxZZGcxdk5GWlNqc0VzRUUyQnNiRElIdXFYUGJBN1dEREI0ejdwMFVuSDQ3b294aUgtWGk2Tm1JbHAxRGpQcVdyM3ZQTWY3Nm1QRzlIc0ZZeDl2SzI0RUZfaDhWZGpaRGNCY1N4M3ZGSWRwQ0RGdVNUVExXQzlDakxsTmRTMk5fekZ4bGtodkg0c2NB?oc=5",
      "fecha": "2026-11-26T14:33:33.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "ff4f4b225569",
+     "fuente": "google-yumbo",
+     "medio": "Caracol Radio",
+     "titulo": "Desarticulan 11 bandas criminales y 94 capturados en operación IRON 3.0 en Cali, Jamundí y Yumbo",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZkNzMjB3aFJIdENaTE1Gc01UR0g3UVNQLUZYWE10dlVWYU1IclRENUhEZmM1RXIxNDA2RmRLWFJzaTBPdU5sV0ZZcko4bnZnR3VVcXltYzl2M2V5Q3czV3ZPR3hNRHVJSzBkVDZicDQ0QzlPd2dyY1pHUEF1ZzAzTlowcTg4VnM4ZndpeUVjbUNBRFJYeE5nTWE0SDNiSUNHNVFkbEhJTTYyRzAwSklpclVienJncThhdHc1b0ZJVXZIT0I3YkpuMm1LSFZ2Z1dwc0HSAdIBQVVfeXFMUGZDczIwd2hSSHRDWkxNRnNNVEdIN1FTUC1GWFhNdHZVVmFNSHJURDVIRGZjNUVyMTQwNkZkS1hSc2kwT3VObFdGWXJKOG52Z0d1VXF5bWM5djNleUN3M1d2T0d4TUR1SUswZFQ2YnA0NEM5T3dncmNaR1BBdWcwM05aMHE4OFZzOGZ3aXlFY21DQURSWHhOZ01hNEgzYklDRzVRZGxISU02MkcwMEpJaXJVYnpyZ3E4YXR3NW9GSVV2SE9CN2JKbjJtS0hWdmdXcHNB?oc=5",
+     "fecha": "2026-11-26T14:17:46.000Z",
      "resumen": ""
     },
     {
@@ -78,6 +87,7 @@
     "Revista Semana",
     "Gobernación del valle",
     "El Espectador",
+    "Caracol Radio",
     "LA RAZÓN.CO",
     "El País"
    ]
@@ -675,10 +685,20 @@
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM1Z6ZzVJNVVoTS1HeHR1dXJpU0Y3QUpYdHBiYmR2UzRoSFpwQlgwNVEyY2NTMXl0YWNCZjRDZ3VnZU9YZXVLRXlqaTZiT2dVaU1YaUxpWGMyd0xfS3lOSi03Ny1WSTJ5MzFwMVFzZGEtWjk0cVY4cERidjE1N01Hazh4SE0zQVJJZnFvYy11R1lwdlRUNWhOWDAyRDFYSUU5Z3FBX3hPb1o4YWt0VF9ZR3lJVmExQnlNSjFaZTNFbmY1WmJLaTNBNWFsM1hfT1hoWE1aRUxEMTJRZG9tRjVMaQ?oc=5",
      "fecha": "2026-11-26T21:43:00.000Z",
      "resumen": ""
+    },
+    {
+     "id": "37e0b649401b",
+     "fuente": "google-yumbo",
+     "medio": "Telepacífico",
+     "titulo": "Telepacífico transmitirá el Encuentro Nacional",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTmhwMmhCYmxfb2poaDhTYlU0cVppTEg0NUxwcHU3Nnp0NFBWWjRjNzJJMV9NYkxVNDQ3UDlEQVZGbmpZNC1RVnY0Wk8zZ2ZNWHlwWWdVZGdDMmc2a3U3ZXI1b3M2ZTFIZmN5NnhtTVA5V3dyX2d3VHM1djlJY0t3UlI2SkRCbjVheFpTWkFmT1hIN0RHX0dSQjZvUkk2Q0hjLU9HMXdOUThhaHhyc3dnZktmcUFQVWVZb19TUjZnNTlnSmZCVkNoTzVkR09HdW8tUW5JaXRjRW1GdDFPTVEyaw?oc=5",
+     "fecha": "2026-11-25T15:06:25.000Z",
+     "resumen": ""
     }
    ],
    "medios": [
-    "Alcaldía de Santiago de Cali"
+    "Alcaldía de Santiago de Cali",
+    "Telepacífico"
    ]
   },
   {
@@ -722,18 +742,18 @@
    ]
   },
   {
-   "id": "deda1263393f",
+   "id": "f65daac9f541",
    "titular": "La Universidad Santiago de Cali abrió sus puertas a magistrados de la Corte Suprema de Justicia para fortalecer el diálogo académico",
    "region": "Cali y Valle",
-   "fecha": "2026-11-26T21:08:58.000Z",
+   "fecha": "2026-11-26T21:08:25.000Z",
    "items": [
     {
-     "id": "deda1263393f",
+     "id": "f65daac9f541",
      "fuente": "google-cali-valle",
      "medio": "Universidad Santiago de Cali",
      "titulo": "La Universidad Santiago de Cali abrió sus puertas a magistrados de la Corte Suprema de Justicia para fortalecer el diálogo académico",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSVJOWVVick93Z3N2eUszWVMtQU9ndUc0eFduT09WYXVndzNDYTZIQ2QzeFVCR3dUandpM0RjMUxndVVmeF8yQXpCX0JMMmtMQlBSVXNpWjlydmUybGRpeUxfSjNkTzN1R2hXdDdTaHFLalRESUx1MzZxaWp5V1F0a0pMQ28xZzVBNzZEMngyVVByT2hvc1B5N1I5M2xBWFhzMXozQVJ0bkZaczBUYkdZRG9hUDFqQVJuRm8zaUROeWUxOEt6Wm5NbXZXNmoyWGxJR3hBU281Q2pta3NicTBpeHQ3cFJKR2Q5V253?oc=5",
-     "fecha": "2026-11-26T21:08:58.000Z",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ2Q3NmozMGRfNWhvaTRfVkVVT3ZrcjZBSFM2MXFrZlllc285Ym02Rk9wS2VRZDZYVWRBdzZwX0NwemFoOFVUX0h3YXlQaHg1Q0RMRnFmbWtkSklBXzJacVlIQlpBT1pScGhFQ1JGRVJ0Y1hBRDRTTUZYMll5bUE1Rk9aejYzLTd1WGxGejI1eUJtdFZUSnRkWGxKVDV5SnJ1MU1iemRtQ0d5S1VscWt4Y2NfQmwxU3dCTnRLbzRjYVZqTm9pd1pWcGdjZzFhbnlVa21UNG0teHdxTmlwaVlhcnZLeV8xS3pVQl9fOA?oc=5",
+     "fecha": "2026-11-26T21:08:25.000Z",
      "resumen": ""
     }
    ],
@@ -1059,6 +1079,26 @@
    ],
    "medios": [
     "Alcaldía de Santiago de Cali"
+   ]
+  },
+  {
+   "id": "2a385fc9c3d1",
+   "titular": "Al América se le apareció un ‘Ángel’ para vencer en el clásico al Deportivo Cali y ponerse líder del cuadrangular del Grupo B",
+   "region": "Cali y Valle",
+   "fecha": "2026-11-25T15:01:00.000Z",
+   "items": [
+    {
+     "id": "2a385fc9c3d1",
+     "fuente": "google-colombia",
+     "medio": "El País",
+     "titulo": "Al América se le apareció un ‘Ángel’ para vencer en el clásico al Deportivo Cali y ponerse líder del cuadrangular del Grupo B",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZGxGUjBydVB6XzB0eTdHM2tyMFJQaU84clJ4QjZkMC1CN0JtSkY4eklWYXNieHdCN3l0X1ZFUTBUVXF1cFF4TGd1X2t0eTA0eXZMU3JvTmVVaWEyeXBsTU8yNTR6X2RqcXkwQjVMZjhQVnNYYnlWRGkyLWZOT3VCaG9kckVQZDhZVmtBSzRIeTh6NFRLZXZ4VTBEX2ZqZzFLamJmeEp2WUt2andzbVJQWmFqYjllVDlGbW1MbzZCSWdhZzRTaEpxRVZHemdEYXV6VWhjeVZPakxzbWFGOWF1Q0V4Nm15YjhGV0szbEVkTU04RE1VRGozRUM5OUTSAYICQVVfeXFMUGN5M1VtNGIxcnhVLVprZ1NuZnEzazR0X2JGQ2E3S2lIamJaTFpMUHJjSmNQMEpPbFAyallIQTZoM0xqSk90VThOZkNrZzFoM0tNT0xZZmV2aFNOUHFNZktUY1Vqb2tTd18xTGo0MWNhQVhra0YyaFlUUVhoSnAyTFRLUnY4b05SUDdnY0pmTjBJUUJGUjljV1d1NjE5bWduR3dKVmZ1eC1ZUXNsb0ZCMFl4R0phUTJZNTRvWnRPM0RoeFVLSTNjX3FpRGtVYW1tck54dmRaUEI4ZnMzWUhIQVY1aWJiNnY2eGxvcVZjcEVQeWZTQ0o3TTdIQlpPMzRjQVBB?oc=5",
+     "fecha": "2026-11-25T15:01:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "El País"
    ]
   },
   {
@@ -2855,26 +2895,6 @@
    ],
    "medios": [
     "Caracol Radio"
-   ]
-  },
-  {
-   "id": "ed2974d8032f",
-   "titular": "Junior de Barranquilla negocia otro refuerzo para Jorge Bava: llegaría desde un rival directo",
-   "region": "Nacional",
-   "fecha": "2026-11-27T01:21:02.000Z",
-   "items": [
-    {
-     "id": "ed2974d8032f",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "Junior de Barranquilla negocia otro refuerzo para Jorge Bava: llegaría desde un rival directo",
-     "url": "https://www.semana.com/deportes/articulo/junior-de-barranquilla-negocia-otro-refuerzo-para-jorge-bava-llegaria-desde-un-rival-directo/202602/",
-     "fecha": "2026-11-27T01:21:02.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
    ]
   }
  ]

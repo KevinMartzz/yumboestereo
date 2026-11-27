@@ -2,7 +2,7 @@
 
 Este archivo lo escribe el recolector (`scripts/recolectar.mts`) en cada corrida. No lo edites a mano: para agregar una fuente, edita `data/fuentes.json`.
 
-Última revisión: **2026-11-27 03:50 UTC**
+Última revisión: **2026-11-27 03:54 UTC**
 
 | Medio | ¿Funciona? | Notas | Nota más reciente | RSS que se usa / motivo de la falla |
 |---|---|---|---|---|
@@ -27,11 +27,13 @@ Este archivo lo escribe el recolector (`scripts/recolectar.mts`) en cada corrida
 ```json
 {
   "pagina": "https://roquetest.dongee.com/radio_yumbo.php",
-  "revisado": "2026-11-27T03:50:18.499Z",
+  "revisado": "2026-11-27T03:54:24.774Z",
   "paginaEstado": 200,
-  "paginaTipo": "audio/mpeg",
+  "paginaTipo": "text/html",
   "recursos": [],
-  "fragmentos": [],
+  "fragmentos": [
+    "+!![]+!![]+!![])),x='wsidchk',D='pdata',N='https%3A%2F%2Froquetest.dongee.com%2Fradio_yumbo.php',v='/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f',j='failedChecks',H=Obj"
+  ],
   "candidatas": [],
   "pruebas": []
 }
