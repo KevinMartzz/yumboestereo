@@ -50,11 +50,51 @@ interface EstadoFuente {
 
 const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "@_", textNodeName: "#text" });
 
+const MAX_BYTES = 5_000_000;
+
+/** Solo cabeceras: para probar el streaming sin descargarlo. */
 async function pedir(url: string, extra: Record<string, string> = {}) {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), TIEMPO_MAX_MS);
   try {
     return await fetch(url, { headers: { "User-Agent": AGENTE, Accept: "*/*", ...extra }, signal: ctrl.signal, redirect: "follow" });
+  } finally {
+    clearTimeout(t);
+  }
+}
+
+/**
+ * Pide una URL y lee el cuerpo con límite de tiempo Y de tamaño. Sin esto, un
+ * servidor que entrega un stream sin fin (audio en vivo) deja colgado el script.
+ */
+async function pedirTexto(url: string, extra: Record<string, string> = {}) {
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), TIEMPO_MAX_MS);
+  try {
+    const r = await fetch(url, { headers: { "User-Agent": AGENTE, Accept: "*/*", ...extra }, signal: ctrl.signal, redirect: "follow" });
+    const tipo = r.headers.get("content-type") ?? "";
+    if (/^(audio|video)\//i.test(tipo)) {
+      await r.body?.cancel();
+      return { r, cuerpo: "", tipo };
+    }
+    const partes: Uint8Array[] = [];
+    let total = 0;
+    if (r.body) {
+      for await (const trozo of r.body as unknown as AsyncIterable<Uint8Array>) {
+        partes.push(trozo);
+        total += trozo.length;
+        if (total > MAX_BYTES) {
+          ctrl.abort();
+          throw new Error(`respuesta de más de ${MAX_BYTES / 1e6} MB`);
+        }
+      }
+    }
+    return { r, cuerpo: Buffer.concat(partes).toString("utf8"), tipo };
+  } catch (e) {
+    if (ctrl.signal.aborted && !(e instanceof Error && e.message.startsWith("respuesta"))) {
+      throw new Error(`sin respuesta completa en ${TIEMPO_MAX_MS / 1000} s`);
+    }
+    throw e;
   } finally {
     clearTimeout(t);
   }
@@ -119,9 +159,8 @@ function leerFeed(xml: string, f: Fuente): ItemNoticia[] {
 
 /** Busca <link rel="alternate" type="application/rss+xml"> en la página principal. */
 async function descubrir(inicio: string): Promise<string[]> {
-  const r = await pedir(inicio);
+  const { r, cuerpo: html } = await pedirTexto(inicio);
   if (!r.ok) return [];
-  const html = await r.text();
   const enlaces = [...html.matchAll(/<link\b[^>]*>/gi)]
     .map((m) => m[0])
     .filter((tag) => /rel=["']?alternate/i.test(tag) && /type=["']?application\/(rss|atom)\+xml/i.test(tag))
@@ -136,12 +175,12 @@ async function recolectarFuente(f: Fuente): Promise<{ estado: EstadoFuente; item
 
   const probar = async (url: string, descubierta: boolean) => {
     try {
-      const r = await pedir(url, { Accept: "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.5" });
+      const { r, cuerpo } = await pedirTexto(url, { Accept: "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.5" });
       if (!r.ok) {
         estado.intentos.push({ url, resultado: `HTTP ${r.status}` });
         return null;
       }
-      const items = leerFeed(await r.text(), f);
+      const items = leerFeed(cuerpo, f);
       if (!items.length) {
         estado.intentos.push({ url, resultado: "feed vacío" });
         return null;
@@ -176,9 +215,9 @@ async function recolectarFuente(f: Fuente): Promise<{ estado: EstadoFuente; item
 async function revisarSenal(pagina: string) {
   const salida: Record<string, unknown> = { pagina, revisado: new Date().toISOString() };
   try {
-    const r = await pedir(pagina);
+    const { r, cuerpo: html, tipo } = await pedirTexto(pagina);
     salida.paginaEstado = r.status;
-    const html = await r.text();
+    salida.paginaTipo = tipo;
     const urls = [...html.matchAll(/https?:\/\/[^\s"'<>()\\]+/g)].map((m) => m[0]);
     const candidatas = [
       ...new Set(
@@ -206,12 +245,11 @@ async function revisarSenal(pagina: string) {
       try {
         const origen = new URL(u).origin;
         for (const ruta of ["/status-json.xsl", "/stats?json=1"]) {
-          const s = await pedir(origen + ruta);
-          if (s.ok && /json/.test(s.headers.get("content-type") ?? "")) {
-            prueba.estadisticas = { url: origen + ruta, muestra: JSON.stringify(await s.json()).slice(0, 600) };
+          const { r: s, cuerpo, tipo } = await pedirTexto(origen + ruta);
+          if (s.ok && /json/.test(tipo)) {
+            prueba.estadisticas = { url: origen + ruta, muestra: cuerpo.slice(0, 600) };
             break;
           }
-          await s.body?.cancel();
         }
       } catch {
         // sin estadísticas públicas
