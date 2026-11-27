@@ -27,8 +27,9 @@ export interface Grupo {
 }
 
 const STOP = new Set(
-  "a al ante bajo con contra de del desde durante e el en entre esta este esto estos hacia hasta la las le les lo los mas más me mi muy no o os para pero por que qué se según ser si sí sin sobre su sus también tras un una uno unos unas y ya fue han ha son está están dice dijo así como cómo cuando donde quien quién tras hoy ayer este esta".split(
-    " ",
+  "a al ante bajo con contra de del desde durante e el en entre esta este esto estos hacia hasta la las le les lo los mas más me mi muy no o os para pero por que qué se según ser si sí sin sobre su sus también tras un una uno unos unas y ya fue han ha son está están dice dijo así como cómo cuando donde quien quién tras hoy ayer este esta".split(" ").concat(
+    // Palabras comunes en titulares que no identifican un hecho.
+    "hora horas ver canal donde dónde cuando cuándo fecha partido desde nuevo nueva nuevos nuevas todo toda todos todas debe saber ultimas últimas noticias revelo reveló revela año años proximo próximo deja dejó tras sera será seran serán puede pueden hace hacer quien quién cual cuál cuales cuáles video fotos minuto vivo envivo".split(" "),
   ),
 );
 
@@ -43,13 +44,17 @@ export function palabras(texto: string): string[] {
     .filter((p) => p.length > 2 && !STOP.has(p));
 }
 
-/** Parecido entre dos títulos: palabras compartidas sobre el título más corto (0 a 1). */
+/**
+ * Parecido entre dos títulos: palabras clave compartidas sobre el título más
+ * corto (0 a 1). Con menos de dos palabras en común no se consideran parecidos.
+ */
 export function parecido(a: string, b: string): number {
   const A = new Set(palabras(a));
   const B = new Set(palabras(b));
   if (!A.size || !B.size) return 0;
   let comunes = 0;
   for (const p of A) if (B.has(p)) comunes++;
+  if (comunes < 2) return 0;
   return comunes / Math.min(A.size, B.size);
 }
 
@@ -112,15 +117,19 @@ const PESO: Record<Region, number> = { Yumbo: 0, "Cali y Valle": 1, Nacional: 2 
  * Agrupa las notas del mismo hecho: misma URL, o títulos con al menos
  * `umbral` de palabras en común. Ordena por región (Yumbo primero) y fecha.
  */
-export function agrupar(items: ItemNoticia[], umbral = 0.6): Grupo[] {
+export function agrupar(items: ItemNoticia[], umbral = 0.5): Grupo[] {
   const grupos: { items: ItemNoticia[]; urls: Set<string> }[] = [];
   const orden = [...items].sort((a, b) => (b.fecha ?? "").localeCompare(a.fecha ?? ""));
 
   for (const it of orden) {
     const url = normalizarUrl(it.url);
-    const destino = grupos.find(
-      (g) => g.urls.has(url) || g.items.some((x) => parecido(x.titulo, it.titulo) >= umbral),
-    );
+    // Para entrar a un grupo, la nota debe parecerse mucho a alguna y, en
+    // promedio, al grupo entero: así no se encadenan hechos distintos.
+    const destino = grupos.find((g) => {
+      if (g.urls.has(url)) return true;
+      const p = g.items.map((x) => parecido(x.titulo, it.titulo));
+      return Math.max(...p) >= umbral && p.reduce((a, b) => a + b, 0) / p.length >= umbral / 2;
+    });
     if (destino) {
       if (destino.urls.has(url)) continue; // la misma nota repetida en dos RSS
       destino.items.push(it);

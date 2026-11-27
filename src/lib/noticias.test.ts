@@ -74,4 +74,17 @@ describe("agrupar", () => {
     expect(g[0].region).toBe("Yumbo");
     expect(g[1].region).toBe("Nacional");
   });
+
+  it("no encadena hechos distintos que comparten una palabra", () => {
+    const g = agrupar([
+      item("a", "América de Cali reveló sus convocados para medirse ante Millonarios", "https://a.com/a"),
+      item("b", "Millonarios vs América de Cali: duelo de líderes", "https://b.com/b"),
+      item("c", "Deportivo Cali vs Bucaramanga: duelo clave en el grupo B", "https://c.com/c"),
+    ]);
+    expect(g.find((x) => x.items.some((i) => i.id === "c"))!.items).toHaveLength(1);
+  });
+
+  it("ignora palabras genéricas de titulares", () => {
+    expect(parecido("Santa Fe vs Nacional: canal y hora para ver el partido", "Cali vs Bucaramanga: hora y dónde ver el partido")).toBeLessThan(0.5);
+  });
 });

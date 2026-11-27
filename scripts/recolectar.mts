@@ -142,6 +142,7 @@ function leerFeed(xml: string, f: Fuente): ItemNoticia[] {
 
   return crudos.slice(0, MAX_POR_FUENTE).flatMap((it) => {
     let titulo = limpiarHtml(texto(it.title), 300);
+    if (/^comentario en /i.test(titulo)) return [];
     const url = (texto(it.link) || enlaceAtom(it.link)).trim() || texto(it.guid);
     if (!titulo || !/^https?:\/\//.test(url)) return [];
     let medio = f.medio;
@@ -165,7 +166,8 @@ async function descubrir(inicio: string): Promise<string[]> {
     .map((m) => m[0])
     .filter((tag) => /rel=["']?alternate/i.test(tag) && /type=["']?application\/(rss|atom)\+xml/i.test(tag))
     .map((tag) => /href=["']([^"']+)["']/i.exec(tag)?.[1])
-    .filter((h): h is string => !!h)
+    // Los feeds de comentarios de lectores no son noticias.
+    .filter((h): h is string => !!h && !/comment/i.test(h))
     .map((h) => new URL(h.replace(/&amp;/g, "&"), inicio).toString());
   return [...new Set(enlaces)].slice(0, 4);
 }
@@ -218,7 +220,33 @@ async function revisarSenal(pagina: string) {
     const { r, cuerpo: html, tipo } = await pedirTexto(pagina);
     salida.paginaEstado = r.status;
     salida.paginaTipo = tipo;
-    const urls = [...html.matchAll(/https?:\/\/[^\s"'<>()\\]+/g)].map((m) => m[0]);
+    // Recursos que carga la página (iframes, scripts, audio), con rutas relativas resueltas.
+    const recursos = (doc: string, base: string) =>
+      [...doc.matchAll(/<(iframe|script|audio|source|embed|object)\b[^>]*?(?:src|data)=["']([^"']+)["']/gi)].map((m) => ({
+        etiqueta: m[1].toLowerCase(),
+        url: new URL(m[2].replace(/&amp;/g, "&"), base).toString(),
+      }));
+    const propios = recursos(html, pagina);
+    salida.recursos = propios.slice(0, 20);
+    // Busca también dentro de los iframes (un nivel) y de los scripts que no son librerías conocidas.
+    let textos = html;
+    for (const rec of propios.filter((x) => x.etiqueta === "iframe" || (x.etiqueta === "script" && !/(jquery|google|facebook|cloudflare|gtag|analytics|bootstrap|cdn)/i.test(x.url))).slice(0, 5)) {
+      try {
+        const { cuerpo } = await pedirTexto(rec.url);
+        textos += "\n" + cuerpo;
+        (salida.recursos as { url: string; etiqueta: string }[]).push(...recursos(cuerpo, rec.url).slice(0, 10));
+      } catch {
+        // recurso no disponible
+      }
+    }
+    // Fragmentos del código que mencionan el audio, para revisarlos a mano.
+    salida.fragmentos = [...textos.matchAll(/.{0,80}(stream|audio|\.mp3|\.aac|icecast|shoutcast|radio_|player).{0,80}/gi)]
+      .map((m) => m[0].replace(/\s+/g, " ").trim())
+      .slice(0, 15);
+    const urls = [
+      ...[...textos.matchAll(/https?:\/\/[^\s"'<>()\\]+/g)].map((m) => m[0]),
+      ...(salida.recursos as { url: string; etiqueta: string }[]).filter((x) => x.etiqueta === "audio" || x.etiqueta === "source").map((x) => x.url),
+    ];
     const candidatas = [
       ...new Set(
         urls.filter((u) =>
