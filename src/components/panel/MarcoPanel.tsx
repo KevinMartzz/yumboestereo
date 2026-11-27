@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { useEffect, useRef } from "react";
 import { Marca } from "@/components/Marco";
 import { cambiarRol, PERMISOS, reiniciarDemo, useDemo, type Rol } from "@/lib/store";
 
@@ -32,20 +33,33 @@ export function MarcoPanel({ children }: { children: React.ReactNode }) {
   const permitidas = PERMISOS[rol];
   const actual = seccionDeRuta(ruta);
   const pendientes = solicitudes.filter((s) => s.estado === "nueva").length + mensajes.filter((m) => !m.leido).length;
+  const menu = useRef<HTMLUListElement>(null);
+
+  // En el celular el menú se desplaza de lado: muestra siempre la sección activa.
+  useEffect(() => {
+    const activo = menu.current?.querySelector<HTMLElement>('[aria-current="page"]');
+    const lista = menu.current;
+    if (activo && lista && lista.scrollWidth > lista.clientWidth) {
+      lista.scrollLeft = activo.offsetLeft - (lista.clientWidth - activo.offsetWidth) / 2;
+    }
+  }, [actual]);
 
   return (
     <div className="min-h-screen bg-hoja">
       <div className="border-b border-linea bg-white">
-        <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-3 px-4 py-3">
+        <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-x-3 gap-y-2 px-4 py-3">
           <div className="flex items-center gap-4">
-            <Link href="/panel/" aria-label="Panel, resumen">
+            <Link href="/panel/">
               <Marca />
             </Link>
-            <span className="text-gris">Panel de la emisora</span>
+            <span className="hidden text-gris sm:inline">Panel de la emisora</span>
           </div>
-          <div className="flex flex-wrap items-center gap-3">
+          <Link href="/" className="font-bold text-monte underline underline-offset-4 sm:hidden">
+            Ver la web
+          </Link>
+          <div className="flex w-full items-center gap-3 sm:w-auto">
             <label className="flex items-center gap-2 text-sm">
-              <span className="font-bold">Ver como</span>
+              <span className="font-bold whitespace-nowrap">Ver como</span>
               <select
                 className="campo w-auto py-1.5"
                 value={rol}
@@ -62,16 +76,17 @@ export function MarcoPanel({ children }: { children: React.ReactNode }) {
             <span id="ayuda-rol" className="hidden text-sm text-gris md:inline">
               {ROLES.find((r) => r.valor === rol)?.ayuda}
             </span>
-            <Link href="/" className="btn btn-borde text-monte">
+            <Link href="/" className="btn btn-borde hidden text-monte sm:inline-flex">
               Ver la web
             </Link>
           </div>
         </div>
       </div>
 
-      <div className="mx-auto grid max-w-7xl gap-6 px-4 py-6 lg:grid-cols-[13rem_1fr]">
-        <nav aria-label="Secciones del panel">
-          <ul className="flex gap-1 overflow-x-auto lg:flex-col">
+      {/* minmax(0,1fr): sin esto, el menú que se desplaza de lado ensancha toda la página en el celular */}
+      <div className="mx-auto grid max-w-7xl grid-cols-[minmax(0,1fr)] gap-6 px-4 py-6 lg:grid-cols-[13rem_minmax(0,1fr)]">
+        <nav aria-label="Secciones del panel" className="min-w-0">
+          <ul ref={menu} className="-mx-4 flex gap-1 overflow-x-auto scroll-smooth px-4 pb-1 lg:mx-0 lg:flex-col lg:px-0">
             {SECCIONES.filter((s) => permitidas.includes(s.id)).map((s) => (
               <li key={s.id}>
                 <Link

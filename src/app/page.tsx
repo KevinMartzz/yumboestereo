@@ -29,7 +29,7 @@ export default function Inicio() {
       />
 
       <section className="sobre-oscuro bg-noche text-white">
-        <div className="mx-auto max-w-6xl px-4 pt-12 pb-6 sm:pt-16">
+        <div className="mx-auto max-w-6xl px-4 pt-4 pb-6 sm:pt-16">
           <div className="grid items-end gap-8 lg:grid-cols-[1fr_auto]">
             <AlAireAhora />
             <p className="hidden text-right lg:block" aria-hidden="true">

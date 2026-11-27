@@ -30,7 +30,8 @@ export function Dial() {
   }, [hora, pos]);
 
   return (
-    <div className="relative">
+    // Alto reservado desde el principio, para que el dial no empuje la página al aparecer.
+    <div className="relative min-h-[9.5rem]">
       <div
         ref={caja}
         className="overflow-x-auto pb-2 [scrollbar-color:rgba(255,255,255,.3)_transparent]"
@@ -95,7 +96,7 @@ export function Dial() {
           ) : null}
         </div>
       </div>
-      {!hora ? <p className="text-white/70">Cargando la programación de hoy…</p> : null}
+      {!hora ? <p className="absolute top-8 text-white/70">Cargando la programación de hoy…</p> : null}
     </div>
   );
 }

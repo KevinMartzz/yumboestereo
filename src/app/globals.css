@@ -1,6 +1,4 @@
 @import "tailwindcss";
-@import "@fontsource-variable/anybody/standard.css";
-@import "@fontsource-variable/atkinson-hyperlegible-next/index.css";
 
 /* Colores de la marca (los de la web actual) y tipografías propias de la propuesta. */
 @theme {
@@ -16,8 +14,8 @@
   --color-gris: #55655c;
   --color-linea: #cad5c7;
 
-  --font-display: "Anybody Variable", "Arial Narrow", sans-serif;
-  --font-sans: "Atkinson Hyperlegible Next Variable", system-ui, sans-serif;
+  --font-display: var(--fuente-anybody), "Arial Narrow", sans-serif;
+  --font-sans: var(--fuente-atkinson), system-ui, sans-serif;
 }
 
 @layer base {
@@ -36,8 +34,8 @@ body {
   font-size: 1.0625rem;
   line-height: 1.55;
   background: var(--color-papel);
-  /* espacio para la barra del reproductor */
-  padding-bottom: 5.5rem;
+  /* espacio para la barra del reproductor (y la barra de inicio del iPhone) */
+  padding-bottom: calc(5.5rem + env(safe-area-inset-bottom));
 }
 
 }

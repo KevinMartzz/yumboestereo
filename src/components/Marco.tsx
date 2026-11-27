@@ -18,8 +18,11 @@ const NAV = [
 export function FranjaDemo() {
   return (
     <div className="bg-amarillo px-4 py-1.5 text-center text-sm text-noche">
-      <strong>Demo de propuesta.</strong> El contenido es de ejemplo; los nombres de los programas y los
-      datos de contacto vienen de la web actual.{" "}
+      <strong>Demo de propuesta.</strong>{" "}
+      <span className="hidden sm:inline">
+        El contenido es de ejemplo; los nombres de los programas y los datos de contacto vienen de la web actual.
+      </span>
+      <span className="sm:hidden">Contenido de ejemplo.</span>{" "}
       <Link href="/panel/" className="font-bold underline underline-offset-2">
         Probar el panel
       </Link>
@@ -44,7 +47,7 @@ export function Encabezado() {
   return (
     <header className="border-b border-linea bg-hoja">
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3">
-        <Link href="/" aria-label="Yumbo Estéreo 107.0 FM, inicio">
+        <Link href="/">
           <Marca />
         </Link>
         <nav aria-label="Principal" className="hidden lg:block">

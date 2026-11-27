@@ -106,7 +106,7 @@ function TarjetaHecho({ h }: { h: Hecho }) {
       {abierto ? (
         <div className="border-t border-linea bg-papel p-5">
           <div className="flex flex-wrap items-center justify-between gap-3">
-            <div className="flex gap-1 rounded-full border border-linea bg-white p-1" role="group" aria-label="Duración del guion">
+            <div className="grid w-full grid-cols-3 gap-1 rounded-full border border-linea bg-white p-1 sm:w-auto" role="group" aria-label="Duración del guion">
               {DURACIONES.map((d) => (
                 <button
                   key={d}
@@ -116,9 +116,10 @@ function TarjetaHecho({ h }: { h: Hecho }) {
                     setDuracion(d);
                     setCopiado(false);
                   }}
-                  className="rounded-full px-4 py-1.5 font-bold aria-pressed:bg-monte aria-pressed:text-white"
+                  aria-label={`${d} segundos`}
+                  className="min-h-10 rounded-full px-3 py-1.5 font-bold whitespace-nowrap aria-pressed:bg-monte aria-pressed:text-white sm:px-4"
                 >
-                  {d} segundos
+                  {d} s<span className="hidden sm:inline">egundos</span>
                 </button>
               ))}
             </div>
@@ -240,11 +241,11 @@ export default function NoticiasIA() {
         persona.
       </TituloPanel>
 
-      <div className="mb-6 flex flex-wrap gap-1 rounded-full border border-linea bg-white p-1 sm:w-max" role="group" aria-label="Qué ver">
-        <button type="button" aria-pressed={pestana === "ultimo"} onClick={() => setPestana("ultimo")} className="rounded-full px-4 py-1.5 font-bold aria-pressed:bg-monte aria-pressed:text-white">
-          Lo último (automático)
+      <div className="mb-6 grid grid-cols-2 gap-1 rounded-2xl border border-linea bg-white p-1 sm:inline-grid sm:rounded-full" role="group" aria-label="Qué ver">
+        <button type="button" aria-pressed={pestana === "ultimo"} onClick={() => setPestana("ultimo")} className="min-h-11 rounded-xl px-3 py-1.5 leading-tight font-bold aria-pressed:bg-monte aria-pressed:text-white sm:rounded-full sm:px-4">
+          Lo último
         </button>
-        <button type="button" aria-pressed={pestana === "hechos"} onClick={() => setPestana("hechos")} className="rounded-full px-4 py-1.5 font-bold aria-pressed:bg-monte aria-pressed:text-white">
+        <button type="button" aria-pressed={pestana === "hechos"} onClick={() => setPestana("hechos")} className="min-h-11 rounded-xl px-3 py-1.5 leading-tight font-bold aria-pressed:bg-monte aria-pressed:text-white sm:rounded-full sm:px-4">
           Resúmenes y guiones
         </button>
       </div>
