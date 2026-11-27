@@ -16,9 +16,11 @@ export const emisora = {
   instagram: "https://www.instagram.com/yumboestereo107/", // real
   sitioOficial: "https://www.yumboestereo107.com",
 
-  // Falta la URL real del streaming (Icecast o Shoutcast). Mientras sea null,
-  // el reproductor usa un tono de prueba y lo dice en pantalla.
-  streamUrl: null as string | null,
+  // Señal real: es la misma que usa la web actual. El recolector encontró que
+  // radio_yumbo.php no es una página sino el audio (audio/mpeg), retransmitido
+  // por un script PHP en el hosting compartido: es la causa probable de que la señal se caiga.
+  // Si se pone en null, el reproductor usa un tono de prueba y lo dice en pantalla.
+  streamUrl: "https://roquetest.dongee.com/radio_yumbo.php" as string | null,
   // Si el servidor es Icecast, su status-json.xsl da "sonando ahora" y oyentes.
   metadatosUrl: null as string | null,
 

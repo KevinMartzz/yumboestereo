@@ -254,6 +254,8 @@ async function revisarSenal(pagina: string) {
         ),
       ),
     ].slice(0, 6);
+    // Si la "página" ya es audio, el stream es la página misma.
+    if (/^audio\//i.test(tipo)) candidatas.unshift(pagina);
     salida.candidatas = candidatas;
     salida.pruebas = [];
     for (const u of candidatas) {

@@ -75,7 +75,9 @@ function TarjetaHecho({ h }: { h: Hecho }) {
               a.tipo === "contradiccion" ? "border-vino bg-vino/5" : "border-amarillo bg-amarillo-suave/50"
             }`}
           >
-            <strong>{a.tipo === "contradiccion" ? "Las fuentes no coinciden. " : "Una sola fuente. "}</strong>
+            <strong>
+              {a.tipo === "contradiccion" ? "Las fuentes no coinciden. " : a.tipo === "fuente-unica" ? "Una sola fuente. " : "Faltan detalles. "}
+            </strong>
             {a.detalle}
           </p>
         ))}
@@ -132,7 +134,8 @@ function TarjetaHecho({ h }: { h: Hecho }) {
           </div>
           <p className="mt-4 max-w-3xl text-lg leading-relaxed">{guion}</p>
           <p className="mt-3 text-sm text-gris">
-            {palabras(guion)} palabras, unos {Math.round(palabras(guion) / 2.5)} segundos a ritmo de locución.
+            {palabras(guion)} palabras: entre {Math.round(palabras(guion) / 2.5)} y {Math.round(palabras(guion) / 2.2)} segundos,
+            según el ritmo de quien lo lea.
           </p>
         </div>
       ) : null}

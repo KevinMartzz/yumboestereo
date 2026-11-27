@@ -13,8 +13,9 @@ Prototipo navegable de la nueva web de Yumbo Estéreo, la emisora comunitaria de
 | Horarios, descripciones de programas | De ejemplo |
 | Locutores | Solo Leonardo Orozco es real; los demás son inventados y van marcados |
 | Noticias, clasificados, solicitudes | Ficticios y marcados |
-| Noticias con IA | Ficticias: medios inventados y enlaces a `example.com` |
-| Señal en vivo | Tono de prueba: falta la URL real del streaming |
+| Noticias con IA, «Lo último» | Reales: RSS de medios colombianos, cada 3 horas |
+| Noticias con IA, «Resúmenes y guiones» | Reales, del 26 de noviembre de 2026: 6 hechos procesados con IA a partir de esas fuentes (`public/datos/hechos.json`) |
+| Señal en vivo | Real: la misma URL que usa la web actual |
 
 ## Qué funciona y qué está simulado
 
@@ -30,7 +31,7 @@ Prototipo navegable de la nueva web de Yumbo Estéreo, la emisora comunitaria de
   - deshacer cambios desde el historial;
   - cambiar de rol (administrador, editor o comercial).
 - **Noticias reales, automáticas:** la pestaña «Lo último» del tablero muestra noticias reales. Un flujo de GitHub Actions (`.github/workflows/noticias.yml`) corre `scripts/recolectar.mts` cada 3 horas. El script lee los RSS de `data/fuentes.json`, agrupa las notas del mismo hecho sin IA (`src/lib/noticias.ts`, con pruebas), guarda el resultado en `public/datos/noticias.json` y vuelve a publicar la demo. El estado de cada fuente queda en `docs/fuentes-noticias.md`.
-- **Preparado de antemano:** la pestaña «Resúmenes y guiones». Los hechos agrupados, los resúmenes con fuentes, las alertas de fuente única o de contradicción y los guiones de 30, 60 y 90 s están escritos de antemano. En la versión real los genera la API de Claude a partir de los RSS.
+- **Foto de un día:** la pestaña «Resúmenes y guiones» tiene 6 hechos reales del 26 de noviembre. Están escritos solo con lo que dicen las fuentes enlazadas, y marcan cuando las cifras no coinciden, cuando hay una sola fuente o cuando faltan detalles. No se actualizan solos: eso requiere la clave de la API de Claude en GitHub (fase siguiente).
 
 ## Correrlo en local
 
@@ -54,7 +55,7 @@ La demo le pide a Google que no la indexe (`noindex` y `robots.txt`), para que n
 
 ## Cómo cambiar el contenido base
 
-- **Señal en vivo:** `src/data/emisora.ts` → `streamUrl` (debe ser HTTPS). Si el servidor es Icecast, también `metadatosUrl` (su `status-json.xsl`) para mostrar «Sonando ahora».
+- **Señal en vivo:** `src/data/emisora.ts` → `streamUrl` (debe ser HTTPS). Hoy apunta a `roquetest.dongee.com/radio_yumbo.php`, que es un script PHP del hosting compartido que retransmite el audio: es la causa probable de que la señal se caiga. Lo recomendable es que la emisora use directamente la URL de su servidor Icecast o Shoutcast. Si el servidor es Icecast, también `metadatosUrl` (su `status-json.xsl`) para mostrar «Sonando ahora».
 - **Programas:** `src/data/programas.ts`.
 - **Horarios:** `src/data/horarios.ts`.
 - **Locutores:** `src/data/locutores.ts`.
@@ -76,7 +77,7 @@ src/lib/store.ts    almacén de la demo (localStorage + historial)
 
 ## Lo que falta de parte de la emisora
 
-- La URL real del streaming, y si da metadatos y estadísticas de oyentes.
+- La URL directa del servidor de streaming (Icecast o Shoutcast), no la del script PHP, y si da metadatos y estadísticas de oyentes.
 - El logo en alta, los colores oficiales y las fotos de los locutores.
 - La parrilla real con horarios, y quién conduce cada programa.
 - Las tarifas o paquetes de pauta y de clasificados, si quieren mostrarlos.

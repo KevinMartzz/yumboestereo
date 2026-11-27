@@ -17,7 +17,7 @@ export interface FuenteHecho {
 }
 
 export interface Alerta {
-  tipo: "fuente-unica" | "contradiccion";
+  tipo: "fuente-unica" | "contradiccion" | "falta-detalle";
   detalle: string;
 }
 
