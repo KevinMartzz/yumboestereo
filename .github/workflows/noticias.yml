@@ -1,0 +1,47 @@
+name: Recolectar noticias
+
+# Lee los RSS de los medios (GitHub sí tiene internet abierto), agrupa las notas
+# y guarda el resultado en el repo. Después, "Publicar demo" vuelve a publicar.
+on:
+  schedule:
+    - cron: "17 */3 * * *" # cada 3 horas
+  workflow_dispatch:
+  push:
+    branches: ["claude/**"]
+    paths:
+      - scripts/recolectar.mts
+      - data/fuentes.json
+      - src/lib/noticias.ts
+      - .github/workflows/noticias.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noticias-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  recolectar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: node --experimental-strip-types scripts/recolectar.mts
+      - name: Guardar resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/datos/noticias.json data/generado docs/fuentes-noticias.md
+          if git diff --cached --quiet; then
+            echo "Sin cambios"
+          else
+            git commit -m "Noticias recolectadas $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi

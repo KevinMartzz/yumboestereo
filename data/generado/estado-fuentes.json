@@ -1,0 +1,289 @@
+{
+  "generado": "2026-11-27T03:54:24.524Z",
+  "fuentes": [
+    {
+      "id": "google-yumbo",
+      "medio": "Google News: Yumbo",
+      "tipo": "agregador",
+      "ok": true,
+      "url": "https://news.google.com/rss/search?q=Yumbo&hl=es-419&gl=CO&ceid=CO:es-419",
+      "descubierta": false,
+      "notas": 40,
+      "ultima": "2026-11-26T22:46:00.000Z",
+      "intentos": [
+        {
+          "url": "https://news.google.com/rss/search?q=Yumbo&hl=es-419&gl=CO&ceid=CO:es-419",
+          "resultado": "ok, 40 notas"
+        }
+      ]
+    },
+    {
+      "id": "google-cali-valle",
+      "medio": "Google News: Cali y Valle",
+      "tipo": "agregador",
+      "ok": true,
+      "url": "https://news.google.com/rss/search?q=Cali+OR+%22Valle+del+Cauca%22&hl=es-419&gl=CO&ceid=CO:es-419",
+      "descubierta": false,
+      "notas": 40,
+      "ultima": "2026-11-27T03:35:44.000Z",
+      "intentos": [
+        {
+          "url": "https://news.google.com/rss/search?q=Cali+OR+%22Valle+del+Cauca%22&hl=es-419&gl=CO&ceid=CO:es-419",
+          "resultado": "ok, 40 notas"
+        }
+      ]
+    },
+    {
+      "id": "google-colombia",
+      "medio": "Google News: Colombia",
+      "tipo": "agregador",
+      "ok": true,
+      "url": "https://news.google.com/rss?hl=es-419&gl=CO&ceid=CO:es-419",
+      "descubierta": false,
+      "notas": 33,
+      "ultima": "2026-11-27T03:10:03.000Z",
+      "intentos": [
+        {
+          "url": "https://news.google.com/rss?hl=es-419&gl=CO&ceid=CO:es-419",
+          "resultado": "ok, 33 notas"
+        }
+      ]
+    },
+    {
+      "id": "elpais-cali",
+      "medio": "El País Cali",
+      "tipo": "regional",
+      "ok": true,
+      "url": "https://www.elpais.com.co/arc/outboundfeeds/rss/?outputType=xml",
+      "descubierta": false,
+      "notas": 40,
+      "ultima": "2026-11-27T03:02:38.000Z",
+      "intentos": [
+        {
+          "url": "https://www.elpais.com.co/arc/outboundfeeds/rss/?outputType=xml",
+          "resultado": "ok, 40 notas"
+        }
+      ]
+    },
+    {
+      "id": "90minutos",
+      "medio": "90 Minutos",
+      "tipo": "regional",
+      "ok": true,
+      "url": "https://90minutos.co/feed/",
+      "descubierta": false,
+      "notas": 12,
+      "ultima": "2026-11-26T23:10:58.000Z",
+      "intentos": [
+        {
+          "url": "https://90minutos.co/feed/",
+          "resultado": "ok, 12 notas"
+        }
+      ]
+    },
+    {
+      "id": "eltiempo",
+      "medio": "El Tiempo",
+      "tipo": "nacional",
+      "ok": true,
+      "url": "https://www.eltiempo.com/rss/colombia.xml",
+      "descubierta": false,
+      "notas": 10,
+      "ultima": "2026-11-27T03:29:38.000Z",
+      "intentos": [
+        {
+          "url": "https://www.eltiempo.com/rss/colombia.xml",
+          "resultado": "ok, 10 notas"
+        }
+      ]
+    },
+    {
+      "id": "elespectador",
+      "medio": "El Espectador",
+      "tipo": "nacional",
+      "ok": true,
+      "url": "https://www.elespectador.com/arc/outboundfeeds/discover/",
+      "descubierta": true,
+      "notas": 20,
+      "ultima": "2026-11-27T02:57:17.000Z",
+      "intentos": [
+        {
+          "url": "https://www.elespectador.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml",
+          "resultado": "HTTP 404"
+        },
+        {
+          "url": "https://www.elespectador.com/arc/outboundfeeds/rss/?outputType=xml",
+          "resultado": "feed vacío"
+        },
+        {
+          "url": "https://www.elespectador.com/feed/",
+          "resultado": "feed vacío"
+        },
+        {
+          "url": "https://www.elespectador.com/arc/outboundfeeds/discover/",
+          "resultado": "ok, 20 notas"
+        }
+      ]
+    },
+    {
+      "id": "semana",
+      "medio": "Semana",
+      "tipo": "nacional",
+      "ok": true,
+      "url": "https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml",
+      "descubierta": false,
+      "notas": 40,
+      "ultima": "2026-11-27T03:44:33.000Z",
+      "intentos": [
+        {
+          "url": "https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml",
+          "resultado": "ok, 40 notas"
+        }
+      ]
+    },
+    {
+      "id": "caracol",
+      "medio": "Caracol Radio",
+      "tipo": "nacional",
+      "ok": true,
+      "url": "https://caracol.com.co/arc/outboundfeeds/rss/?outputType=xml",
+      "descubierta": false,
+      "notas": 40,
+      "ultima": "2026-11-27T03:15:00.000Z",
+      "intentos": [
+        {
+          "url": "https://caracol.com.co/arc/outboundfeeds/rss/?outputType=xml",
+          "resultado": "ok, 40 notas"
+        }
+      ]
+    },
+    {
+      "id": "bluradio",
+      "medio": "Blu Radio",
+      "tipo": "nacional",
+      "ok": false,
+      "url": null,
+      "descubierta": false,
+      "notas": 0,
+      "ultima": null,
+      "intentos": [
+        {
+          "url": "https://www.bluradio.com/arc/outboundfeeds/rss/?outputType=xml",
+          "resultado": "HTTP 404"
+        },
+        {
+          "url": "https://www.bluradio.com/index.atom",
+          "resultado": "Maximum nested tags exceeded"
+        }
+      ]
+    },
+    {
+      "id": "lafm",
+      "medio": "La FM",
+      "tipo": "nacional",
+      "ok": false,
+      "url": null,
+      "descubierta": false,
+      "notas": 0,
+      "ultima": null,
+      "intentos": [
+        {
+          "url": "https://www.lafm.com.co/arc/outboundfeeds/rss/?outputType=xml",
+          "resultado": "HTTP 404"
+        },
+        {
+          "url": "https://www.lafm.com.co/",
+          "resultado": "la página no anuncia RSS"
+        }
+      ]
+    },
+    {
+      "id": "rcnradio",
+      "medio": "RCN Radio",
+      "tipo": "nacional",
+      "ok": false,
+      "url": null,
+      "descubierta": false,
+      "notas": 0,
+      "ultima": null,
+      "intentos": [
+        {
+          "url": "https://www.rcnradio.com/feed",
+          "resultado": "no es un RSS/Atom"
+        },
+        {
+          "url": "https://www.rcnradio.com/rss.xml",
+          "resultado": "no es un RSS/Atom"
+        },
+        {
+          "url": "https://www.rcnradio.com/",
+          "resultado": "la página no anuncia RSS"
+        }
+      ]
+    },
+    {
+      "id": "infobae-colombia",
+      "medio": "Infobae Colombia",
+      "tipo": "nacional",
+      "ok": true,
+      "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml",
+      "descubierta": false,
+      "notas": 40,
+      "ultima": "2026-11-27T03:46:45.000Z",
+      "intentos": [
+        {
+          "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml",
+          "resultado": "ok, 40 notas"
+        }
+      ]
+    },
+    {
+      "id": "elcolombiano",
+      "medio": "El Colombiano",
+      "tipo": "nacional",
+      "ok": false,
+      "url": null,
+      "descubierta": false,
+      "notas": 0,
+      "ultima": null,
+      "intentos": [
+        {
+          "url": "https://www.elcolombiano.com/arc/outboundfeeds/rss/?outputType=xml",
+          "resultado": "HTTP 404"
+        },
+        {
+          "url": "https://www.elcolombiano.com/",
+          "resultado": "la página no anuncia RSS"
+        }
+      ]
+    },
+    {
+      "id": "larepublica",
+      "medio": "La República",
+      "tipo": "economía",
+      "ok": true,
+      "url": "https://www.larepublica.co/rss/",
+      "descubierta": false,
+      "notas": 40,
+      "ultima": "2026-11-27T01:55:24.000Z",
+      "intentos": [
+        {
+          "url": "https://www.larepublica.co/rss/",
+          "resultado": "ok, 40 notas"
+        }
+      ]
+    }
+  ],
+  "senal": {
+    "pagina": "https://roquetest.dongee.com/radio_yumbo.php",
+    "revisado": "2026-11-27T03:54:24.774Z",
+    "paginaEstado": 200,
+    "paginaTipo": "text/html",
+    "recursos": [],
+    "fragmentos": [
+      "+!![]+!![]+!![])),x='wsidchk',D='pdata',N='https%3A%2F%2Froquetest.dongee.com%2Fradio_yumbo.php',v='/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f',j='failedChecks',H=Obj"
+    ],
+    "candidatas": [],
+    "pruebas": []
+  }
+}
