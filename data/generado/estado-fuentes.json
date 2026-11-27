@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-27T03:47:14.598Z",
+  "generado": "2026-11-27T03:50:18.299Z",
   "fuentes": [
     {
       "id": "google-yumbo",
@@ -89,7 +89,7 @@
       "url": "https://www.eltiempo.com/rss/colombia.xml",
       "descubierta": false,
       "notas": 10,
-      "ultima": "2026-11-27T03:36:10.000Z",
+      "ultima": "2026-11-27T03:29:38.000Z",
       "intentos": [
         {
           "url": "https://www.eltiempo.com/rss/colombia.xml",
@@ -102,10 +102,10 @@
       "medio": "El Espectador",
       "tipo": "nacional",
       "ok": true,
-      "url": "https://www.elespectador.com/comments/feed/",
+      "url": "https://www.elespectador.com/arc/outboundfeeds/discover/",
       "descubierta": true,
-      "notas": 10,
-      "ultima": "2026-11-27T02:59:06.000Z",
+      "notas": 20,
+      "ultima": "2026-11-27T02:57:17.000Z",
       "intentos": [
         {
           "url": "https://www.elespectador.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml",
@@ -120,8 +120,8 @@
           "resultado": "feed vacío"
         },
         {
-          "url": "https://www.elespectador.com/comments/feed/",
-          "resultado": "ok, 10 notas"
+          "url": "https://www.elespectador.com/arc/outboundfeeds/discover/",
+          "resultado": "ok, 20 notas"
         }
       ]
     },
@@ -133,7 +133,7 @@
       "url": "https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-27T03:34:24.000Z",
+      "ultima": "2026-11-27T03:44:33.000Z",
       "intentos": [
         {
           "url": "https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml",
@@ -229,7 +229,7 @@
       "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-27T03:24:14.000Z",
+      "ultima": "2026-11-27T03:46:45.000Z",
       "intentos": [
         {
           "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml",
@@ -276,9 +276,11 @@
   ],
   "senal": {
     "pagina": "https://roquetest.dongee.com/radio_yumbo.php",
-    "revisado": "2026-11-27T03:47:14.836Z",
+    "revisado": "2026-11-27T03:50:18.499Z",
     "paginaEstado": 200,
-    "paginaTipo": "text/html",
+    "paginaTipo": "audio/mpeg",
+    "recursos": [],
+    "fragmentos": [],
     "candidatas": [],
     "pruebas": []
   }

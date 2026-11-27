@@ -2,7 +2,7 @@
 
 Este archivo lo escribe el recolector (`scripts/recolectar.mts`) en cada corrida. No lo edites a mano: para agregar una fuente, edita `data/fuentes.json`.
 
-Última revisión: **2026-11-27 03:47 UTC**
+Última revisión: **2026-11-27 03:50 UTC**
 
 | Medio | ¿Funciona? | Notas | Nota más reciente | RSS que se usa / motivo de la falla |
 |---|---|---|---|---|
@@ -11,14 +11,14 @@ Este archivo lo escribe el recolector (`scripts/recolectar.mts`) en cada corrida
 | Google News: Colombia | Sí | 33 | 2026-11-27 03:10 UTC | `https://news.google.com/rss?hl=es-419&gl=CO&ceid=CO:es-419` |
 | El País Cali | Sí | 40 | 2026-11-27 03:02 UTC | `https://www.elpais.com.co/arc/outboundfeeds/rss/?outputType=xml` |
 | 90 Minutos | Sí | 12 | 2026-11-26 23:10 UTC | `https://90minutos.co/feed/` |
-| El Tiempo | Sí | 10 | 2026-11-27 03:36 UTC | `https://www.eltiempo.com/rss/colombia.xml` |
-| El Espectador | Sí | 10 | 2026-11-27 02:59 UTC | `https://www.elespectador.com/comments/feed/` (encontrada en la página) |
-| Semana | Sí | 40 | 2026-11-27 03:34 UTC | `https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml` |
+| El Tiempo | Sí | 10 | 2026-11-27 03:29 UTC | `https://www.eltiempo.com/rss/colombia.xml` |
+| El Espectador | Sí | 20 | 2026-11-27 02:57 UTC | `https://www.elespectador.com/arc/outboundfeeds/discover/` (encontrada en la página) |
+| Semana | Sí | 40 | 2026-11-27 03:44 UTC | `https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml` |
 | Caracol Radio | Sí | 40 | 2026-11-27 03:15 UTC | `https://caracol.com.co/arc/outboundfeeds/rss/?outputType=xml` |
 | Blu Radio | No | - | - | HTTP 404; Maximum nested tags exceeded |
 | La FM | No | - | - | HTTP 404; la página no anuncia RSS |
 | RCN Radio | No | - | - | no es un RSS/Atom; no es un RSS/Atom; la página no anuncia RSS |
-| Infobae Colombia | Sí | 40 | 2026-11-27 03:24 UTC | `https://www.infobae.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml` |
+| Infobae Colombia | Sí | 40 | 2026-11-27 03:46 UTC | `https://www.infobae.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml` |
 | El Colombiano | No | - | - | HTTP 404; la página no anuncia RSS |
 | La República | Sí | 40 | 2026-11-27 01:55 UTC | `https://www.larepublica.co/rss/` |
 
@@ -27,9 +27,11 @@ Este archivo lo escribe el recolector (`scripts/recolectar.mts`) en cada corrida
 ```json
 {
   "pagina": "https://roquetest.dongee.com/radio_yumbo.php",
-  "revisado": "2026-11-27T03:47:14.836Z",
+  "revisado": "2026-11-27T03:50:18.499Z",
   "paginaEstado": 200,
-  "paginaTipo": "text/html",
+  "paginaTipo": "audio/mpeg",
+  "recursos": [],
+  "fragmentos": [],
   "candidatas": [],
   "pruebas": []
 }
