@@ -1,10 +1,11 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { LoUltimo } from "@/components/panel/LoUltimo";
 import { Aviso, TituloPanel } from "@/components/panel/MarcoPanel";
-import { hechosEjemplo, TEMAS_IA, type Hecho, type Prioridad } from "@/data/hechos-ia";
-import { fechaHora } from "@/lib/formato";
+import { hechosEjemplo, type Hecho, type Prioridad } from "@/data/hechos-ia";
+import { conBase, fechaHora } from "@/lib/formato";
 import { cambiar, nuevoId, useDemo } from "@/lib/store";
 
 const REGIONES: (Prioridad | "Todas")[] = ["Todas", "Yumbo", "Cali y Valle", "Nacional"];
@@ -139,7 +140,7 @@ function TarjetaHecho({ h }: { h: Hecho }) {
   );
 }
 
-export default function NoticiasIA() {
+function HechosConGuion({ hechos, real, generado }: { hechos: Hecho[]; real: boolean; generado: string | null }) {
   const [region, setRegion] = useState<(typeof REGIONES)[number]>("Todas");
   const [tema, setTema] = useState<string>("Todos");
   const [busqueda, setBusqueda] = useState("");
@@ -147,7 +148,7 @@ export default function NoticiasIA() {
   const q = busqueda.trim().toLowerCase();
   // Prioridad: Yumbo, luego Cali y el Valle, luego el resto del país; dentro de cada una, lo más reciente.
   const peso: Record<Prioridad, number> = { Yumbo: 0, "Cali y Valle": 1, Nacional: 2 };
-  const lista = hechosEjemplo
+  const lista = hechos
     .filter((h) => region === "Todas" || h.region === region)
     .filter((h) => tema === "Todos" || h.tema === tema)
     .filter((h) => !q || `${h.titular} ${h.resumen} ${h.fuentes.map((f) => f.medio).join(" ")}`.toLowerCase().includes(q))
@@ -155,17 +156,19 @@ export default function NoticiasIA() {
 
   return (
     <>
-      <TituloPanel titulo="Noticias con IA">
-        Lo importante del día en Yumbo, el Valle y el país, agrupado por hecho. Cada resumen cita sus fuentes. Nada se
-        publica solo: pasa a borrador y lo revisa una persona.
-      </TituloPanel>
-
       <div className="mb-5">
-        <Aviso>
-          <strong>Datos de demostración.</strong> Los medios y las noticias son ficticios y los enlaces van a
-          example.com. En la versión real, el sistema revisa los RSS de los medios cada 15 a 30 minutos y la IA
-          escribe los resúmenes y guiones usando solo lo que dicen las fuentes.
-        </Aviso>
+        {real ? (
+          <Aviso>
+            <strong>Hechos reales del {generado ? fechaHora(generado) : ""}, procesados con IA.</strong> Los resúmenes y
+            guiones se escribieron solo con lo que dicen las fuentes enlazadas. Es una foto de ese momento: en la versión
+            real se actualizan solos.
+          </Aviso>
+        ) : (
+          <Aviso>
+            <strong>Datos de demostración.</strong> Los medios y las noticias de esta pestaña son ficticios y los enlaces
+            van a example.com. Las noticias reales están en «Lo último».
+          </Aviso>
+        )}
       </div>
 
       <div className="mb-6 grid gap-4 rounded-xl border border-linea bg-white p-4 md:grid-cols-[1fr_auto_auto]">
@@ -190,7 +193,7 @@ export default function NoticiasIA() {
         <label>
           <span className="etiqueta">Tema</span>
           <select className="campo" value={tema} onChange={(e) => setTema(e.target.value)}>
-            {["Todos", ...TEMAS_IA].map((t) => (
+            {["Todos", ...new Set(hechos.map((h) => h.tema))].map((t) => (
               <option key={t}>{t}</option>
             ))}
           </select>
@@ -198,7 +201,7 @@ export default function NoticiasIA() {
       </div>
 
       <p className="mb-3 text-sm text-gris" aria-live="polite">
-        {lista.length} {lista.length === 1 ? "hecho" : "hechos"}. Última revisión de fuentes: hoy, 8:15 a. m. (ejemplo).
+        {lista.length} {lista.length === 1 ? "hecho" : "hechos"}.
       </p>
       {lista.length ? (
         <ul className="space-y-4">
@@ -210,6 +213,49 @@ export default function NoticiasIA() {
         <p className="rounded-xl border border-linea bg-white p-6 text-gris">
           No hay hechos con esos filtros. Prueba con otra región o borra la búsqueda.
         </p>
+      )}
+    </>
+  );
+}
+
+export default function NoticiasIA() {
+  const [pestana, setPestana] = useState<"ultimo" | "hechos">("ultimo");
+  const [reales, setReales] = useState<{ generado: string; hechos: Hecho[] } | null>(null);
+
+  // Hechos reales procesados con IA, si ya existen; si no, se muestran los de ejemplo.
+  useEffect(() => {
+    fetch(conBase("/datos/hechos.json"), { cache: "no-store" })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => d?.hechos?.length && setReales(d))
+      .catch(() => {});
+  }, []);
+
+  return (
+    <>
+      <TituloPanel titulo="Noticias con IA">
+        Lo importante del día en Yumbo, el Valle y el país. Nada se publica solo: todo pasa a borrador y lo revisa una
+        persona.
+      </TituloPanel>
+
+      <div className="mb-6 flex flex-wrap gap-1 rounded-full border border-linea bg-white p-1 sm:w-max" role="group" aria-label="Qué ver">
+        <button type="button" aria-pressed={pestana === "ultimo"} onClick={() => setPestana("ultimo")} className="rounded-full px-4 py-1.5 font-bold aria-pressed:bg-monte aria-pressed:text-white">
+          Lo último (automático)
+        </button>
+        <button type="button" aria-pressed={pestana === "hechos"} onClick={() => setPestana("hechos")} className="rounded-full px-4 py-1.5 font-bold aria-pressed:bg-monte aria-pressed:text-white">
+          Resúmenes y guiones
+        </button>
+      </div>
+
+      {pestana === "ultimo" ? (
+        <>
+          <p className="mb-4 max-w-3xl text-gris">
+            Noticias reales de los RSS de medios colombianos y Google News, recolectadas cada 3 horas y agrupadas por hecho.
+            Esta parte no usa IA.
+          </p>
+          <LoUltimo />
+        </>
+      ) : (
+        <HechosConGuion hechos={reales?.hechos ?? hechosEjemplo} real={!!reales} generado={reales?.generado ?? null} />
       )}
     </>
   );

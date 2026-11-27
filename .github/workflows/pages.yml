@@ -3,6 +3,11 @@ name: Publicar demo en GitHub Pages
 on:
   push:
     branches: [main]
+  # Vuelve a publicar cuando el recolector guarda noticias nuevas en main.
+  workflow_run:
+    workflows: ["Recolectar noticias"]
+    types: [completed]
+    branches: [main]
   workflow_dispatch:
 
 permissions:

@@ -1,0 +1,114 @@
+{
+  "_nota": "Fuentes candidatas. Las direcciones de RSS NO están verificadas a mano: el recolector prueba cada una en orden y, si ninguna responde, busca el RSS que el medio anuncia en su página principal (<link rel=alternate>). El resultado de cada corrida queda en data/generado/estado-fuentes.json y en docs/fuentes-noticias.md.",
+  "fuentes": [
+    {
+      "id": "google-yumbo",
+      "medio": "Google News: Yumbo",
+      "tipo": "agregador",
+      "candidatas": ["https://news.google.com/rss/search?q=Yumbo&hl=es-419&gl=CO&ceid=CO:es-419"]
+    },
+    {
+      "id": "google-cali-valle",
+      "medio": "Google News: Cali y Valle",
+      "tipo": "agregador",
+      "candidatas": ["https://news.google.com/rss/search?q=Cali+OR+%22Valle+del+Cauca%22&hl=es-419&gl=CO&ceid=CO:es-419"]
+    },
+    {
+      "id": "google-colombia",
+      "medio": "Google News: Colombia",
+      "tipo": "agregador",
+      "candidatas": ["https://news.google.com/rss?hl=es-419&gl=CO&ceid=CO:es-419"]
+    },
+    {
+      "id": "elpais-cali",
+      "medio": "El País Cali",
+      "tipo": "regional",
+      "inicio": "https://www.elpais.com.co/",
+      "candidatas": ["https://www.elpais.com.co/arc/outboundfeeds/rss/?outputType=xml", "https://www.elpais.com.co/rss"]
+    },
+    {
+      "id": "90minutos",
+      "medio": "90 Minutos",
+      "tipo": "regional",
+      "inicio": "https://90minutos.co/",
+      "candidatas": ["https://90minutos.co/feed/"]
+    },
+    {
+      "id": "eltiempo",
+      "medio": "El Tiempo",
+      "tipo": "nacional",
+      "inicio": "https://www.eltiempo.com/",
+      "candidatas": ["https://www.eltiempo.com/rss/colombia.xml", "https://www.eltiempo.com/rss/colombia_cali.xml"]
+    },
+    {
+      "id": "elespectador",
+      "medio": "El Espectador",
+      "tipo": "nacional",
+      "inicio": "https://www.elespectador.com/",
+      "candidatas": [
+        "https://www.elespectador.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml",
+        "https://www.elespectador.com/arc/outboundfeeds/rss/?outputType=xml"
+      ]
+    },
+    {
+      "id": "semana",
+      "medio": "Semana",
+      "tipo": "nacional",
+      "inicio": "https://www.semana.com/",
+      "candidatas": ["https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml"]
+    },
+    {
+      "id": "caracol",
+      "medio": "Caracol Radio",
+      "tipo": "nacional",
+      "inicio": "https://caracol.com.co/",
+      "candidatas": ["https://caracol.com.co/arc/outboundfeeds/rss/?outputType=xml"]
+    },
+    {
+      "id": "bluradio",
+      "medio": "Blu Radio",
+      "tipo": "nacional",
+      "inicio": "https://www.bluradio.com/",
+      "candidatas": ["https://www.bluradio.com/arc/outboundfeeds/rss/?outputType=xml"]
+    },
+    {
+      "id": "lafm",
+      "medio": "La FM",
+      "tipo": "nacional",
+      "inicio": "https://www.lafm.com.co/",
+      "candidatas": ["https://www.lafm.com.co/arc/outboundfeeds/rss/?outputType=xml"]
+    },
+    {
+      "id": "rcnradio",
+      "medio": "RCN Radio",
+      "tipo": "nacional",
+      "inicio": "https://www.rcnradio.com/",
+      "candidatas": ["https://www.rcnradio.com/feed", "https://www.rcnradio.com/rss.xml"]
+    },
+    {
+      "id": "infobae-colombia",
+      "medio": "Infobae Colombia",
+      "tipo": "nacional",
+      "inicio": "https://www.infobae.com/colombia/",
+      "candidatas": ["https://www.infobae.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml"]
+    },
+    {
+      "id": "elcolombiano",
+      "medio": "El Colombiano",
+      "tipo": "nacional",
+      "inicio": "https://www.elcolombiano.com/",
+      "candidatas": ["https://www.elcolombiano.com/arc/outboundfeeds/rss/?outputType=xml"]
+    },
+    {
+      "id": "larepublica",
+      "medio": "La República",
+      "tipo": "economía",
+      "inicio": "https://www.larepublica.co/",
+      "candidatas": ["https://www.larepublica.co/rss/"]
+    }
+  ],
+  "senal": {
+    "_nota": "Página del reproductor de la web actual. El recolector busca ahí la URL del streaming y revisa si responde y si da metadatos (Icecast/Shoutcast).",
+    "pagina": "https://roquetest.dongee.com/radio_yumbo.php"
+  }
+}

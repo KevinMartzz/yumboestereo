@@ -29,7 +29,8 @@ Prototipo navegable de la nueva web de Yumbo Estéreo, la emisora comunitaria de
   - recibir los formularios en una bandeja;
   - deshacer cambios desde el historial;
   - cambiar de rol (administrador, editor o comercial).
-- **Preparado de antemano:** el tablero de noticias con IA. Los hechos agrupados, los resúmenes con fuentes, las alertas de fuente única o de contradicción y los guiones de 30, 60 y 90 s están escritos de antemano. En la versión real los genera la API de Claude a partir de los RSS.
+- **Noticias reales, automáticas:** la pestaña «Lo último» del tablero muestra noticias reales. Un flujo de GitHub Actions (`.github/workflows/noticias.yml`) corre `scripts/recolectar.mts` cada 3 horas. El script lee los RSS de `data/fuentes.json`, agrupa las notas del mismo hecho sin IA (`src/lib/noticias.ts`, con pruebas), guarda el resultado en `public/datos/noticias.json` y vuelve a publicar la demo. El estado de cada fuente queda en `docs/fuentes-noticias.md`.
+- **Preparado de antemano:** la pestaña «Resúmenes y guiones». Los hechos agrupados, los resúmenes con fuentes, las alertas de fuente única o de contradicción y los guiones de 30, 60 y 90 s están escritos de antemano. En la versión real los genera la API de Claude a partir de los RSS.
 
 ## Correrlo en local
 
@@ -38,7 +39,8 @@ Requiere Node 22.
 ```bash
 npm install
 npm run dev     # http://localhost:3000
-npm test        # pruebas de la lógica de horarios
+npm test        # pruebas de horarios y de agrupación de noticias
+node --experimental-strip-types scripts/recolectar.mts   # recolectar noticias (necesita internet)
 npm run build   # genera el sitio estático en out/
 ```
 
@@ -58,7 +60,8 @@ La demo le pide a Google que no la indexe (`noindex` y `robots.txt`), para que n
 - **Locutores:** `src/data/locutores.ts`.
 - **Noticias:** `src/data/noticias.ts`.
 - **Clasificados:** `src/data/clasificados.ts`.
-- **Tablero de IA:** `src/data/hechos-ia.ts`.
+- **Tablero de IA:** `public/datos/hechos.json` (hechos reales procesados) o, si no existe, `src/data/hechos-ia.ts` (ejemplo).
+- **Fuentes de noticias:** `data/fuentes.json` (ver `docs/fuentes-noticias.md`).
 - **Audio de prueba:** `npm run audio` lo vuelve a generar (necesita ffmpeg).
 
 ## Estructura
