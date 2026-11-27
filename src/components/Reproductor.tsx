@@ -44,26 +44,46 @@ export function ProveedorReproductor({ children }: { children: React.ReactNode }
   const quiereSonar = useRef(false);
   const [estado, setEstado] = useState<EstadoSenal>("detenido");
   const [sonandoAhora, setSonandoAhora] = useState<string | null>(null);
+  // Si la señal real no responde al empezar, se pasa al tono de prueba.
+  const [respaldo, setRespaldo] = useState(false);
+  const respaldoRef = useRef(false);
+  const yaSono = useRef(false); // la señal real sonó al menos una vez en esta sesión
 
-  const esPrueba = !emisora.streamUrl;
-  const fuente = emisora.streamUrl ?? conBase("/audio/tono-prueba.mp3");
+  const tono = conBase("/audio/tono-prueba.mp3");
+  const esPrueba = !emisora.streamUrl || respaldo;
 
   const conectar = useCallback(() => {
     const a = audio.current;
     if (!a) return;
+    if (temporizador.current) clearTimeout(temporizador.current);
+    temporizador.current = null;
+    const real = emisora.streamUrl && !respaldoRef.current ? emisora.streamUrl : null;
     // En un stream en vivo, un parámetro nuevo evita que el navegador reutilice
     // un búfer viejo al reconectar.
-    a.src = esPrueba ? fuente : `${fuente}${fuente.includes("?") ? "&" : "?"}t=${Date.now()}`;
+    a.src = real ? `${real}${real.includes("?") ? "&" : "?"}t=${Date.now()}` : tono;
+    a.loop = !real;
     a.load();
-    a.play().catch(() => {
-      // El navegador bloqueó la reproducción: el usuario debe pulsar de nuevo.
-      quiereSonar.current = false;
-      setEstado("detenido");
+    a.play().catch((e: unknown) => {
+      if (e instanceof DOMException && e.name === "NotAllowedError") {
+        // El navegador bloqueó la reproducción: el usuario debe pulsar de nuevo.
+        quiereSonar.current = false;
+        setEstado("detenido");
+      }
+      // Otros errores (la fuente no es audio, se cortó) llegan también como
+      // evento "error" y ahí se reintenta.
     });
-  }, [esPrueba, fuente]);
+  }, [tono]);
 
   const programarReconexion = useCallback(() => {
-    if (!quiereSonar.current) return;
+    if (!quiereSonar.current || temporizador.current) return;
+    // La señal real nunca llegó a sonar: tras dos intentos, tono de prueba.
+    if (emisora.streamUrl && !respaldoRef.current && !yaSono.current && intento.current >= 2) {
+      respaldoRef.current = true;
+      setRespaldo(true);
+      intento.current = 0;
+      conectar();
+      return;
+    }
     if (intento.current >= ESPERAS.length) {
       setEstado("sin-senal");
       quiereSonar.current = false;
@@ -71,7 +91,10 @@ export function ProveedorReproductor({ children }: { children: React.ReactNode }
     }
     setEstado("reconectando");
     const espera = ESPERAS[intento.current++] * 1000;
-    temporizador.current = setTimeout(conectar, espera);
+    temporizador.current = setTimeout(() => {
+      temporizador.current = null;
+      conectar();
+    }, espera);
   }, [conectar]);
 
   useEffect(() => {
@@ -79,6 +102,7 @@ export function ProveedorReproductor({ children }: { children: React.ReactNode }
     if (!a) return;
     const alSonar = () => {
       intento.current = 0;
+      if (!respaldoRef.current) yaSono.current = true;
       setEstado("sonando");
     };
     const alEsperar = () => quiereSonar.current && setEstado((e) => (e === "sonando" ? "cargando" : e));
@@ -139,6 +163,7 @@ export function ProveedorReproductor({ children }: { children: React.ReactNode }
     const a = audio.current;
     if (!a) return;
     if (temporizador.current) clearTimeout(temporizador.current);
+    temporizador.current = null;
     if (quiereSonar.current) {
       quiereSonar.current = false;
       a.pause();
@@ -147,6 +172,9 @@ export function ProveedorReproductor({ children }: { children: React.ReactNode }
     } else {
       quiereSonar.current = true;
       intento.current = 0;
+      // Cada vez que se pulsa "escuchar", se intenta primero la señal real.
+      respaldoRef.current = false;
+      setRespaldo(false);
       setEstado("cargando");
       conectar();
     }
@@ -155,7 +183,7 @@ export function ProveedorReproductor({ children }: { children: React.ReactNode }
   return (
     <ContextoReproductor.Provider value={{ estado, alternar, sonandoAhora, esPrueba }}>
       {children}
-      <audio ref={audio} preload="none" loop={esPrueba} />
+      <audio ref={audio} preload="none" />
     </ContextoReproductor.Provider>
   );
 }
@@ -222,7 +250,11 @@ export function BarraReproductor() {
               </span>
             ) : null}
             <span>{TEXTO_ESTADO[estado]}</span>
-            {esPrueba ? <span className="marca-ejemplo">Tono de prueba</span> : null}
+            {esPrueba ? (
+              <span className="marca-ejemplo">
+                {emisora.streamUrl ? "La señal no respondió: tono de prueba" : "Tono de prueba"}
+              </span>
+            ) : null}
           </p>
           <p className="truncate font-bold">
             {sonandoAhora ? (
