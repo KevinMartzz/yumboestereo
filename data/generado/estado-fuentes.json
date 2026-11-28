@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-28T01:28:28.833Z",
+  "generado": "2026-11-28T11:50:28.061Z",
   "fuentes": [
     {
       "id": "google-yumbo",
@@ -25,7 +25,7 @@
       "url": "https://news.google.com/rss/search?q=Cali+OR+%22Valle+del+Cauca%22&hl=es-419&gl=CO&ceid=CO:es-419",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-28T01:12:33.000Z",
+      "ultima": "2026-11-28T11:32:00.000Z",
       "intentos": [
         {
           "url": "https://news.google.com/rss/search?q=Cali+OR+%22Valle+del+Cauca%22&hl=es-419&gl=CO&ceid=CO:es-419",
@@ -41,7 +41,7 @@
       "url": "https://news.google.com/rss?hl=es-419&gl=CO&ceid=CO:es-419",
       "descubierta": false,
       "notas": 34,
-      "ultima": "2026-11-27T22:13:00.000Z",
+      "ultima": "2026-11-28T04:01:28.000Z",
       "intentos": [
         {
           "url": "https://news.google.com/rss?hl=es-419&gl=CO&ceid=CO:es-419",
@@ -57,7 +57,7 @@
       "url": "https://www.elpais.com.co/arc/outboundfeeds/rss/?outputType=xml",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-28T01:15:14.000Z",
+      "ultima": "2026-11-28T04:13:13.000Z",
       "intentos": [
         {
           "url": "https://www.elpais.com.co/arc/outboundfeeds/rss/?outputType=xml",
@@ -89,7 +89,7 @@
       "url": "https://www.eltiempo.com/rss/colombia.xml",
       "descubierta": false,
       "notas": 10,
-      "ultima": "2026-11-28T01:12:33.000Z",
+      "ultima": "2026-11-28T09:22:14.000Z",
       "intentos": [
         {
           "url": "https://www.eltiempo.com/rss/colombia.xml",
@@ -105,7 +105,7 @@
       "url": "https://www.elespectador.com/arc/outboundfeeds/discover/",
       "descubierta": true,
       "notas": 20,
-      "ultima": "2026-11-28T00:45:52.000Z",
+      "ultima": "2026-11-28T05:08:00.000Z",
       "intentos": [
         {
           "url": "https://www.elespectador.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml",
@@ -133,7 +133,7 @@
       "url": "https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-28T01:18:03.000Z",
+      "ultima": "2026-11-28T11:40:00.000Z",
       "intentos": [
         {
           "url": "https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml",
@@ -149,7 +149,7 @@
       "url": "https://caracol.com.co/arc/outboundfeeds/rss/?outputType=xml",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-28T01:20:58.000Z",
+      "ultima": "2026-11-28T11:34:11.000Z",
       "intentos": [
         {
           "url": "https://caracol.com.co/arc/outboundfeeds/rss/?outputType=xml",
@@ -229,7 +229,7 @@
       "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-28T01:18:59.000Z",
+      "ultima": "2026-11-28T11:33:09.000Z",
       "intentos": [
         {
           "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/colombia/?outputType=xml",
@@ -265,7 +265,7 @@
       "url": "https://www.larepublica.co/rss/",
       "descubierta": false,
       "notas": 40,
-      "ultima": "2026-11-28T00:30:07.000Z",
+      "ultima": "2026-11-28T05:05:15.000Z",
       "intentos": [
         {
           "url": "https://www.larepublica.co/rss/",
@@ -276,7 +276,7 @@
   ],
   "senal": {
     "pagina": "https://roquetest.dongee.com/radio_yumbo.php",
-    "revisado": "2026-11-28T01:28:29.194Z",
+    "revisado": "2026-11-28T11:50:28.331Z",
     "paginaEstado": 200,
     "paginaTipo": "audio/mpeg",
     "recursos": [],

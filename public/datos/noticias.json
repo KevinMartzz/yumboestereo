@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T01:28:28.833Z",
+ "generado": "2026-11-28T11:50:28.061Z",
  "ventanaHoras": 48,
  "grupos": [
   {
@@ -16,15 +16,6 @@
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSkwwazFiZVdseTVMQXVuRXFKM3Q1dTR6MHZzbnBXbEVnZ2FHV1ZiMzVWTkxaN1QzV0k3Y29WNlpMUlpScGZBT0hlZlJ3b3dQNlQwZ0NuQ0FjM3NlcmFQUmlrU3dhQ2pDVlc3Z0pLNFBteTBud2pMNmtScjlEZVl6QzJOcF9fQXNTZ2tlQzBiZk92ZUNwLXpoMHBid3VpMmFEV21ZY2o2eGJFOUYzc09tNUlHRDRSdG5abVZPQllGWFRGY0JaSFHSAcYBQVVfeXFMT1pCcjZtd3dJYXh4bFYyX05SMTBUT3pUWkF0NXVLbU04ZjdtaGxUUEVzZFVsWW9EV2p1N3JuV0hUdnVmVXVBYl9nYlNBSGR2WlVhaFhGVkpEVHdIUTVJQjhOQ25rSW1pN1RKSHN4OGo5LWV5VVNGWmVBU2VWRnRCcjlhbjNLQmRPRGZOT2dqd2Z3SFVfRXAyT3VsdldRal9ORUdJdFpRQ2lBWkZVd0hBWkhtOWVjT3VJTzFEMURUdWRGZzRKcGJ3?oc=5",
      "fecha": "2026-11-27T21:54:06.000Z",
      "resumen": ""
-    },
-    {
-     "id": "d4bcb24ee292",
-     "fuente": "larepublica",
-     "medio": "La República",
-     "titulo": "Emergent Cold LatAm inauguró bodega de frío en Yumbo con 8.000 posiciones de pallet",
-     "url": "https://www.larepublica.co/empresas/emergent-cold-latam-inauguro-bodega-de-frio-en-yumbo-con-8-000-posiciones-de-pallet-4535492",
-     "fecha": "2026-11-27T21:54:06.000Z",
-     "resumen": "Esta se convertiría en la octava bodega de la empresa en Colombia, que viene desarrollando inversiones que equivaldrían a un total de US$150 millones"
     },
     {
      "id": "143b8628768d",
@@ -56,7 +47,6 @@
    ],
    "medios": [
     "LaRepublica.co",
-    "La República",
     "El Tiempo",
     "Portafolio.co",
     "Forbes Colombia"
@@ -116,15 +106,6 @@
      "resumen": ""
     },
     {
-     "id": "6192dc6d7a12",
-     "fuente": "google-yumbo",
-     "medio": "El Espectador",
-     "titulo": "Operativo de la Policía en Cali, Jamundí y Yumbo deja 89 capturas",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT05VSldESmRvOXNaYnpLNHpPTWc2eXlWLXNKX3dsMm42ckpUMjBBcjJaY0lDd0dhbzZfYjY2YU1Gc3ZaU09qMjZQdmg3RzFEN09pb0o2VHcyN0w2OVphRWFPOGVxVUhITW1KS1N3OGJ4UUpmcDI5M2w2cGRTSEhBZjMzeGlsTFBQcURiZy1zeFFCSmJiTWdfUmxmUEtzUFZnazFObERR0gG6AUFVX3lxTE1RWC1UVEpmZ0w4YmNMOXNUXzFuaUNHRXVwQWxSQjZKdWxFck1RX01MWWRnMXZORlpTanNFc0VFMkJzYkRJSHVxWFBiQTdXRERCNHo3cDBVbkg0N29veGlILVhpNk5tSWxwMURqUHFXcjN2UE1mNzZtUEc5SHNGWXg5dksyNEVGX2g4VmRqWkRjQmNTeDN2RklkcENERnVTVFRMV0M5Q2pMbE5kUzJOX3pGeGxraHZINHNjQQ?oc=5",
-     "fecha": "2026-11-26T14:33:33.000Z",
-     "resumen": ""
-    },
-    {
      "id": "7ca9759e220e",
      "fuente": "google-yumbo",
      "medio": "El Espectador",
@@ -143,15 +124,6 @@
      "resumen": ""
     },
     {
-     "id": "f8054d3c7a90",
-     "fuente": "google-yumbo",
-     "medio": "El País",
-     "titulo": "Operación IRON 3.0 deja 93 capturados en Cali, Yumbo y Jamundí; presidente Abelardo de la Espriella anunció los resultados",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY2t6aUY1LWp5b1V1RzBqR3QtM1VzeTVqSVlTMW5ZdDk3dzdpWVlYQVhNaHV3MmQwQnRmM1hVeWU2YmVjdVlRQ1AwcHNocXNvNUZyV0ZjTFllLVBTNEgtQmRGc3d1aHlYbXpfWE0tMndaa2ZFS0ozNDc2N3d0UUNQelMwOEswTHBQUVkxY2otRHF5MjdhS0s3OWJoeUdzcTlVT3lMcmJ1Y3ZWeEFTeXJiWDdGcEl2RVV0VXBpc3dJS1Q2aUMxdEHSAcsBQVVfeXFMTzJ2YnJ2aGd5TFdBUVhlR0NZNFkydTFoY3Raa0M4Y016MEpDZTRnRTlUUVRMSG5rWWdpS1FSZ0RPdlIzaEQ4Sm1MbWFEOWJnZnJ0R2F1b3FfeE9zSVVHYUZMUnJjS0ZFWnJVN2VSSDdwVVVHcGQtbDVQakQ3dnYzLUZvTFQ1VUQweGx2eHFORXBicFVnT2MtbnpqN0p0dndSSnVSMWhSWTV6Q0JvQTBrREE5di1KcXlwUjMxeHNTaFA5ZURQSUM5Tzh0azA?oc=5",
-     "fecha": "2026-11-26T13:28:27.000Z",
-     "resumen": ""
-    },
-    {
      "id": "2baff8f9e94d",
      "fuente": "google-yumbo",
      "medio": "LA RAZÓN.CO",
@@ -167,7 +139,6 @@
     "Gobernación del valle",
     "El Espectador",
     "Caracol Radio",
-    "El País",
     "LA RAZÓN.CO"
    ]
   },
@@ -212,75 +183,139 @@
    ]
   },
   {
-   "id": "3fb929252ffa",
-   "titular": "Los reyes de la refrigeración en América Latina coronaron con una nueva gran instalación en Yumbo en el Valle del Cauca",
-   "region": "Yumbo",
-   "fecha": "2026-11-26T12:23:29.000Z",
+   "id": "e4c0850f78f6",
+   "titular": "Clima en Cartagena de Indias: cuál será la temperatura máxima y mínima este 28 de noviembre",
+   "region": "Cali y Valle",
+   "fecha": "2026-11-28T11:33:09.000Z",
    "items": [
     {
-     "id": "3fb929252ffa",
-     "fuente": "google-yumbo",
-     "medio": "Las2orillas",
-     "titulo": "Los reyes de la refrigeración en América Latina coronaron con una nueva gran instalación en Yumbo en el Valle del Cauca",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSEc3S0JSdndYMVd6V2p3U2c1eEF6WW9COVE1VmlmeTVld2JBV2Fvdjl5Z2wzNTVtdngwOGlja3FSTWRTeW9XTDN6YW9lWVZ5UnJQM0hFSW01WWdDTHlrb05JWTFKRFhwZ0Q4cjZGQ1V4TUZxZmhZYm9EMllKcWgzZ3BkMWZPOGtCSGhWLXE4ZmNRbnlib204aFY1ejc0MU1UV05xeTBVUUtPd21Od3hzNUhnSGw0MGZSZk9CNmpiT29JSmxCaGluTXI2YmdBWTc4YzdJSnQ2OU4xVWdpQXUyag?oc=5",
-     "fecha": "2026-11-26T12:23:29.000Z",
+     "id": "e4c0850f78f6",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "Clima en Cartagena de Indias: cuál será la temperatura máxima y mínima este 28 de noviembre",
+     "url": "https://www.infobae.com/colombia/2026/11/28/clima-en-cartagena-de-indias-cual-sera-la-temperatura-maxima-y-minima-este-28-de-noviembre/",
+     "fecha": "2026-11-28T11:33:09.000Z",
+     "resumen": "El clima en Colombia se ve modificado debido a su complejidad geográfica como lo son las costas del Mar Caribe al Norte, la corriente del Océano Pacífico, así como las cordilleras que lo atraviesan por el centro de norte a sur."
+    },
+    {
+     "id": "eb6acae5be39",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "Cali: la predicción del clima para este 28 de noviembre",
+     "url": "https://www.infobae.com/colombia/2026/11/28/cali-la-prediccion-del-clima-para-este-28-de-noviembre/",
+     "fecha": "2026-11-28T11:32:09.000Z",
+     "resumen": "El clima en Colombia se ve modificado,afectado debido a su complejidad geográfica como lo son las costas del Mar Caribe al Norte, la corriente del Océano Pacífico, así como las cordilleras que lo atraviesan por el centro de norte a sur."
+    },
+    {
+     "id": "c8d475523445",
+     "fuente": "google-cali-valle",
+     "medio": "Infobae",
+     "titulo": "Cali: la predicción del clima para este 28 de noviembre",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWlzbXFURW5DeDMzZkZ5Tmk3TG5BZU9KWmdPeVVVTS04YWxwOTNvSGFNNkVKODRpblA3NmRDdHltVFRGN1I3ZzlxVDlRWllKTjB5VU02YlNMaXA0N3lvMHFIdlVPVmdLVmhIZS05azkyaWFOUU96a01CT0h1bVhqelRGcl9HTEJqMzVHNUtGRXlfU0x1aElqS0dnR0I4LTVB0gG7AUFVX3lxTFBuTEctRzAzeE5IZzFmS3huYVFIaXVsd0pQZ2hTS3pVc3Uwc3JaX09Eb0FGcWVIQ0ZXSXpjaDZlNUR1eXUyM1VPVTA3YkhxUFhHOHVKQ2I3RkJQanpSMnUtR3dWMFRSQ21JM3ZoN2RkQXZtZjFRaFFVTFVDRDZjS3Y3Q2p6d3VBZ1VDekI5UGRtbDlGQzMySzFIOEpLTFdrRlFzbGd0TFpOOVBRUHdreGV1cmdtMkpiWHNYUzQ?oc=5",
+     "fecha": "2026-11-28T11:32:00.000Z",
      "resumen": ""
+    },
+    {
+     "id": "7b62f6991a86",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "Pronóstico del clima en Bogotá este 28 de noviembre: temperatura, lluvias y viento",
+     "url": "https://www.infobae.com/colombia/2026/11/28/pronostico-del-clima-en-bogota-este-28-de-noviembre-temperatura-lluvias-y-viento/",
+     "fecha": "2026-11-28T11:31:48.000Z",
+     "resumen": "El clima en Colombia es muy variado, por eso es importante mantenerse actualizado y estar preparado ante las adversidades atmosféricas de este día"
+    },
+    {
+     "id": "42cb1bf93a7b",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "Clima en Cartagena para hoy, sábado 28 de noviembre: Adiós a la incertidumbre así estará el clima en la arenosa",
+     "url": "https://www.infobae.com/colombia/2026/11/28/clima-en-cartagena-para-hoy-sabado-28-de-noviembre-adios-a-la-incertidumbre-asi-estara-el-clima-en-la-arenosa/",
+     "fecha": "2026-11-28T10:30:00.000Z",
+     "resumen": "El estado del tiempo en Colombia cambia constantemente, por eso es importante mantenerse actualizado y estar preparado ante las adversidades atmosféricas de este día"
     }
    ],
    "medios": [
-    "Las2orillas"
+    "Infobae Colombia",
+    "Infobae"
    ]
   },
   {
-   "id": "178a2136e3b8",
-   "titular": "🔴 Cali vs. Bucaramanga en vivo, fecha 3 de cuadrangulares de Liga: transmisión y minuto a minuto",
+   "id": "f512e4c878e4",
+   "titular": "Millonarios y América empataron 0-0 en Bogotá: galería de fotos",
    "region": "Cali y Valle",
-   "fecha": "2026-11-28T01:20:58.000Z",
+   "fecha": "2026-11-28T05:03:51.000Z",
    "items": [
     {
-     "id": "178a2136e3b8",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "🔴 Cali vs. Bucaramanga en vivo, fecha 3 de cuadrangulares de Liga: transmisión y minuto a minuto",
-     "url": "https://caracol.com.co/2026/11/27/cali-vs-bucaramanga-en-vivo-fecha-3-de-cuadrangulares-de-liga-transmision-y-minuto-a-minuto/",
-     "fecha": "2026-11-28T01:20:58.000Z",
+     "id": "f512e4c878e4",
+     "fuente": "elespectador",
+     "medio": "El Espectador",
+     "titulo": "Millonarios y América empataron 0-0 en Bogotá: galería de fotos",
+     "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/millonarios-y-america-empataron-0-0-en-bogota-galeria-de-fotos/",
+     "fecha": "2026-11-28T05:03:51.000Z",
+     "resumen": "Millonarios generó pocas ocasiones frente a América de Cali y ahora tendrá que ganarle de visitante si quiere depender de sí mismo."
+    },
+    {
+     "id": "d51201aa0bfc",
+     "fuente": "google-cali-valle",
+     "medio": "El País – Cali",
+     "titulo": "América de Cali empató con Millonarios en Bogotá y sigue líder del Grupo B - El País",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNc2xoSUMxSm5oVWNHMTBmTC03U3oydC1xSzFwN214X3hHTzdwbW1KLXZpME5BY1FZc05hNkZsMnlZMUZOQTRoM2NKWmJQdEtBSVRmNHh5cDlsT0d2VnFuUDctTnhmbUxtT2hBczFkcGxvbE4wTGdpUy1lZC1TWmcxQVpseHN2UEZIWXlKT3NGTGxaTmlkUVgtSElPZVNMRjE0RTFSVFAwNkhfOVBha2FlVVFRVGF5bnQ4QWZjaHJtbF85RHViVDdWXzRYbmcwTnFQTE9jbDk4WUtTSnE0czNZeC1BbHVWdTJwOTRsdkNCZWxKeDY4dms0TC1Hc2Q1Q2M?oc=5",
+     "fecha": "2026-11-28T04:04:23.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "16006d345c6a",
+     "fuente": "elpais-cali",
+     "medio": "El País Cali",
+     "titulo": "América de Cali, que terminó con nueve jugadores, logró valioso punto al empatar en Bogotá con Millonarios; es líder del Grupo B",
+     "url": "https://www.elpais.com.co/deportes/america-de-cali-que-termino-con-nueve-jugadores-logro-valioso-punto-al-empatar-en-bogota-con-millonarios-es-lider-del-grupo-b-2723.html",
+     "fecha": "2026-11-28T04:04:23.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "c6b7db000d82",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "Millonarios y América de Cali empataron sin goles en un intenso duelo en El Campín",
+     "url": "https://www.infobae.com/colombia/deportes/2026/11/27/millonarios-vs-america-de-cali-en-vivo-cuadrangulares-de-la-liga-betplay-minuto-a-minuto-del-partido-en-el-campin/",
+     "fecha": "2026-11-28T03:55:27.000Z",
+     "resumen": "El conjunto capitalino y el cuadro escarlata igualaron 0-0 en un compromiso marcado por la fricción, las expulsiones y la falta de efectividad en la definición"
+    },
+    {
+     "id": "882c27240f1c",
+     "fuente": "google-cali-valle",
+     "medio": "365Scores",
+     "titulo": "Liga BetPlay: cómo quedó el Grupo B tras Millonarios vs América",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04MDdieVhPNElFRHM1c1R6d0FLSzREd2JNbmoxcmpPQnlSZmJjeHdiM0N3MzRuVk41cmd5UzQ2UzFjbUxzbFczdUxnM1l5MjNHX1FDTzRBNjU0MXhZYk9ycWozOTlxMkFHUTJLbUNuQ2JZa2U1WjNvRlRMVjgwUQ?oc=5",
+     "fecha": "2026-11-28T03:49:54.000Z",
      "resumen": ""
     },
     {
      "id": "855811f3a2ce",
      "fuente": "caracol",
      "medio": "Caracol Radio",
-     "titulo": "🔴 Millonarios vs. América, cuadrangulares Liga Colombiana: transmisión y minuto a minuto en vivo",
+     "titulo": "Millonarios y América reparten puntos en el campín y el grupo queda abierto: resumen del partido",
      "url": "https://caracol.com.co/2026/11/28/millonarios-vs-america-cuadrangulares-liga-colombiana-transmision-y-minuto-a-minuto-en-vivo/",
-     "fecha": "2026-11-28T01:19:25.000Z",
+     "fecha": "2026-11-28T03:49:09.000Z",
      "resumen": ""
     },
     {
-     "id": "b1b0261c0d67",
-     "fuente": "infobae-colombia",
-     "medio": "Infobae Colombia",
-     "titulo": "Deportivo Cali vs. Atlético Bucaramanga Liga BetPlay en vivo: minuto a minuto del juego en Palmaseca por los cuadrangulares",
-     "url": "https://www.infobae.com/colombia/2026/11/27/deportivo-cali-vs-atletico-bucaramanga-liga-betplay-en-vivo-ambos-equipos-buscaran-salir-del-fondo-de-la-tabla-y-conseguir-los-primeros-tres-puntos/",
-     "fecha": "2026-11-28T01:18:59.000Z",
-     "resumen": "Los equipos llegan con un punto y ocupan las dos últimas posiciones del grupo B. El Verdiblanco es tercero, con diferencia de gol de -1 y el Leopardo es cuarto con -3"
-    },
-    {
-     "id": "c6b7db000d82",
-     "fuente": "infobae-colombia",
-     "medio": "Infobae Colombia",
-     "titulo": "Millonarios vs. América de Cali - EN VIVO cuadrangulares de la Liga BetPlay: minuto a minuto del partido en El Campín",
-     "url": "https://www.infobae.com/colombia/deportes/2026/11/27/millonarios-vs-america-de-cali-en-vivo-cuadrangulares-de-la-liga-betplay-minuto-a-minuto-del-partido-en-el-campin/",
-     "fecha": "2026-11-28T01:07:03.000Z",
-     "resumen": "El clásico de las estrellas podría definir el rumbo del grupo B en el cual los \"Diablos Rojos\" quieren asegurar su cupo a las finales, mientras que el \"Ballet Azul\" quiere hacer respetar su localía para soñar con regresar a una final luego de tres años"
-    },
-    {
-     "id": "7a0e3dddcdba",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "Millonarios vs. América de Cali, En Vivo: alineaciones confirmadas del partido del Grupo B de los cuadrangulares",
-     "url": "https://www.elpais.com.co/deportes/millonarios-vs-america-de-cali-en-vivo-alineaciones-confirmadas-del-partido-del-grupo-b-de-los-cuadrangulares-2713.html",
-     "fecha": "2026-11-28T00:56:13.000Z",
+     "id": "9e3465f21d84",
+     "fuente": "google-cali-valle",
+     "medio": "El País – Cali",
+     "titulo": "Millonarios vs. América de Cali, En Vivo: siga las emociones de los cuadrangulares - El País",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWkVKa2pMV0tnNHFnSHRrdUlRUEpXT01LZkQwd2FGZS0yblJmNTJhY3lCYld2MEN1WjZkU2p3QWxaRlRaR0ZCczFQUTViY1F2QWdWZ1U4LWdTYkcyMHVsSkZEdVRVZ1JNTC1SSjVrejZZdTZpTHBhQ0pEbWw3dmowdHQzTTVhXy1aLVExUXJ3YlRHRjdxWnVMZHpLZU1mZ0labDU0WnBiZXJZb0FKUmhVU0RtUDJ2aDFaSHp5WWFiZkFrZUFpeWNCQXVvWGd1TXREa0stNDRhLVVsSWpkbFhObU81Ylk1WG9ZVUE?oc=5",
+     "fecha": "2026-11-28T01:13:00.000Z",
      "resumen": ""
+    },
+    {
+     "id": "3c741628e573",
+     "fuente": "elespectador",
+     "medio": "El Espectador",
+     "titulo": "Millonarios no pudo vencer a América en El Campín y todo queda para el juego en Cali",
+     "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/millonarios-vs-america-de-cali-en-vivo-partido-clave-en-el-cuadrangular-b/",
+     "fecha": "2026-11-28T00:56:55.000Z",
+     "resumen": "Millonarios igualó 0-0 con América de Cali y en un partido con dos expulsados y pocas opciones de gol, ambos equipos quedan en tablas."
     },
     {
      "id": "350aad56adcd",
@@ -289,15 +324,6 @@
      "titulo": "Dónde ver Millonarios vs América de Cali por la Liga BetPlay",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45eTh0R3p5aE9LRWNPSmxOZ3UtTkg4Q1lXZ1MyNTNvUXYtQ0FBNlkxaDZyLVNIOVZvVzBrNnRVYV9rcWZwSG1KQWc1bDZXTU16cktJclRQUHNKSFc1dW9GNFJmdXRpRV9PSXFHZTdBVHQwVzJTYi1PVE9n?oc=5",
      "fecha": "2026-11-27T23:40:00.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "a5bbec76b6ab",
-     "fuente": "google-cali-valle",
-     "medio": "Claro Sports",
-     "titulo": "Deportivo Cali vs Atlético Bucaramanga en vivo: ¿Quién gana el partido de Liga Betplay 2026 hoy 27 de noviembre?",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0Rhb3JhcGx3TGczcHhxVFdFU1lVTWhkYzFIS3ZacjhnSGhXeWFObzI0UmhsZW9oakRqYnFpeEtQUi1WbURJaVZpZ190QmZoR1BlR042VG1HVkRsX2xjSEt6NG5tYW1uLXlSSnc1dXJ2ZlR6NEdXWktDNHZaVEFzbzRkM3Eybk01VHI4TjdZSTYxb3VFQmk0Tm1kclk?oc=5",
-     "fecha": "2026-11-27T22:50:43.000Z",
      "resumen": ""
     },
     {
@@ -317,23 +343,192 @@
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTTVNMElYcE5vbjZJbHFmbkFGdTZhakFrcHUyblB4N3dJdUJRNFFDODhmTXNOcC1SN053WU16aFdUX2RoUExkYkE0UF9fVWVjeUFxLUlkdVBnSWhSLUpjeEI5aDRLLXcydXdYbzk0V245ZzhEcFA3R3JQVGQ4VkNiaW4xcndJeUQ3Y3BFOV9GWnpFSldhRDF4Vno1ZjM4OU1aeDZiZ3llYUVjV1NhaklZaEwzNUxhSFU4aXY3MmxkbVFLTWhDVGMxcmR3azlLcHRKWGfSAd8BQVVfeXFMT09fX1FoTUVhU3dKWnlIQXZseDRoQVBJSDRLZnB4ekcxREJhOXV3YXUxOFVnaThDNWhVZy00VlQ0YVRVT0g2ODdhd3VSR3hsWnhLVVJ1UDB0OTgwN3hzdkZ6TS1NeUVwOTE0dFhsX0NyZWxYWl9YanRiSFNxNFdLZ3lGUndQdmV2UkZpQjV3QUFQUHlGWWxFODI0aW15MXlxY1NRZmtZbEtQUlFvaElNeW44N2JqbTIyTnBlV3lmMVFPQkNaUGx6Z2RqbjBDa2xDZHBHY1I3b2RoenQwczlMUQ?oc=5",
      "fecha": "2026-11-27T22:35:31.000Z",
      "resumen": ""
+    }
+   ],
+   "medios": [
+    "El Espectador",
+    "El País – Cali",
+    "El País Cali",
+    "Infobae Colombia",
+    "365Scores",
+    "Caracol Radio",
+    "Blu Radio"
+   ]
+  },
+  {
+   "id": "200ba906331b",
+   "titular": "El espectáculo Delirio celebra 20 años de historias bailadas con el estreno de ‘Periplo’, su obra maestra",
+   "region": "Cali y Valle",
+   "fecha": "2026-11-28T04:18:22.000Z",
+   "items": [
+    {
+     "id": "200ba906331b",
+     "fuente": "eltiempo",
+     "medio": "El Tiempo",
+     "titulo": "El espectáculo Delirio celebra 20 años de historias bailadas con el estreno de ‘Periplo’, su obra maestra",
+     "url": "https://www.eltiempo.com/colombia/cali/el-espectaculo-delirio-celebra-20-anos-de-historias-bailadas-con-el-estreno-de-periplo-su-obra-maestra-3605098",
+     "fecha": "2026-11-28T04:18:22.000Z",
+     "resumen": "El espectáculo más emblemático de Cali abre el telón este viernes 27 de noviembre en la Carpa Delirio."
+    }
+   ],
+   "medios": [
+    "El Tiempo"
+   ]
+  },
+  {
+   "id": "7a0e3dddcdba",
+   "titular": "Millonarios vs. América de Cali; reviva las emociones del partido del Grupo B de los cuadrangulares.",
+   "region": "Cali y Valle",
+   "fecha": "2026-11-28T04:13:13.000Z",
+   "items": [
+    {
+     "id": "7a0e3dddcdba",
+     "fuente": "elpais-cali",
+     "medio": "El País Cali",
+     "titulo": "Millonarios vs. América de Cali; reviva las emociones del partido del Grupo B de los cuadrangulares.",
+     "url": "https://www.elpais.com.co/deportes/millonarios-vs-america-de-cali-en-vivo-alineaciones-confirmadas-del-partido-del-grupo-b-de-los-cuadrangulares-2713.html",
+     "fecha": "2026-11-28T04:13:13.000Z",
+     "resumen": ""
     },
     {
-     "id": "70f86559561b",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "Deportivo Cali 1-0 Atlético Bucaramanga, en vivo: cuadrangulares de la Liga Betplay 2026-II",
-     "url": "https://www.elespectador.com/deportes/futbol-colombiano/otros-equipos/deportivo-cali-vs-atletico-bucaramanga-en-vivo-cuadrangulares-de-la-liga-betplay-2026-ii/",
-     "fecha": "2026-11-27T22:35:07.000Z",
-     "resumen": "Deportivo Cali tiene la misión de vencer a Atlético Bucaramanga en Palmaseca y reencaminar su destino en el Cuadrangular B."
-    },
-    {
-     "id": "0b7bc8d2a60a",
+     "id": "f2b86f3c050a",
      "fuente": "google-cali-valle",
-     "medio": "PrimerTiempo.CO",
-     "titulo": "América de Cali confirmó sus convocados para enfrentar a Millonarios: tres bajas importantes",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMDNtS0MwSTZzbmMyQ3pxVndIMWgtTGtibExZODZ3c0xLQk55T2tEZEdCbEpfdXF1STBSNG1JeGhCVmtUZGZHaGNBQUVtVDhXQ0tWMW1mWlhrOGdLTlpyOXJaY012OE54QVp6cmVDcmNHVnp5aTI5TC1VcGxnajFYTUliT2FaSHgwUi1Qc3ZnbDQ4aDVOcjRwQW1CRm81TzNrWjRkVE9LVUtObG5nOWkxUERoN05FbEdvQTZUaTJYYms?oc=5",
-     "fecha": "2026-11-27T22:06:32.000Z",
+     "medio": "Caracol Radio",
+     "titulo": "Tabla de posiciones del Grupo B cuadrangulares Liga Colombiana, tras empate de Millonarios y América",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYS1tMERKQ1d0YTVDdzVMRjRSZ1ZZSnVETUl3RGVieHpGRlZkYjhYOGpka3hnVDFvY0cwbmFjSlFKSUpOdE5QNXl0aEJiQjVOU1pzUVZNajhfYzBJWS1DcXIxYXpWZWVYWG41U3VFd01IeTV1SG9rR0JDTXUxVE1aaTFuclgwS0JsYkhXZVFZMHpLMnFCRFphSm5jc0lMbXNHRnZubHNKbDN6WGtzT2t3UUZpYUpvMlVxN3hFaGRyaGtWd2x2NzRpVXloejRxbmPSAeMBQVVfeXFMT2p2dU16OHRRV3F6YjFHcXFGcVlKNUFvUlF1QW84RDdENXluQ0J2ZlVQZzY1dlByUHZ6TUxtNm5pZG5HRUpUNFk1bkJoZ1ZWcDQ2a1FsOVdzM21adUs1MnJJaklDVzIyNy1GdjlWM3FuMG04NVU2M2R1dVFYSkxyMlEyV3N4RHhnUkQwS0VsZEFtd1FtQ0cwYkdPQW5uS1RJRUxucDNodUhXUE54Q19KMDBuYURUX3dCTGhSd2YtTGFzRC1aOFpRWDdQekIwUmtKckd1Y21OcnphQjJxcDhpWEx1TTA?oc=5",
+     "fecha": "2026-11-28T03:52:02.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "0f9f3d5a9326",
+     "fuente": "caracol",
+     "medio": "Caracol Radio",
+     "titulo": "Tabla de posiciones del Grupo B cuadrangulares Liga Colombiana, tras empate de Millonarios y América",
+     "url": "https://caracol.com.co/2026/11/28/tabla-de-posiciones-del-grupo-b-cuadrangulares-liga-colombiana-tras-empate-de-millonarios-y-america/",
+     "fecha": "2026-11-28T03:52:02.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "80bf612931e1",
+     "fuente": "google-cali-valle",
+     "medio": "Noticias Caracol",
+     "titulo": "Cómo quedó la tabla de posiciones del grupo B de Liga BetPlay II-2026, tras Millonarios 0-0 América",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN3ZVTXotQm9KYUE0QzBKeGhCRG1XOFZHVGVhdFhaUWd4UjVzdWRwUzU5eGg0d2VibTRlMVNiVXJBNkVXVzlqSklQUXNqalJNb0xiS3VaOFBoT1o4RERlclhKdlFTWGloeTlOSG81ZVFwSDdOZ2k1RTV2WE9lQldwQktoNGJUV2hJSUlhcEFicWpzZHE4ejVldXdnZXRXRTByMHNWZGJHZjdLWE51c0FIRU5DVy1XeFg1TFRiNFlIYVhaWUJ2X3dGYXNwUGQtelBjUzF6b1JYdWVidVdOMGJrV2F4NFJXR3YxU3FTMWNzbzkwWUN3S2ZN0gGEAkFVX3lxTE9IcnBucnlNQ09tdTh5dFdUbGM3M1VoVFRzN2o4cWotZjJoenhaZExqakZRX1hSR2tKakRJenBWT1NRd2ltZ0cta0cxVmNjOHBnVTI5ckZ6VUpocXBKNDlwdHVWQ0VWam5EX3FQU0RCU3I1UmpFX1JPV3Q3ZFVJb2NsTUp2X2JUbjR0SkdlbzlNOGpqRER2LTJER3lDQnJrMlhPWHNUX1NWMFBHMjhqb3YtREtEeFFMTGNJZTdQMThFS0s4SWVPMkFtTnhZQnk5b1FIRm9TSDFNRXBpOHpadDhnampWSVdxM05UaUM2T0htUmdzTTJWS3U1cmdxN1dEaHA1WDhY?oc=5",
+     "fecha": "2026-11-28T03:51:37.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "fb834310cb3c",
+     "fuente": "google-cali-valle",
+     "medio": "El País",
+     "titulo": "¿Grupo abierto? Así quedaron América de Cali y Deportivo Cali en la tabla, jugada la tercera fecha de los cuadrangulares",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdmd2TGtyX2ltdGFfSm5nWFMzQ3lnMmdDSTNhbU9lQzlnUTNnNFhZcURwS1MxNE1XS1pPa01LaXEzWjNuamVvaVpWRkE5YjBUbXlycW5TSDhiYnlnVklfR0NObW1QYVVGSTFlQmhkblh1anB5bHZnR2RHTEZVaHVrRkZzMU9Da1VtMWUwNjY5R2hFNmhGSW5lbG5Lejg5Tk1JUlIwZXZmajY2SWhObkhVdzJveUF2QjBPRzZaNm8wcUNhc3JVd3RJM21iSmdDQVBzZ01MQkNoR2VNU0dNeWN3alBhVU9NbVlIeUZUaVlFREN0eVJE0gH6AUFVX3lxTFBFRlJ2R2MxenA5TmJuN1YtNWNvUkFraDkzMnpQcWhGVUp0aWFycUxtTFNQNVFiamxWb1dKYnNoU2lNU2FzeUxwcDhOWGd1MkFNaTVHN3V5dnJqdEw3NFhkX3RDOGdTZlo2SWtxQmZJeTUxSmZlS01sTy0yaGNCZWN2dW9DUEV5ZE0tOW1iZm8tMWdyZ2Q4S3dUQUN0T3JQZjF5NVkxY3hwOVdGR2RUbTNsMmlETi1ubk1xc1RnTkVwYTR2X29yVy1qaVQwSnhGbkI3NWdKM09NRTlwU1h1ZVRFZ1NaaVZQTzNhQWtodDl2Wm5WZXBYY01MYnc?oc=5",
+     "fecha": "2026-11-28T03:49:28.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "7383afd15aaf",
+     "fuente": "elpais-cali",
+     "medio": "El País Cali",
+     "titulo": "¿Grupo abierto? Así quedaron América de Cali y Deportivo Cali en la tabla, jugada la tercera fecha de los cuadrangulares",
+     "url": "https://www.elpais.com.co/deportes/grupo-abierto-asi-quedaron-america-de-cali-y-deportivo-cali-en-la-tabla-jugada-la-tercera-fecha-de-los-cuadrangulares-2728.html",
+     "fecha": "2026-11-28T03:49:28.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "5d024eb66196",
+     "fuente": "google-cali-valle",
+     "medio": "Noticias Caracol",
+     "titulo": "Cómo quedó la tabla de posiciones del grupo B de Liga BetPlay II-2026, tras Cali 1-1 Bucaramanga",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNb3dBTC1RbXdHbmg1YkZNY2RneGVmUVhqS3U3cXNQQkZWSmZ6Ql8xNGFTVWtPUURpN2t1Q3RfV0ZRRXJ2N3NIXzRWcWotNzVSeEJYelVuWk1LTFZhSkFNYmc3LTZMclJlTGkxYmNZMHIzOGNHVkRrWFVNMkx5aVFqUVRvUlZSeFlsaF92WEN4TzZycDgyekwxUm9KVmJwTlB6azM0R0ZhNE9qUHkzM3gzOFVLcTZ3YTBIQW5qdG1HSVhLWFpmZUIyVjJqTHdZX3JWdmZ6bU5ac2ZkTDdfOGpPNlBRbmdUXzJCbkZsbDZCNmh0cFHSAYACQVVfeXFMTjhnN19Xd19NOVlyOUh0ZnFQN1MzbXd1QUdScDFxSG9pR3hIZXo5OWRRdWx1azhHOEN2R0JnNG5FTkl0XzAtNzBxSVhibWxxT2Z0cWRXVFdjdGVfOHhDUVJzejNVTVhEb0NqUHozbjRBYWEzZGxWaVNReFVMVWNEZUhUT1ZsRktHSzFKUHRlSVM3VTQxMUJObEx0bDY5OXI0V3daU09HR2ZpUHg5MTBmRlN0WkVvY2lEanI0VDR2VExYSlRDRDJvcjF1S0RuN3N3OVpGaEZpMUJiWnRCYkFCeHFaTDVLdjNueXNWSWI0eVQzZ2dsNVhlRndZempzbDRsWg?oc=5",
+     "fecha": "2026-11-28T01:32:47.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "a248268e6c3b",
+     "fuente": "google-cali-valle",
+     "medio": "Win Sports",
+     "titulo": "Cali vs. Bucaramanga: horario y dónde ver la fecha 3 de cuadrangulares",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1ZZbENwTVBMTmpBWDBKaDI1MGZMRzJjckdyNkhHT19iVWFVOUprNUk4cVR2NVRweVgxa3J1RmtHSHlRUi1aLXphX1RJS184TXVjWHpJcW1yb3dQV2RZS2s1WHdYR2JCU3d2U0ZlazZkOXAwOVpTVzgyQ1hkVVc1VmVNUlJqZGZyUG1YZGNYM2xNM00xbl9NM0pZRUJ6cTZ3LU1xbVM5cExxbTFXU3o1QlFnQ092T0xKQms4MHFaZ1dHUW5yQ2c?oc=5",
+     "fecha": "2026-11-27T13:32:45.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "El País Cali",
+    "Caracol Radio",
+    "Noticias Caracol",
+    "El País",
+    "Win Sports"
+   ]
+  },
+  {
+   "id": "ff8f4e0e27d4",
+   "titular": "Rafael Dudamel se lamentó tras el empate del Deportivo Cali ante Atlético Bucaramanga y adelantó: “No estamos eliminados”",
+   "region": "Cali y Valle",
+   "fecha": "2026-11-28T03:09:02.000Z",
+   "items": [
+    {
+     "id": "ff8f4e0e27d4",
+     "fuente": "google-cali-valle",
+     "medio": "El País",
+     "titulo": "Rafael Dudamel se lamentó tras el empate del Deportivo Cali ante Atlético Bucaramanga y adelantó: “No estamos eliminados”",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRVQwTEtOX3R6ZzlTSzFYRG4yNmFLQlVFRVY4RjFlQ1VUZ095V0pQYkZaWmlocTFiX0szbWR1NDJ1RnlWZU0xZW9yd21uUnBmWkxMclF3a0ZjUjlBaXctYlROSHZaVlBQd3ZweEF1ams5UDhKc09GczE4Y1pGYkh4MEVQMi12OGt6U1FzOEdxN3RSTUNQT1UzTmJsb2tQMWY2QjVocWxXbWloR25OektzaEhELTBpanp4VUtlT1RacElURXl0d0tIb2hZYlVsSFViZ0dMMU9wcWVpaWQxdGg0eGtVam14S0tYd1g5VVlHNnN1dWJVM0HSAfsBQVVfeXFMTXdxT3RlT3k3S0JKQXptRzZFQzJiUE10bFJ1Rm13S3VCa0w2d3h0Mm9ZeVcwOTE0eWNKWFNmVmYyT0pwZVlWWC1iVWg0ZEFJSFh5a05TOEhlVG9JNktMdVVHVlNUZzV6YzNlaTVfQzU2ZV9FLUQ5Z0VZZnBBSWlaaUN1NlAzc3R4RGJBSWoyQnY3c1VEc19UWWY4Yl8zZnlFeWFja1hyakRhS3o3WmNRT0g4VnlzaDU3RTMtMExVM3NCY3pNMnhTZlAxeHZMc0trN2N0QlBRdmMxNmlHWmJoWFF4QnNpQVFOX3VFNjRiUkhIY2NfX3paYXU4d3M?oc=5",
+     "fecha": "2026-11-28T03:09:02.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "6698601625b1",
+     "fuente": "elpais-cali",
+     "medio": "El País Cali",
+     "titulo": "Rafael Dudamel se lamentó tras el empate del Deportivo Cali ante Atlético Bucaramanga y adelantó: “No estamos eliminados”",
+     "url": "https://www.elpais.com.co/deportes/rafael-dudamel-se-lamento-tras-el-empate-del-deportivo-cali-ante-atletico-bucaramanga-y-adelanto-no-estamos-eliminados-2702.html",
+     "fecha": "2026-11-28T03:09:02.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "246bb564d7a4",
+     "fuente": "google-cali-valle",
+     "medio": "AS Colombia",
+     "titulo": "Deportivo Cali y Bucaramanga empatan y se alejan de la final",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd184V0l6ekYtSnlNTmFxcF9qS2ZFZldZQkdzTjAyNjNyVmRRazd3czRLU1dNVDRrMDlOSU9tYVd2dXpqdW80NENXdm5QRmk4RWIzSE9YY2F3dkx4cHFJOTREc2JUMFgzR3Y3M19rODlIVWE4UlB0V1hQOGQ5YUNRaWY1WUwyVGVkVmI0X2k5OFRPbVQ4LUhXZ2VuRlE5QmNYN1lUMdIBuAFBVV95cUxPdVVZOW4xMEk1dlJXWGdrNTZlSWtVb2pyYmE0Rk96cjVZbjdKU0FFNnVXNDRleGN4R01CRmdUbHRqTmVFb1NQQTQ2LTItUXJ2YTh1eWQ4WDNfUFA4bE95ME15dEpfbUJuakJwcmttU1J3UGZ2MVdlMG5XZENfaUM5UFN0OHY2N1habkFiLUdCdTF2R21oNHdqQTFjOVJ5dW1xR1poVDVLNXF4ZEI1RGhGTFIzcW4tTmND?oc=5",
+     "fecha": "2026-11-28T01:32:12.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "11589b355477",
+     "fuente": "google-cali-valle",
+     "medio": "ESPN Deportes",
+     "titulo": "Cali 1-1 Bucaramanga (27 de Nov., 2026) Resultado Final",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IV3Y0ODBGQU1vTDVhd2xEMzh3bFlFSXA0dTBLSkZYRVhyNzMxdFpxTHFvTkM4Sk9wd2lvYnk4WmdOeFpUMFNsZXAtRk4wcVBDMHlFV0dzakdScmpfcVB4TUFTYmdMWTVqT3M5dElFSWV3UQ?oc=5",
+     "fecha": "2026-11-27T23:37:32.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "2a4142f00910",
+     "fuente": "google-cali-valle",
+     "medio": "365Scores",
+     "titulo": "Deportivo Cali vs Bucaramanga EN VIVO: resultado y posiciones",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jSklFSnlxWHVmazU4T1dGN2YxdGVCNEdvd09Mc1FwYVVCMmtnWVVEa0NCbzVRWDZfelVpUmxUZDRWYm1fMHRodzFtZksyaTlLUTlKenQ1WXF6VmJsSE5rNGRlUDYtSU5ua0o2dDhhZDh5RXk4ZldSUGFRUmhhUW8?oc=5",
+     "fecha": "2026-11-27T23:25:00.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "b68b1eb739d2",
+     "fuente": "elpais-cali",
+     "medio": "El País Cali",
+     "titulo": "Deportivo Cali Vs. Atlético Bucaramanga: reviva los mejores momentos del empate en Palmaseca",
+     "url": "https://www.elpais.com.co/deportes/deportivo-cali-vs-atletico-bucaramanga-en-vivo-siga-los-mejores-momentos-del-partido-de-la-liga-betplay-dimayor-2739.html",
+     "fecha": "2026-11-27T22:21:39.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "b742091bc9c4",
+     "fuente": "google-cali-valle",
+     "medio": "Futbolred",
+     "titulo": "Reviva el empate entre Deportivo Cali y Bucaramanga: harakiri en Palmaseca",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGRDRkJacmhXZTZka3k5NDA1bFNvOFRTalJpMjBfcW5obVF3bzJ4bmxLQi1OZ2hhUk9JYzNBRVZiaXpsdTFZVEdCbGJqcnppdjBHT01BaDVrSnVPVk5sQWFIQk0zNTJqTm5Kc2dLcjY2R083c0tiUWpCX1dfN2E3VDRMZXJJZ0pIRFFvZWlSeHJnRUFXWnNkNjFiYm1mUHZhY3QyM0dTYk1jLUhWaEpOQUc4ajBpM2NrNVpKVHh1Z0xWVEl1c2tCcmtrRkpZazZiLVlWX041S1owRmdTV3ZlS05mTGcxc245a1o0N9IB8gFBVV95cUxQdnBBcXN5X05qZUkyeXhmcUk0NFE2TTJvU1BJU3VCQjd1UnRERVB1LTBHU0JGMnRSUWhHNFhBMzFuUHJFb2FONXdybWxsbGNQdFZZa3cxTVdPN1liZWIxNGNVTHpueFg4SXhxVVI1NERzVmhCMUZpc1NlYk9QV1FSM0hfc3dFNE03VFk3bnFPUXpkZlRPeEJGMVVFb1I1dDZnaXVPSmxRbXhSYjcyd3hlYnZvVnpsMERTdWdvZV82czJWQzZWc00zdWgxd3dKTENRYXZ0YzFXSDN5RVdaSnZxRFNZSUtDU3ZBMUw0d1kzQjN0Zw?oc=5",
+     "fecha": "2026-11-27T22:20:20.000Z",
      "resumen": ""
     },
     {
@@ -355,62 +550,152 @@
      "resumen": ""
     },
     {
-     "id": "bc88643624c2",
-     "fuente": "google-colombia",
-     "medio": "Win Sports",
-     "titulo": "Millonarios vs. América: horario y dónde ver el clásico en cuadrangulares",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLU9tOGItMXNYdk5GWmxBRk8xMlZoSDIzTm9UTFZmSXlfd1VhbTAxT1BOa3p4dkwyMzA1Z0ZmZVVRUVpRaTZsSFE3NVljbmtUTlhVSktIWkpvZEg4V1Z0TzcySW9pQzRZemxlalBVSEg5R0djLWRjTklweEluV0xEX1NyTjBBcGd0VEtycGJNbGV6OEhIWkJYWDl5YXByandOU1JOdm1qSzdpS1NCdTBOZGFWTmtYa3R0RXhEOTdRQ3psbzhHRm1oNzJn?oc=5",
-     "fecha": "2026-11-27T16:20:06.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "a248268e6c3b",
+     "id": "be6c7319bf4b",
      "fuente": "google-cali-valle",
      "medio": "Win Sports",
-     "titulo": "Cali vs. Bucaramanga: horario y dónde ver la fecha 3 de cuadrangulares",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1ZZbENwTVBMTmpBWDBKaDI1MGZMRzJjckdyNkhHT19iVWFVOUprNUk4cVR2NVRweVgxa3J1RmtHSHlRUi1aLXphX1RJS184TXVjWHpJcW1yb3dQV2RZS2s1WHdYR2JCU3d2U0ZlazZkOXAwOVpTVzgyQ1hkVVc1VmVNUlJqZGZyUG1YZGNYM2xNM00xbl9NM0pZRUJ6cTZ3LU1xbVM5cExxbTFXU3o1QlFnQ092T0xKQms4MHFaZ1dHUW5yQ2c?oc=5",
-     "fecha": "2026-11-27T13:32:45.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "d7be3bc54467",
-     "fuente": "google-cali-valle",
-     "medio": "ESPN Colombia",
-     "titulo": "Millonarios anunció sus 20 convocados para enfrentarse vs América de Cali",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVVRaLS1BYVBLeklzSXZ1ckpZdWZwVDFsSTRHVWRwTWZoUF85a0pTRHBaamNidkZjN0lYd0VsN0pCY3JGUU5zbmZkOWotR1ppOFk1ZGF2S1NvajZiZ1VNR1VITFpYWklCeFJRb1JQR0dXV2ZIOHN1QnRZWEg4TlJuNXE2Y19hMV8zV0ZfTTVQQzAyME8xcVlsNmZKbDhYWHRxR1RRRVQyM1F0Sm1obUw3SDRtSXNydw?oc=5",
-     "fecha": "2026-11-27T04:04:01.000Z",
+     "titulo": "Cali y Bucaramanga empataron y siguen sin ganar en los cuadrangulares",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONVNxdy1BUmhWcXZ5QTJ6SWJnUjZJb3VodUhjWjZJVzJxUXhwLXd0TFhqMVd5enJmUzRXZ0tvWl8wekFkTFJPVjZ0NGxHQnFiQWxNZGpYRmFrVWZlamZOOGpiaFhmaVVxNDkteXJvWGRmYjZmbGdzZ2p2cU1jVVdua3F2Z3JCTS01TXA2WlpLQ2psZjBsNmFMeFMwYVJBazl2QXV5a29GSU0xc3JxZjl0bnY5UldXbDVFR2tCWjVuQzRxQkV6?oc=5",
+     "fecha": "2026-11-27T17:31:00.000Z",
      "resumen": ""
     }
    ],
    "medios": [
-    "Caracol Radio",
-    "Infobae Colombia",
+    "El País",
     "El País Cali",
+    "AS Colombia",
+    "ESPN Deportes",
     "365Scores",
-    "Claro Sports",
-    "Blu Radio",
-    "El Espectador",
-    "PrimerTiempo.CO",
+    "Futbolred",
     "El Tiempo",
-    "Win Sports",
-    "ESPN Colombia"
+    "Win Sports"
    ]
   },
   {
-   "id": "af7a4a574767",
+   "id": "1575961959f7",
+   "titular": "El encuentro frente a Boca Juniors de Cali se disputará este sábado 28 de noviembre, a las 4:30 de la tarde, en el estadio Centenario. Las restricciones de movilidad comenzarán desde las 11:30 de la mañana y se extenderán hasta las 8:00 de la noche. 🔗 Encuentre el link de la noticia en el primer…",
+   "region": "Cali y Valle",
+   "fecha": "2026-11-28T02:42:30.000Z",
+   "items": [
+    {
+     "id": "1575961959f7",
+     "fuente": "google-cali-valle",
+     "medio": "Facebook",
+     "titulo": "El encuentro frente a Boca Juniors de Cali se disputará este sábado 28 de noviembre, a las 4:30 de la tarde, en el estadio Centenario. Las restricciones de movilidad comenzarán desde las 11:30 de la mañana y se extenderán hasta las 8:00 de la noche. 🔗 Encuentre el link de la noticia en el primer…",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZnpFRmlxQ2U1UG5uSmZLTG5IbmI1UnB0UXV3ZGZJMlIzY1lONUlHSkJ6ei1uTm9EZENEMTRfNDN0TEU1bE1qSmtpcTNFQTYtU2oyRHBmZmZpVTFiLWZnWnhBN2t6bzl4QXc0aGpQLWdBLVZTX01HQzl2ZEg5MVljeHdEajBIUXBIcF9heE9kVWhnSVpWeG03YUVaM1VJODBwUHdmcm1vQlNNZVlfTFVKYUx2a3M0cEVyakdfbUFUU1FTalZuSzNiR1UwOXJOaU1GSmRacE5VLXNBLVpnRHNSbFFiTnhxemk0ZVZDeUpHSQ?oc=5",
+     "fecha": "2026-11-28T02:42:30.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Facebook"
+   ]
+  },
+  {
+   "id": "b1b0261c0d67",
+   "titular": "Deportivo Cali y Bucaramanga siguen sin ganar en los cuadrangulares de la Liga BetPlay: empataron 1-1 en Palmaseca",
+   "region": "Cali y Valle",
+   "fecha": "2026-11-28T01:48:46.000Z",
+   "items": [
+    {
+     "id": "b1b0261c0d67",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "Deportivo Cali y Bucaramanga siguen sin ganar en los cuadrangulares de la Liga BetPlay: empataron 1-1 en Palmaseca",
+     "url": "https://www.infobae.com/colombia/2026/11/27/deportivo-cali-vs-atletico-bucaramanga-liga-betplay-en-vivo-ambos-equipos-buscaran-salir-del-fondo-de-la-tabla-y-conseguir-los-primeros-tres-puntos/",
+     "fecha": "2026-11-28T01:48:46.000Z",
+     "resumen": "Pese a que los azucareros abrieron el marcador con Leyser Chaverra y tuvieron varias oportunidades, no aprovecharon la localía y cedió puntos ante el Leopardo que sacó un punto con el tanto de Luciano Pons"
+    }
+   ],
+   "medios": [
+    "Infobae Colombia"
+   ]
+  },
+  {
+   "id": "8aaf4f0d2e78",
+   "titular": "Deportivo Cali volvió a defraudar en casa ante Atlético Bucaramanga y complica sus aspiraciones de llegar a la final de la Liga",
+   "region": "Cali y Valle",
+   "fecha": "2026-11-28T01:43:28.000Z",
+   "items": [
+    {
+     "id": "8aaf4f0d2e78",
+     "fuente": "elpais-cali",
+     "medio": "El País Cali",
+     "titulo": "Deportivo Cali volvió a defraudar en casa ante Atlético Bucaramanga y complica sus aspiraciones de llegar a la final de la Liga",
+     "url": "https://www.elpais.com.co/deportes/deportivo-cali-volvio-a-defraudar-en-casa-ante-atletico-bucaramanga-y-complica-sus-aspiraciones-de-llegar-a-la-final-de-la-liga-2728.html",
+     "fecha": "2026-11-28T01:43:28.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "El País Cali"
+   ]
+  },
+  {
+   "id": "9a59438dab2d",
+   "titular": "Motocarro sin placas fue abandonado en el sector de La Casona, al oriente de Cali, generando pánico; esto se sabe",
+   "region": "Cali y Valle",
+   "fecha": "2026-11-28T01:40:08.000Z",
+   "items": [
+    {
+     "id": "9a59438dab2d",
+     "fuente": "elpais-cali",
+     "medio": "El País Cali",
+     "titulo": "Motocarro sin placas fue abandonado en el sector de La Casona, al oriente de Cali, generando pánico; esto se sabe",
+     "url": "https://www.elpais.com.co/cali/motocarro-sin-placas-fue-abandonado-en-el-sector-de-la-casona-al-oriente-de-cali-generando-panico-esto-se-sabe-2708.html",
+     "fecha": "2026-11-28T01:40:08.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "El País Cali"
+   ]
+  },
+  {
+   "id": "a5bbec76b6ab",
+   "titular": "Reparten puntos y dejan camino libre: las claves del empate entre Deportivo Cali y Atlético Bucaramanga",
+   "region": "Cali y Valle",
+   "fecha": "2026-11-28T01:39:37.000Z",
+   "items": [
+    {
+     "id": "a5bbec76b6ab",
+     "fuente": "google-cali-valle",
+     "medio": "Claro Sports",
+     "titulo": "Reparten puntos y dejan camino libre: las claves del empate entre Deportivo Cali y Atlético Bucaramanga",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0Rhb3JhcGx3TGczcHhxVFdFU1lVTWhkYzFIS3ZacjhnSGhXeWFObzI0UmhsZW9oakRqYnFpeEtQUi1WbURJaVZpZ190QmZoR1BlR042VG1HVkRsX2xjSEt6NG5tYW1uLXlSSnc1dXJ2ZlR6NEdXWktDNHZaVEFzbzRkM3Eybk01VHI4TjdZSTYxb3VFQmk0Tm1kclk?oc=5",
+     "fecha": "2026-11-28T01:39:37.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Claro Sports"
+   ]
+  },
+  {
+   "id": "178a2136e3b8",
+   "titular": "Cali y Bucaramanga repartieron puntos y se complican el pase a la final: Resumen del partido",
+   "region": "Cali y Valle",
+   "fecha": "2026-11-28T01:32:54.000Z",
+   "items": [
+    {
+     "id": "178a2136e3b8",
+     "fuente": "caracol",
+     "medio": "Caracol Radio",
+     "titulo": "Cali y Bucaramanga repartieron puntos y se complican el pase a la final: Resumen del partido",
+     "url": "https://caracol.com.co/2026/11/27/cali-vs-bucaramanga-en-vivo-fecha-3-de-cuadrangulares-de-liga-transmision-y-minuto-a-minuto/",
+     "fecha": "2026-11-28T01:32:54.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Caracol Radio"
+   ]
+  },
+  {
+   "id": "4e33421ab751",
    "titular": "Turismo a dos velocidades en Cali: Feria promete récords millonarios, pero el Concejo exige que la reactivación también llegue a barrios y zona rural",
    "region": "Cali y Valle",
    "fecha": "2026-11-28T01:12:33.000Z",
    "items": [
-    {
-     "id": "af7a4a574767",
-     "fuente": "google-cali-valle",
-     "medio": "El Tiempo",
-     "titulo": "Turismo a dos velocidades en Cali: Feria promete récords millonarios, pero el Concejo exige que la reactivación también llegue a barrios y zona rural",
-     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOa3UwbDNRckhtYXV6SF9FRVRhYk5sSVRCenBLcG5sQzdzQUVDbV9pNnNEZnh3UEZkbFE5SXB0VGJYcWhmTHZuWWhhV3RYM1EtcWRlNzQ1TTZ3U2cyMmlRRTVIN1hMcUtodnYyV2VsN2dvNXlKZE9sd3hYQVNnaXpDTnRKY3BiX0dZaU1LTU5VZjFOaDhMbVZZemFfZEQ4QWt4aWhfSXNPVFRxMmJ5THVNc1ZoTFpmQUZ5U0dtd09YVzFKbGpzMWtDOFhHaHdfNDU0NXV1TFNMX2hMbXltM3haTnJLZGpRbnZUOWRDVl91T241aWU3MUs5MEZ3cFZMNnZCMk1hTzhhZUp5QmU5eDNvWTlxc2hJRFBQek9OLUtHVdIBpAJBVV95cUxQZTE3NGJnellGbDdraGNBUGtBZ0UwWHE2UGd0OVh6VkFEREhHcUZqZDQ4LUZZN2Z3VFhtR09xZnlqN0tqM1RpTXhnNWpHNi1teUQyYTN0ZGdBLVJ6QVBSNGlSVTA3Y0FpWjNJZ2VGS3VWTHZrY3h4Q1J1RFd4T3V0TFY4cW9MU1BlenJTay1MZFQtNzN3WkpoOEEteUhoTTUwbXZMb2JRMy1MeXBoN2xXdDdqdU9qVXF0VjhQTG9oVkd3X2txLUtJR1RwZGh2bjNSdXNEcU9VSWdxVG8tQU1sYktYZUotdWJKMVNtS2JfV290ZzlLdjMyNTJIZ3o5NWd0djhJTko1cUt5TlVoQnBURG4xeWE0RXBySjJEWUU1RHBVbS1n?oc=5",
-     "fecha": "2026-11-28T01:12:33.000Z",
-     "resumen": ""
-    },
     {
      "id": "4e33421ab751",
      "fuente": "eltiempo",
@@ -423,66 +708,6 @@
    ],
    "medios": [
     "El Tiempo"
-   ]
-  },
-  {
-   "id": "b742091bc9c4",
-   "titular": "Cali 1-1 Bucaramanga EN VIVO: empuja el leopardo y Pons consigue empatar el partido",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-28T00:51:57.000Z",
-   "items": [
-    {
-     "id": "b742091bc9c4",
-     "fuente": "google-cali-valle",
-     "medio": "Futbolred",
-     "titulo": "Cali 1-1 Bucaramanga EN VIVO: empuja el leopardo y Pons consigue empatar el partido",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGRDRkJacmhXZTZka3k5NDA1bFNvOFRTalJpMjBfcW5obVF3bzJ4bmxLQi1OZ2hhUk9JYzNBRVZiaXpsdTFZVEdCbGJqcnppdjBHT01BaDVrSnVPVk5sQWFIQk0zNTJqTm5Kc2dLcjY2R083c0tiUWpCX1dfN2E3VDRMZXJJZ0pIRFFvZWlSeHJnRUFXWnNkNjFiYm1mUHZhY3QyM0dTYk1jLUhWaEpOQUc4ajBpM2NrNVpKVHh1Z0xWVEl1c2tCcmtrRkpZazZiLVlWX041S1owRmdTV3ZlS05mTGcxc245a1o0N9IB8gFBVV95cUxQdnBBcXN5X05qZUkyeXhmcUk0NFE2TTJvU1BJU3VCQjd1UnRERVB1LTBHU0JGMnRSUWhHNFhBMzFuUHJFb2FONXdybWxsbGNQdFZZa3cxTVdPN1liZWIxNGNVTHpueFg4SXhxVVI1NERzVmhCMUZpc1NlYk9QV1FSM0hfc3dFNE03VFk3bnFPUXpkZlRPeEJGMVVFb1I1dDZnaXVPSmxRbXhSYjcyd3hlYnZvVnpsMERTdWdvZV82czJWQzZWc00zdWgxd3dKTENRYXZ0YzFXSDN5RVdaSnZxRFNZSUtDU3ZBMUw0d1kzQjN0Zw?oc=5",
-     "fecha": "2026-11-28T00:51:57.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "be6c7319bf4b",
-     "fuente": "google-cali-valle",
-     "medio": "Win Sports",
-     "titulo": "🔴 EN VIVO: Cali vs. Bucaramanga - minuto a minuto y goles (fecha 3, grupo B)",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONVNxdy1BUmhWcXZ5QTJ6SWJnUjZJb3VodUhjWjZJVzJxUXhwLXd0TFhqMVd5enJmUzRXZ0tvWl8wekFkTFJPVjZ0NGxHQnFiQWxNZGpYRmFrVWZlamZOOGpiaFhmaVVxNDkteXJvWGRmYjZmbGdzZ2p2cU1jVVdua3F2Z3JCTS01TXA2WlpLQ2psZjBsNmFMeFMwYVJBazl2QXV5a29GSU0xc3JxZjl0bnY5UldXbDVFR2tCWjVuQzRxQkV6?oc=5",
-     "fecha": "2026-11-27T22:35:22.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "b68b1eb739d2",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "Deportivo Cali Vs. Atlético Bucaramanga, EN VIVO: el ‘Azucarero’ no encuentra el camino en los minutos finales",
-     "url": "https://www.elpais.com.co/deportes/deportivo-cali-vs-atletico-bucaramanga-en-vivo-siga-los-mejores-momentos-del-partido-de-la-liga-betplay-dimayor-2739.html",
-     "fecha": "2026-11-27T22:21:39.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Futbolred",
-    "Win Sports",
-    "El País Cali"
-   ]
-  },
-  {
-   "id": "248873cbc066",
-   "titular": "COMO SE PIENSA CONSTRUIR EN CALI, DESPUES DEL TERREMOTO.",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-28T00:50:59.000Z",
-   "items": [
-    {
-     "id": "248873cbc066",
-     "fuente": "google-cali-valle",
-     "medio": "HSB Noticias",
-     "titulo": "COMO SE PIENSA CONSTRUIR EN CALI, DESPUES DEL TERREMOTO.",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ05SckI5andjUnY1d215V01JVVAtQUlLSUh4ejRpVXA1UlQxSFBNZkdrSDJQZ19vVmFsY1ZxTmhVTVppRkRJS1lqcEFwdFZ6WFdnV1V4V1FVR0JsRzdTMDVHRGJFQU5QdjlKTFZSemlDV24wZzlEQlUwMnJJYmF5a3V3UTFESmIxY3hZRy1mTGw?oc=5",
-     "fecha": "2026-11-28T00:50:59.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "HSB Noticias"
    ]
   },
   {
@@ -515,45 +740,6 @@
    ]
   },
   {
-   "id": "e477067c341a",
-   "titular": "Reconstrucción de Cali y el Valle del Cauca: buscan más vivienda",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-28T00:04:44.000Z",
-   "items": [
-    {
-     "id": "e477067c341a",
-     "fuente": "google-cali-valle",
-     "medio": "Diario Occidente",
-     "titulo": "Reconstrucción de Cali y el Valle del Cauca: buscan más vivienda",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSndyOE5jR2c3bFBBNHNzelRUSThiLTJQLUNwOEF2MHpoZ0M0X2d5U3VfMTNWQ3dxOGduM3lWWV9JUVY0TUNSQnpLY3E1SXlBOE1KdDlzUWZRZUxBd25NclRRODh3NHlzQkFoc3lHM2pFOGxWeTJMUFBkU1ZuRFpVVGk5V29vMldIWTNfRkI1d0pEaktQd1FZTXo0U1lzTzhxQThMQ2psU1dHdC1DU0pxekx30gG8AUFVX3lxTFBGQnN4U1ZfQ0JEM1djXzBIaVB1dE1lTER1dHdxNTdaeHNXMGpIUkxjZ3o0d0V1Zk41R1F2Z1hnVWdwR1NKYjkxM0dUbW5sbDFBQXJsMVcxSTVlTkVKdnN1eVVhZzk5WF91ZnhHY3BZU1pjRWc4VE02VjNSbmxFVmxwRkJ0YmRzU1ZUWTJhZHBjRTEzRm5xanZvcjc2QXVWM0YwdWdxaUNoZUY2WElVUjd1bnJQVi03Z2RiZW9P?oc=5",
-     "fecha": "2026-11-28T00:04:44.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "0e9821a40605",
-     "fuente": "google-cali-valle",
-     "medio": "Pulzo",
-     "titulo": "JEP evalúa avances en protección de comunidades étnicas del Valle y Cauca en audiencia del Macrocaso 05 en Cali",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSXU0aVYxNWgyY2s1dmg0eGp6bzZOMVRqWUxnWlZ4QmdtWEoycVJ2bXpHQmVTM1l4a3pnbFFtTmhhS2d2dTQ5b1RwN0VUY0FhWkJmTDFGZ2cxc0syT3VnaHZJZEtKRlRPVFBCdVZxYzJZQUFiYWwydjZ4WUVOV1ByS1lQb1VvdllrdjViMEpKcWFmeGtJdVIwQm0xUGhiUEFjR1R4THI5Wk9MMFNIUzRLemhOY2wwRGxvUUtGYVBTUlpLR2NTWFJndlVJSk8tVFF5?oc=5",
-     "fecha": "2026-11-26T22:01:38.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "ef7cbb214eaa",
-     "fuente": "google-cali-valle",
-     "medio": "Pulzo",
-     "titulo": "Operación IRON en Valle del Cauca deja 89 capturas y desarticulación de 11 estructuras criminales en Cali y municipios",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSVA2UFRkaTVKelZUaHdhbTd5LWdIOTcwbFZsbTh6ckxud2FMbjdsN2lXeHlOdHFzcHkzTGRXbnNfQ21RTVVKa3o2WmpwWmc0bkJoUk41N2lBMGF4NFNUYWJDUF9wbHU2ZGxCa0ljMzVOdFpLSFNWRy1ZaGpsTmhUZGZHcXJ5dkJUYkJpWnRscGxWNlJZQWEtbWVMZUJGak0xMHVKYUtCRWk2c0kzQ3ItamE3VmZ3RFIxQjBlMEN4c9IBxAFBVV95cUxQR3hJRXlUWFFYeVp1cENyNTN0ejk3aFVndUtvSG9nc1dCSXE1d0ZzMUFwWXlpMHhiMmZtZ3RHUE55ZGROcnJuS2tGSG8xdldLX1NaekRZTWRIMDdLc0tiQkdRYk9odE9pdXZ5ejNrTE95azJmalBEZnUycWFORURCQzFSdjR1MEFaVFBzZU1MZWtQYTh0S0syRTF4bzFGUUdMck5DRF9MX3plc1ZkVjdiOGNoLThFcTF1Szl4M0s3RkxjRXVi?oc=5",
-     "fecha": "2026-11-26T15:40:48.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Diario Occidente",
-    "Pulzo"
-   ]
-  },
-  {
    "id": "46fe0d691439",
    "titular": "Regalos navideños a precios de fábrica y moda local: así se vive la feria ‘Calzacosto’ en Cali",
    "region": "Cali y Valle",
@@ -574,26 +760,6 @@
    ]
   },
   {
-   "id": "11589b355477",
-   "titular": "Cali vs. Bucaramanga (27 de Nov., 2026) Resultados en Vivo",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-27T23:37:32.000Z",
-   "items": [
-    {
-     "id": "11589b355477",
-     "fuente": "google-cali-valle",
-     "medio": "ESPN Deportes",
-     "titulo": "Cali vs. Bucaramanga (27 de Nov., 2026) Resultados en Vivo",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IV3Y0ODBGQU1vTDVhd2xEMzh3bFlFSXA0dTBLSkZYRVhyNzMxdFpxTHFvTkM4Sk9wd2lvYnk4WmdOeFpUMFNsZXAtRk4wcVBDMHlFV0dzakdScmpfcVB4TUFTYmdMWTVqT3M5dElFSWV3UQ?oc=5",
-     "fecha": "2026-11-27T23:37:32.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "ESPN Deportes"
-   ]
-  },
-  {
    "id": "b9ff13cfd0db",
    "titular": "De Cali a transformar vidas: la historia de Livi Betancur, una mujer que encontró en el servicio su propósito",
    "region": "Cali y Valle",
@@ -611,46 +777,6 @@
    ],
    "medios": [
     "El País Cali"
-   ]
-  },
-  {
-   "id": "2a4142f00910",
-   "titular": "Deportivo Cali vs Bucaramanga EN VIVO: resultado y posiciones",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-27T23:25:00.000Z",
-   "items": [
-    {
-     "id": "2a4142f00910",
-     "fuente": "google-cali-valle",
-     "medio": "365Scores",
-     "titulo": "Deportivo Cali vs Bucaramanga EN VIVO: resultado y posiciones",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jSklFSnlxWHVmazU4T1dGN2YxdGVCNEdvd09Mc1FwYVVCMmtnWVVEa0NCbzVRWDZfelVpUmxUZDRWYm1fMHRodzFtZksyaTlLUTlKenQ1WXF6VmJsSE5rNGRlUDYtSU5ua0o2dDhhZDh5RXk4ZldSUGFRUmhhUW8?oc=5",
-     "fecha": "2026-11-27T23:25:00.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "365Scores"
-   ]
-  },
-  {
-   "id": "8a8ccbd83c7e",
-   "titular": "Del sismo a la esperanza: así se moviliza Cali para apoyar a familias y emprendedores afectados",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-27T23:07:43.000Z",
-   "items": [
-    {
-     "id": "8a8ccbd83c7e",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "Del sismo a la esperanza: así se moviliza Cali para apoyar a familias y emprendedores afectados",
-     "url": "https://www.semana.com/mejor-colombia/articulo/del-sismo-a-la-esperanza-asi-se-moviliza-cali-para-apoyar-a-familias-y-emprendedores-afectados/202643/",
-     "fecha": "2026-11-27T23:07:43.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
    ]
   },
   {
@@ -691,6 +817,26 @@
    ],
    "medios": [
     "El País Cali"
+   ]
+  },
+  {
+   "id": "70f86559561b",
+   "titular": "Deportivo Cali dejó escapar dos puntos en Palmaseca y comprometió su clasificación",
+   "region": "Cali y Valle",
+   "fecha": "2026-11-27T22:35:07.000Z",
+   "items": [
+    {
+     "id": "70f86559561b",
+     "fuente": "elespectador",
+     "medio": "El Espectador",
+     "titulo": "Deportivo Cali dejó escapar dos puntos en Palmaseca y comprometió su clasificación",
+     "url": "https://www.elespectador.com/deportes/futbol-colombiano/otros-equipos/deportivo-cali-vs-atletico-bucaramanga-en-vivo-cuadrangulares-de-la-liga-betplay-2026-ii/",
+     "fecha": "2026-11-27T22:35:07.000Z",
+     "resumen": "Deportivo Cali empató 1-1 con Atlético Bucaramanga en su estadio y quedó a expensas de Millonarios y América de seguir en la lucha por la final."
+    }
+   ],
+   "medios": [
+    "El Espectador"
    ]
   },
   {
@@ -764,17 +910,17 @@
    ]
   },
   {
-   "id": "79ff14ccb828",
+   "id": "6a6210dca51f",
    "titular": "Cali suma esfuerzos con el Gobierno Nacional para devolver el hogar a familias afectadas por el terremoto",
    "region": "Cali y Valle",
    "fecha": "2026-11-27T22:16:00.000Z",
    "items": [
     {
-     "id": "79ff14ccb828",
+     "id": "6a6210dca51f",
      "fuente": "google-cali-valle",
      "medio": "Alcaldía de Santiago de Cali",
      "titulo": "Cali suma esfuerzos con el Gobierno Nacional para devolver el hogar a familias afectadas por el terremoto",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZG9oX3RRVlBDbF94dXViaDlFRUNEVlVTTklpX05yVzJWanlYakEyQno2RjU2NndrLUgwMmNUV3FhaXpadlN6bm9kMEc3TGc1cWVYam54ZFdZM3EwUU8xOWdZcXJhOXJPMERUX1dMMUYwZ2hZY3o0eVZ1dDk0aTdyVmVYTFk3ck5iaWlCY0hfc01LckVhWUp2VVpCVlh6dldkSXowbVd3TjNsa3U3dDBpZk03TS14NUZuVVRkN3RFY3dxcW5IN1BpRGVLN1pVN2g2c1hOUUgtU3VNZUdmdFV1eHVxMnhMa29Sbm5EQzVyZ25aZw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSG9ieHRaMkYxN1VYb0FXbFRUS0c4dlo0VC05TVF4SFA3VWVoeDVENXh4Q1hxNkpibEhhaWF2VlVYbUJlLXZQU3ZvZUJVNnV4eUNwRkxyZzNtOUVMVjFWT0lyWjQwaExXOUpXQnZGcFlHcXk3azFRSHltQUxjZEFmTmZvVTVnNDJyZTNaZkdoaVpFcm16YlF6SWh2ekU2ZkhGYV9vNXBwN3BtMmZyalp3UF8yaGg4RmUzVlVnbHdtRjh6Y1RZT0VYc2ZyMUJOWGoyTjB1RlFrZC1HcWlsZHQ4OFcwVkc0UQ?oc=5",
      "fecha": "2026-11-27T22:16:00.000Z",
      "resumen": ""
     }
@@ -824,23 +970,23 @@
    ]
   },
   {
-   "id": "26403e3d4234",
-   "titular": "Colgas trabaja en proyecto de descarbonización para más de 250 emprendedores",
+   "id": "1436e9cd428a",
+   "titular": "Quindío vs. Boca Juniors de Cali: hora y dónde ver la vuelta de la final semestral de la Primera B",
    "region": "Cali y Valle",
-   "fecha": "2026-11-27T22:03:37.000Z",
+   "fecha": "2026-11-27T22:05:00.000Z",
    "items": [
     {
-     "id": "26403e3d4234",
-     "fuente": "larepublica",
-     "medio": "La República",
-     "titulo": "Colgas trabaja en proyecto de descarbonización para más de 250 emprendedores",
-     "url": "https://www.larepublica.co/empresas/colgas-trabaja-en-proyecto-de-descarbonizacion-para-mas-de-250-emprendedores-4535577",
-     "fecha": "2026-11-27T22:03:37.000Z",
-     "resumen": "La iniciativa empezó, que este año e irá hasta 2029, llegará a ciudades como Bogotá, Medellín, Cali, Cartagena, Bucaramanga e Ibagué"
+     "id": "1436e9cd428a",
+     "fuente": "google-cali-valle",
+     "medio": "Infobae",
+     "titulo": "Quindío vs. Boca Juniors de Cali: hora y dónde ver la vuelta de la final semestral de la Primera B",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbjBDZERLNkJzUmd2UGJYMkpFMWJGZHkzaVpSS0pBa0oxYlU3bHUxbnZqWnR3WWNuSHVrOXc2NTgxeWRoTFJlS0lDNUFPYnEzLTRGT2FySldlWWZkNk9zZnl5SWIycG9oVHRxR2V0Y1BUeFFEQTFscFlhN2tzOERQNmNISHBOclloYTVXWGs4UTNYNmhIOHB3cm5YYTRLR2U1M3BEOE5JYzhfM0NrNE1QVFdqb2t1dXhCX3ZUaDlqTkF5ZGx5OU1xN1RTWjFQanVyOS1xMTdnek9aVzBwb0RHbEszcTfSAf8BQVVfeXFMTXluc0dyVFlMRmlTMUVCcmZWdUZLd3NNdFFhVTQ1ZHF1OENIb1Jzd2RwVEpoRmVEWmZMMm11S29SVkVMZm5NbVZpNnlZU3VvLWRzaVpJcS03QklJU3ZMRDhDeFVseU1obVJCZUZLZGZRdVMtMmpWN0ZUMkQxeV81WWlveEpmQzdDeXkwbEgwNmJoZS1aUExIVFNNOGEySzNKWENKaUJBa1lIUmlDRHFjREFqOGJTMGNpYkVYeGJXbVR0bWpJREVrdkkyTGZjR3FhOTFfY3M5ZXJFUmVMdmd6ZDB5Mmd0TlZsMVdDYk9HZUxqeGtra0x2WmFIQ0hrWTRn?oc=5",
+     "fecha": "2026-11-27T22:05:00.000Z",
+     "resumen": ""
     }
    ],
    "medios": [
-    "La República"
+    "Infobae"
    ]
   },
   {
@@ -901,26 +1047,6 @@
    ],
    "medios": [
     "90 Minutos"
-   ]
-  },
-  {
-   "id": "be5306888ad8",
-   "titular": "Alcaldía de Cali rechaza el asesinato de una mujer en el barrio La Base y pide esclarecer los hechos",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-27T20:53:00.000Z",
-   "items": [
-    {
-     "id": "be5306888ad8",
-     "fuente": "google-cali-valle",
-     "medio": "Alcaldía de Santiago de Cali",
-     "titulo": "Alcaldía de Cali rechaza el asesinato de una mujer en el barrio La Base y pide esclarecer los hechos",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMU90REZ2MDJGQ3V2c2d2S1FnM1JId21tY19NYk5MaEs4VWZnY25JWnpRanMyWlNRbVU1aVYydmN5TW5CdV9iRWlOVms0NVNvZzcxcF90SHlzUjRud0c1SFJqOWs3czhBTkNTaW5fdU5fOXhWZWpJZ3FaT1VuMmp2YjhCOWlzMVdiamQ2cXJLZWlRT1FDRVppYURXVHFkcVpfWFljZndkcWhOS2FTV2V0aE9kY2FERjRFWkJPTGtpejZsaGFFaXJEblVsSkppNGotMjFfVTg5RWFpbFFSaEFZ?oc=5",
-     "fecha": "2026-11-27T20:53:00.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Alcaldía de Santiago de Cali"
    ]
   },
   {
@@ -1044,17 +1170,17 @@
    ]
   },
   {
-   "id": "fbbbb43d9925",
+   "id": "b0c0eec3a23a",
    "titular": "Plan Cristo Rey inicia su segunda fase de recuperación vial en el centro de Cali",
    "region": "Cali y Valle",
    "fecha": "2026-11-27T20:02:00.000Z",
    "items": [
     {
-     "id": "fbbbb43d9925",
+     "id": "b0c0eec3a23a",
      "fuente": "google-cali-valle",
      "medio": "Alcaldía de Santiago de Cali",
      "titulo": "Plan Cristo Rey inicia su segunda fase de recuperación vial en el centro de Cali",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORktXLTNMd2VkRUVfdWpXZ3dBX3VGNE9UZmtQMHlKQWtnT2pURWVOeWJJWWh6WkEtb0VERjhrTHJNb2RuLW1LeFpjOUxrUDBZRkxkTVFNTm50TFRVODN3Wjd5SFJxRTZ1Z1FncXdGTU1GeWh2dzFEdlhRbFVjajVVZzRlODA0QVBfZnFjN1NUY0VkbF9Mem1NMFdlUUZYUFFNNFk2MWhsZndNeXlnM2o4QXVlZkw1LVZ4ZXg3bUwyRFRub0k3?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM3NkYkw0WkZRTWY5VTNVUGY2Nk5XaEpLNWVzS05HWFh2aTExQ3RQYzdJYU5XZzVOa0ItNE9IWnFlQ2RxZExENTJvU1lNVFpReXA3Nk5wenRhLThlYUlOcWlaeHQwc2lIREtDWDYtUm1aZVA5cWU0dG4xUWVBQlBmMW84S05JalkzRjItMERDRUEtM1owYzl4UUdxT1JxSG1QOTZtdmRMNHlTaTFXR2E4UnJCU29tUm1ja1plR0g0TzlKMi1leEh1TlpSUjFrTllPVEE?oc=5",
      "fecha": "2026-11-27T20:02:00.000Z",
      "resumen": ""
     }
@@ -1084,126 +1210,6 @@
    ]
   },
   {
-   "id": "1460f4b564c2",
-   "titular": "Se confirmó drástica decisión en la Feria de Cali 2026 por culpa del terremoto: suspendido uno de los principales eventos",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-27T19:50:59.000Z",
-   "items": [
-    {
-     "id": "1460f4b564c2",
-     "fuente": "infobae-colombia",
-     "medio": "Infobae Colombia",
-     "titulo": "Se confirmó drástica decisión en la Feria de Cali 2026 por culpa del terremoto: suspendido uno de los principales eventos",
-     "url": "https://www.infobae.com/colombia/2026/11/26/se-confirmo-drastica-decision-en-la-feria-de-cali-2026-por-culpa-del-terremoto-suspendido-uno-de-los-principales-eventos/",
-     "fecha": "2026-11-27T19:50:59.000Z",
-     "resumen": "El alcalde de Cali, Alejandro Eder, informó que la programación reunirá 54 eventos en las 22 comunas y los 15 corregimientos del municipio"
-    }
-   ],
-   "medios": [
-    "Infobae Colombia"
-   ]
-  },
-  {
-   "id": "a7cac3c9483c",
-   "titular": "Concejo denuncia que proyecto que garantizaría agua potable para la ladera de Cali se encuentra estancado",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-27T19:31:56.000Z",
-   "items": [
-    {
-     "id": "a7cac3c9483c",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "Concejo denuncia que proyecto que garantizaría agua potable para la ladera de Cali se encuentra estancado",
-     "url": "https://www.elpais.com.co/cali/concejo-denuncia-que-proyecto-que-garantizaria-agua-potable-para-la-ladera-de-cali-esta-estancado-2756.html",
-     "fecha": "2026-11-27T19:31:56.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El País Cali"
-   ]
-  },
-  {
-   "id": "731177efcaf3",
-   "titular": "Quindío vs. Boca Juniors de Cali: este será el arbitraje de la final",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-27T19:23:39.000Z",
-   "items": [
-    {
-     "id": "731177efcaf3",
-     "fuente": "google-cali-valle",
-     "medio": "Win Sports",
-     "titulo": "Quindío vs. Boca Juniors de Cali: este será el arbitraje de la final",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcUhORzdkalZVMGx2U0NLLVRNYzJtNE1sOUZOQnhIeTE1X1pfTjJWejdBcFdGSUhyZC1ENHZBLU9BRXBWbEhzT1I4UVBRQlRSVXJYYVhodFk5dVlHeDlJNzg2R01TRU9INVV6bThhRlVLeFQ4YXJwQlVTbDhldFItWkNocWxFZzhEWmVXYUhWemZETWRkYmwyX1VHcHdpS28zbXhkd2w0OXBMbU9jajZLVnhNMzVxZ1pVYU9LbjVfRHpINEU?oc=5",
-     "fecha": "2026-11-27T19:23:39.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Win Sports"
-   ]
-  },
-  {
-   "id": "9a33ba395956",
-   "titular": "En Marval, seguimos creyendo en Cali como hace más de 20 años",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-27T19:15:50.000Z",
-   "items": [
-    {
-     "id": "9a33ba395956",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "En Marval, seguimos creyendo en Cali como hace más de 20 años",
-     "url": "https://www.elpais.com.co/informacion-comercial/en-marval-seguimos-creyendo-en-cali-como-hace-mas-de-20-anos-2750.html",
-     "fecha": "2026-11-27T19:15:50.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El País Cali"
-   ]
-  },
-  {
-   "id": "dcff8c0a8d07",
-   "titular": "Así puede votar en las elecciones de junta directiva de la Cámara de Comercio de Cali",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-27T19:09:16.000Z",
-   "items": [
-    {
-     "id": "dcff8c0a8d07",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "Así puede votar en las elecciones de junta directiva de la Cámara de Comercio de Cali",
-     "url": "https://www.elpais.com.co/economia/asi-puede-votar-en-las-elecciones-de-junta-directiva-de-la-camara-de-comercio-de-cali-2716.html",
-     "fecha": "2026-11-27T19:09:16.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El País Cali"
-   ]
-  },
-  {
-   "id": "01e79d8e0322",
-   "titular": "Cali pedirá reabrir el censo de damnificados por el terremoto ante denuncias de falta de ayudas",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-27T18:03:17.000Z",
-   "items": [
-    {
-     "id": "01e79d8e0322",
-     "fuente": "google-cali-valle",
-     "medio": "Caracol Radio",
-     "titulo": "Cali pedirá reabrir el censo de damnificados por el terremoto ante denuncias de falta de ayudas",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGZUajBETG9sTF9FSVFxZnNDNnpFVVFzblpMZ2ZXMkhYNFA3QzVydWY2TGRCaWhYVWlhSTMxc2lHOWpycXRRUG43bm1tc0lwQ3h6N3BTY0FrNHBfTGRhMi10V2JMRmlKUzFicVEwTi1nWkdtOVIwZVVaZy01SnFFUFM1SlRFUEMyYTBfTGpJUHFKQjhhTjlZQnNBUU5BbUY1SXhlT3dUVUxSazNwNjh4Nzk0dXNUUU9wV2lIRGVjSHVKdUE4bXBqMWln0gHeAUFVX3lxTE13ektUdklxT0FzZ1AxckYza2FuQ2tzdFowQnI4amRnMXBuTE9lTEh3NE00RGVzVjlvZ05nZXZnOTlScHJyWWdWZnhReG5GWkdhLTVIZk1fMkNidjVMYTdSWmtkenc2MjI1MURISVNLWVIwT1p2TS1OSUNqeVhreXpTWW9neDJrLWR2RFVvbHJMZ3RraXdlQXNoREZWTTVVVE14SnI0WXpGU1N6YUhzUVhPcE1fazBibGhRam9oN2lYV1dXTHpSWk5yRk5kT1EtUzJ0TWhodkhmdF9hSUdrdw?oc=5",
-     "fecha": "2026-11-27T18:03:17.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
-   ]
-  },
-  {
    "id": "c19dd47d055e",
    "titular": "Ciudadanos de Estados Unidos, Cuba, México y Venezuela juraron lealtad a la Constitución: son colombianos por adopción en Cali",
    "region": "Cali y Valle",
@@ -1216,66 +1222,6 @@
      "titulo": "Ciudadanos de Estados Unidos, Cuba, México y Venezuela juraron lealtad a la Constitución: son colombianos por adopción en Cali",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQb0NZQjBWdkZuMmtua0VnNmdEZ2VyaXhxdjM2VFlicFZ6cERMSEJOWHlULWRPTVNNd2RzYmZ2TDdpcHppUjJfdjhtSkhBdGphaW16RXl5VUNmczM0MlY1bjV1bnFPNzBQSjRPdXFqbHlkQzdjYmFSN2padjBxV010WDZKa1h1MWRQUElUcUd3SWNSMzNHM1pFZ25WUXRJZUZlQVZ6ZklHQlhBY3N4Vm5wX1V6aDFEWnFSN0ZvZ3NCTVV6bWJ6bXFRcFhaWC00cVVCVlJuaGZydkQwYldCbUlHakJBM1k2bWFmbmdvLXo4VkpwYUc0VDhNVEE1bXdaZw?oc=5",
      "fecha": "2026-11-27T16:54:00.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Alcaldía de Santiago de Cali"
-   ]
-  },
-  {
-   "id": "0908b28912b5",
-   "titular": "Reportan manifestaciones en el norte de Cali, en inmediaciones de la sede del ICBF; hay cierres en la vía",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-27T16:34:49.000Z",
-   "items": [
-    {
-     "id": "0908b28912b5",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "Reportan manifestaciones en el norte de Cali, en inmediaciones de la sede del ICBF; hay cierres en la vía",
-     "url": "https://www.elpais.com.co/cali/reportan-manifestaciones-en-el-norte-de-cali-en-inmediaciones-de-la-sede-del-icbf-hay-cierres-en-la-via-2749.html",
-     "fecha": "2026-11-27T16:34:49.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El País Cali"
-   ]
-  },
-  {
-   "id": "050e84f67583",
-   "titular": "La recuperación vial de Cali avanza con más capacidad operativa y proyectos estratégicos",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-27T16:33:00.000Z",
-   "items": [
-    {
-     "id": "050e84f67583",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "La recuperación vial de Cali avanza con más capacidad operativa y proyectos estratégicos",
-     "url": "https://www.elpais.com.co/informacion-comercial/la-recuperacion-vial-de-cali-avanza-con-mas-capacidad-operativa-y-proyectos-estrategicos-2700.html",
-     "fecha": "2026-11-27T16:33:00.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El País Cali"
-   ]
-  },
-  {
-   "id": "417d026a68ff",
-   "titular": "Volviendo a transformar la madera para renacer tras el terremoto: historia sobre reactivación de negocios en Cali",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-27T16:32:00.000Z",
-   "items": [
-    {
-     "id": "417d026a68ff",
-     "fuente": "google-cali-valle",
-     "medio": "Alcaldía de Santiago de Cali",
-     "titulo": "Volviendo a transformar la madera para renacer tras el terremoto: historia sobre reactivación de negocios en Cali",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRllxVWlDY012WFRNM2FoVXBLdGdaS1pYVHktVml0emN5NTlpWnFhaU1KLWEwRkJFaGZlYi1WVTFGN2dkVjlfUnMwMG1mdmlPNUU1TVpaaUVBRU44X1N4MTBCdERTRi1jT1hldHNyQlU1VHFRQmJzYWM3UEozcGZCWEg2QklUWl9LY2d4YUtWbUxDd3Y5a1VubkRFaW5SYnpuOW05azdlZXJLdVRvendfeWExanM2RThvT3BnTElwYWp1bHo2V3NDSlZITnp5bVM4T25oeEhwcDF1alRlNHVNTnFDZC05bjAyOG51bEgzbw?oc=5",
-     "fecha": "2026-11-27T16:32:00.000Z",
      "resumen": ""
     }
    ],
@@ -1324,26 +1270,6 @@
    ]
   },
   {
-   "id": "be6f0a0cd596",
-   "titular": "Valle del Cauca presenta avances en el plan integral de cambio climático en Climalab",
-   "region": "Cali y Valle",
-   "fecha": "2026-11-27T15:04:00.000Z",
-   "items": [
-    {
-     "id": "be6f0a0cd596",
-     "fuente": "google-cali-valle",
-     "medio": "Gobernación del valle",
-     "titulo": "Valle del Cauca presenta avances en el plan integral de cambio climático en Climalab",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNczVjTTdFUVJfbDRxMU9NRVNSUlpTSUlsTUU1N0RER3lCb1FQZXhuQWlLSk5YbU5hYllYR19GTXB2b3ZTR0M2b0EweG92ZkNKWUZvOUlyTWRodkowTnlTTmlGQXJqUGdueURYYndxYjdIbV9lQWpLZGl1Tmp0TFpYSVdlRVdwT0MzU1FJNGVzZHlVQU9OYXhPc0V6RWZFdi1EczgwYThfMmdyVnhxNDBVVGh0WmNKSDlRVTNqazViemItSEhsV1ZFT3JuaU5qZk1iLXk2Qw?oc=5",
-     "fecha": "2026-11-27T15:04:00.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Gobernación del valle"
-   ]
-  },
-  {
    "id": "1150e5276f63",
    "titular": "Presupuesto de Cali para 2027 aumenta a $8,42 billones y fortalece la inversión social tras reclamos de concejales y comunidad",
    "region": "Cali y Valle",
@@ -1364,18 +1290,18 @@
    ]
   },
   {
-   "id": "9e1924c54ec8",
-   "titular": "Esto contestó el presidente Abelardo De La Espriella cuando le preguntaron cómo hace para trabajar 20 horas: “No falla”",
+   "id": "7d5a3f40d3c0",
+   "titular": "Los carros que mejor conservan su valor en Colombia: estos son los modelos más destacados en 2026",
    "region": "Nacional",
-   "fecha": "2026-11-28T01:18:03.000Z",
+   "fecha": "2026-11-28T11:40:00.000Z",
    "items": [
     {
-     "id": "9e1924c54ec8",
+     "id": "7d5a3f40d3c0",
      "fuente": "semana",
      "medio": "Semana",
-     "titulo": "Esto contestó el presidente Abelardo De La Espriella cuando le preguntaron cómo hace para trabajar 20 horas: “No falla”",
-     "url": "https://www.semana.com/politica/articulo/esto-contesto-el-presidente-abelardo-de-la-espriella-cuando-le-preguntaron-como-hace-para-trabajar-20-horas-no-falla/202603/",
-     "fecha": "2026-11-28T01:18:03.000Z",
+     "titulo": "Los carros que mejor conservan su valor en Colombia: estos son los modelos más destacados en 2026",
+     "url": "https://www.semana.com/vehiculos/articulo/los-carros-que-mejor-conservan-su-valor-en-colombia-estos-son-los-modelos-mas-destacados-en-2026/202600/",
+     "fecha": "2026-11-28T11:40:00.000Z",
      "resumen": ""
     }
    ],
@@ -1384,11 +1310,1596 @@
    ]
   },
   {
-   "id": "4b0844f892ed",
-   "titular": "De la Espriella pidió comenzar estudios de factibilidad del tren de cercanías del Caribe y lanzó pulla: “Lo que no se puede hacer son trenes intergalácticos”",
+   "id": "6dda555349ee",
+   "titular": "Revelan qué tiene que ver Messi con el avión de la tragedia Chapecoense, a 10 años del accidente",
    "region": "Nacional",
-   "fecha": "2026-11-28T01:16:04.000Z",
+   "fecha": "2026-11-28T11:36:05.000Z",
    "items": [
+    {
+     "id": "6dda555349ee",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Revelan qué tiene que ver Messi con el avión de la tragedia Chapecoense, a 10 años del accidente",
+     "url": "https://www.semana.com/deportes/articulo/revelan-que-tiene-que-ver-messi-con-el-avion-de-la-tragedia-chapecoense-a-10-anos-del-accidente/202605/",
+     "fecha": "2026-11-28T11:36:05.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "17076290a8e5",
+   "titular": "Ya fueron rescatados tres de los cuatro trabajadores que estaban atrapados en una mina de Remedios",
+   "region": "Nacional",
+   "fecha": "2026-11-28T11:34:11.000Z",
+   "items": [
+    {
+     "id": "17076290a8e5",
+     "fuente": "caracol",
+     "medio": "Caracol Radio",
+     "titulo": "Ya fueron rescatados tres de los cuatro trabajadores que estaban atrapados en una mina de Remedios",
+     "url": "https://caracol.com.co/2026/11/28/ya-fueron-rescatados-tres-de-los-cuatro-trabajadores-que-estaban-atrapados-en-una-mina-de-remedios/",
+     "fecha": "2026-11-28T11:34:11.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Caracol Radio"
+   ]
+  },
+  {
+   "id": "bfb80eaa8233",
+   "titular": "Previsión meteorológica del estado del tiempo en Barranquilla para este sábado 28 de noviembre",
+   "region": "Nacional",
+   "fecha": "2026-11-28T11:32:47.000Z",
+   "items": [
+    {
+     "id": "bfb80eaa8233",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "Previsión meteorológica del estado del tiempo en Barranquilla para este sábado 28 de noviembre",
+     "url": "https://www.infobae.com/colombia/2026/11/28/prevision-meteorologica-del-estado-del-tiempo-en-barranquilla-para-este-sabado-28-de-noviembre/",
+     "fecha": "2026-11-28T11:32:47.000Z",
+     "resumen": "Las costas del Mar Caribe al Norte, la corriente del Océano Pacífico y las cordilleras que atraviesan de norte a sur, son las que definen el estado del tiempo en el país"
+    }
+   ],
+   "medios": [
+    "Infobae Colombia"
+   ]
+  },
+  {
+   "id": "4c01c74568d4",
+   "titular": "Prepárese antes de salir: Este es el pronóstico del clima en Medellín este 28 de noviembre",
+   "region": "Nacional",
+   "fecha": "2026-11-28T11:32:28.000Z",
+   "items": [
+    {
+     "id": "4c01c74568d4",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "Prepárese antes de salir: Este es el pronóstico del clima en Medellín este 28 de noviembre",
+     "url": "https://www.infobae.com/colombia/2026/11/28/preparese-antes-de-salir-este-es-el-pronostico-del-clima-en-medellin-este-28-de-noviembre/",
+     "fecha": "2026-11-28T11:32:28.000Z",
+     "resumen": "El clima en Colombia se ve afectado debido a su complejidad geográfica como lo son las costas del Mar Caribe al Norte, la corriente del Océano Pacífico, así como las cordilleras que lo atraviesan por el centro de norte a sur."
+    }
+   ],
+   "medios": [
+    "Infobae Colombia"
+   ]
+  },
+  {
+   "id": "980da914aef1",
+   "titular": "Los 3 destinos de Colombia que esconden historias paranormales y puede conocer este fin de semana",
+   "region": "Nacional",
+   "fecha": "2026-11-28T11:30:00.000Z",
+   "items": [
+    {
+     "id": "980da914aef1",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Los 3 destinos de Colombia que esconden historias paranormales y puede conocer este fin de semana",
+     "url": "https://www.semana.com/turismo/articulo/los-3-destinos-de-colombia-que-esconden-historias-paranormales-y-puede-conocer-este-fin-de-semana/202600/",
+     "fecha": "2026-11-28T11:30:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "9f33f5b6c6af",
+   "titular": "India, un espejo para Colombia en startups: así es el puente estratégico que busca afianzar este ecosistema tecnológico",
+   "region": "Nacional",
+   "fecha": "2026-11-28T11:28:23.000Z",
+   "items": [
+    {
+     "id": "9f33f5b6c6af",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "India, un espejo para Colombia en startups: así es el puente estratégico que busca afianzar este ecosistema tecnológico",
+     "url": "https://www.semana.com/economia/emprendimiento/articulo/india-un-espejo-para-colombia-en-startups-asi-es-el-puente-estrategico-que-busca-afianzar-este-ecosistema-tecnologico/202623/",
+     "fecha": "2026-11-28T11:28:23.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "4627227a1ee8",
+   "titular": "“Joya turística mundial”: reconocida playa colombiana recibió importante distinción ambiental",
+   "region": "Nacional",
+   "fecha": "2026-11-28T11:20:00.000Z",
+   "items": [
+    {
+     "id": "4627227a1ee8",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "“Joya turística mundial”: reconocida playa colombiana recibió importante distinción ambiental",
+     "url": "https://www.semana.com/sostenible/articulo/joya-turistica-mundial-reconocida-playa-colombiana-recibio-importante-distincion-ambiental/202600/",
+     "fecha": "2026-11-28T11:20:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "2cf1c7426baa",
+   "titular": "El pueblo colombiano de calles empedradas y encanto colonial que ‘Travel + Leisure’ recomienda visitar: “Uno de los más bonitos”",
+   "region": "Nacional",
+   "fecha": "2026-11-28T11:10:00.000Z",
+   "items": [
+    {
+     "id": "2cf1c7426baa",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "El pueblo colombiano de calles empedradas y encanto colonial que ‘Travel + Leisure’ recomienda visitar: “Uno de los más bonitos”",
+     "url": "https://www.semana.com/turismo/articulo/el-pueblo-colombiano-de-calles-empedradas-y-encanto-colonial-que-travel-leisure-recomienda-visitar-uno-de-los-mas-bonitos/202600/",
+     "fecha": "2026-11-28T11:10:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "9b383ae9eed4",
+   "titular": "¿Jugó la lotería este viernes? Estos fueron los números ganadores de Medellín, Santander y Risaralda",
+   "region": "Nacional",
+   "fecha": "2026-11-28T11:02:13.000Z",
+   "items": [
+    {
+     "id": "9b383ae9eed4",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "¿Jugó la lotería este viernes? Estos fueron los números ganadores de Medellín, Santander y Risaralda",
+     "url": "https://www.semana.com/loterias/articulo/jugo-la-loteria-este-viernes-estos-fueron-los-numeros-ganadores-de-medellin-santander-y-risaralda/202613/",
+     "fecha": "2026-11-28T11:02:13.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "3e6f0a4bd603",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "Lotería de Risaralda: resultados ganadores del sábado 28 de noviembre",
+     "url": "https://www.infobae.com/colombia/2026/11/28/loteria-de-risaralda-resultados-ganadores-del-sabado-28-de-noviembre/",
+     "fecha": "2026-11-28T06:16:14.000Z",
+     "resumen": "Más allá de la suerte, cada boleto adquirido representa una contribución directa a proyectos comunitarios"
+    },
+    {
+     "id": "3491394df842",
+     "fuente": "google-colombia",
+     "medio": "Noticias Caracol",
+     "titulo": "Lotería de Medellín resultados del último sorteo del 27 de noviembre de 2026: premio mayor",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVU9BYmJaWUtxOTlhZWNnU1A4TDZURk1zdE5TS3JtQlBkSVYta21NeEpjWXRwZmJJRUR2LURsb2JKeFlSaU12MmxqUUFiQzVhM21sTFFpNTFNNXFMdzdEaFJPb0dqNVZ6UWh3VWNBYjRnOWhYNnprNFgzTlpqWFF4b3o0RTBEMlQyT1ZvNHVDdFpzanFpRkZfZ3FwaEdLVTNFalhZZ0VsSTQ0eFRmVVBVeEpCVE1PMVRNWU1rNXU5TzhlVU04Z29hNGNhTVpqakhl0gHeAUFVX3lxTFB5NENHRXJsNzhMeWVSOVJoRmdZaExpc2U4RWd4akZTaEZ5bDJwZEhRd29Nd0dpVDBOLWJwY09CeVhRREY0ZVhmbVZqTXpRZDlwZUlNLTd5SERQZVFJV1pubUExRXpjeHdYMExuZHctYmw3Z2M0RDIydmNLNk9heXJ4UVU1eVVHWmdJcEoxNjd5TU5Cclg5UmVPRUVTUjVENWxobDh5cWdacVNfZWNVc0wyMVBwNXFhYnAzTHhzNjZ6OEE5ZTluYXBnRnJsZ2psTzFJZXRXVzRoSllLZDlVUQ?oc=5",
+     "fecha": "2026-11-28T03:30:00.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "0f50b03df2fc",
+     "fuente": "caracol",
+     "medio": "Caracol Radio",
+     "titulo": "Resultados Lotería de Medellín, Santander, Risaralda y MiLoto HOY 27 de noviembre de 2026",
+     "url": "https://caracol.com.co/2026/11/27/resultados-loteria-de-medellin-santander-risaralda-y-miloto-hoy-27-de-noviembre-de-2026/",
+     "fecha": "2026-11-27T22:29:19.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "23ce10b73c56",
+     "fuente": "google-colombia",
+     "medio": "Noticias Caracol",
+     "titulo": "Lotería de Bogotá resultados último sorteo 26 de noviembre de 2026: números ganadores",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObG81dVgxbk16ODJGMm51d0RoOGdPUHZidHNGSlJtNC05elI1aTZuRHIxVXJORTZIenVZSGcxclBncl9pOG8xSFlET2l6UVZRaTNXTWMzQmVfTlk0OFpVeXI2emVpWGRmS19FemZmbzJsTlZwSVVWSWRPTmloR2V6cWdlbkVzdnpiYlNrUEtHcFlPV21mWHNnaEFFN0E1SU1nNUdBaF9IYmNsU2dFemdkOExZdnZQZ2Z3Sld0V0JuRkgwNTdCTWw1VHJn0gHXAUFVX3lxTE9IcEZlUWZLYVQxOWtpWG5ldFNjekF4SDE1YkZCbTJUakdGZ3ZGM3FpTUV3dW5qYjgtN0J1cGY2Uzl5WXNFWnU0a3dWeENTZUFQXzdWZjhTQWRwWlRlYWVVb2Q1VzcwOTBUOFY0cG5UZDI0dVFmQ0NoVklWNjBIbHlIX1hEQmF3dzg1RndDOUdWZnh1NHNDSmlFMTk2NW5WTzBiZlZXczN4M04xQTZEVE9mTWQwelhQVFUzWl9jMXA4WTJ4cUlCbVQwYnRGTUZCVHNiWU5vVWlR?oc=5",
+     "fecha": "2026-11-27T03:30:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana",
+    "Infobae Colombia",
+    "Noticias Caracol",
+    "Caracol Radio"
+   ]
+  },
+  {
+   "id": "a97befc6ed8b",
+   "titular": "Gobernador Eduardo Verano impulsa tren que conectaría a Riohacha con Montería",
+   "region": "Nacional",
+   "fecha": "2026-11-28T11:01:00.000Z",
+   "items": [
+    {
+     "id": "a97befc6ed8b",
+     "fuente": "caracol",
+     "medio": "Caracol Radio",
+     "titulo": "Gobernador Eduardo Verano impulsa tren que conectaría a Riohacha con Montería",
+     "url": "https://caracol.com.co/2026/11/28/gobernador-eduardo-verano-impulsa-tren-que-conectaria-a-riohacha-con-monteria/",
+     "fecha": "2026-11-28T11:01:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Caracol Radio"
+   ]
+  },
+  {
+   "id": "79ffb2080e00",
+   "titular": "Cartagena avanza. Estas son las cifras que respaldan la transformación de la ciudad",
+   "region": "Nacional",
+   "fecha": "2026-11-28T11:00:00.000Z",
+   "items": [
+    {
+     "id": "79ffb2080e00",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Cartagena avanza. Estas son las cifras que respaldan la transformación de la ciudad",
+     "url": "https://www.semana.com/mejor-colombia/articulo/cartagena-avanza-estas-son-las-cifras-que-respaldan-la-transformacion-de-la-ciudad/202600/",
+     "fecha": "2026-11-28T11:00:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "0e77518a5e78",
+   "titular": "Se le negó con Petro la Fórmula 1, pero disfrutó la Copa Sudamericana: Barranquilla se desquitó y va por la Libertadores",
+   "region": "Nacional",
+   "fecha": "2026-11-28T11:00:00.000Z",
+   "items": [
+    {
+     "id": "0e77518a5e78",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Se le negó con Petro la Fórmula 1, pero disfrutó la Copa Sudamericana: Barranquilla se desquitó y va por la Libertadores",
+     "url": "https://www.semana.com/deportes/articulo/se-le-nego-con-petro-la-formula-1-pero-disfruto-la-copa-sudamericana-barranquilla-se-desquito-y-va-por-la-libertadores/202600/",
+     "fecha": "2026-11-28T11:00:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "d7cce9042028",
+   "titular": "¿Cómo ha logrado el Tolima responder a los desafíos de seguridad y desastres naturales? Gobernadora habla de la estrategia",
+   "region": "Nacional",
+   "fecha": "2026-11-28T11:00:00.000Z",
+   "items": [
+    {
+     "id": "d7cce9042028",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "¿Cómo ha logrado el Tolima responder a los desafíos de seguridad y desastres naturales? Gobernadora habla de la estrategia",
+     "url": "https://www.semana.com/mejor-colombia/articulo/como-ha-logrado-el-tolima-responder-a-los-desafios-de-seguridad-y-desastres-naturales-gobernadora-habla-de-la-estrategia/202600/",
+     "fecha": "2026-11-28T11:00:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "fb6bb0de87ef",
+   "titular": "El Capitolio Nacional cumple 100 años. ¿Por qué es un edificio tan importante para los colombianos?",
+   "region": "Nacional",
+   "fecha": "2026-11-28T11:00:00.000Z",
+   "items": [
+    {
+     "id": "fb6bb0de87ef",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "El Capitolio Nacional cumple 100 años. ¿Por qué es un edificio tan importante para los colombianos?",
+     "url": "https://www.semana.com/mejor-colombia/articulo/el-capitolio-nacional-cumple-100-anos-por-que-es-un-edificio-tan-importante-para-los-colombianos/202600/",
+     "fecha": "2026-11-28T11:00:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "1baa00160383",
+   "titular": "Más allá del simple intercambio",
+   "region": "Nacional",
+   "fecha": "2026-11-28T10:50:00.000Z",
+   "items": [
+    {
+     "id": "1baa00160383",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Más allá del simple intercambio",
+     "url": "https://www.semana.com/opinion/articulo/mas-alla-del-simple-intercambio/202600/",
+     "fecha": "2026-11-28T10:50:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "f06f10d35dfa",
+   "titular": "Air-e realizará trabajos eléctricos en Chorrera y Sabanalarga este sábado: habrá cortes de energía",
+   "region": "Nacional",
+   "fecha": "2026-11-28T10:27:00.000Z",
+   "items": [
+    {
+     "id": "f06f10d35dfa",
+     "fuente": "caracol",
+     "medio": "Caracol Radio",
+     "titulo": "Air-e realizará trabajos eléctricos en Chorrera y Sabanalarga este sábado: habrá cortes de energía",
+     "url": "https://caracol.com.co/2026/11/28/air-e-realizara-trabajos-electricos-en-chorrera-y-sabanalarga-este-sabado-habra-cortes-de-energia/",
+     "fecha": "2026-11-28T10:27:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Caracol Radio"
+   ]
+  },
+  {
+   "id": "991f5c1f513c",
+   "titular": "Así fue el saqueo a la SAE en el gobierno Petro. Crearon Activos por Colombia para apropiarse de cerca de $6.000 millones",
+   "region": "Nacional",
+   "fecha": "2026-11-28T10:09:27.000Z",
+   "items": [
+    {
+     "id": "991f5c1f513c",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Así fue el saqueo a la SAE en el gobierno Petro. Crearon Activos por Colombia para apropiarse de cerca de $6.000 millones",
+     "url": "https://www.semana.com/nacion/articulo/asi-fue-el-saqueo-a-la-sae-en-el-gobierno-petro-crearon-activos-por-colombia-para-apropiarse-de-cerca-de-6000-millones/202627/",
+     "fecha": "2026-11-28T10:09:27.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "167e5227415e",
+   "titular": "Colombia, entre los países más atacados por ciberdelincuentes en América Latina",
+   "region": "Nacional",
+   "fecha": "2026-11-28T09:48:52.000Z",
+   "items": [
+    {
+     "id": "167e5227415e",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Colombia, entre los países más atacados por ciberdelincuentes en América Latina",
+     "url": "https://www.semana.com/tecnologia/articulo/colombia-entre-los-paises-mas-atacados-por-ciberdelincuentes-en-america-latina/202652/",
+     "fecha": "2026-11-28T09:48:52.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "4328adc62b2e",
+   "titular": "SEMANA revela detalles del asalto en el Éxito de Cartagena: así se habría planeado el aparatoso robo",
+   "region": "Nacional",
+   "fecha": "2026-11-28T09:47:18.000Z",
+   "items": [
+    {
+     "id": "4328adc62b2e",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "SEMANA revela detalles del asalto en el Éxito de Cartagena: así se habría planeado el aparatoso robo",
+     "url": "https://www.semana.com/nacion/cartagena/articulo/semana-revela-detalles-del-asalto-en-el-exito-de-cartagena-asi-se-habria-planeado-el-aparatoso-robo/202618/",
+     "fecha": "2026-11-28T09:47:18.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "d79f92ff6937",
+     "fuente": "eltiempo",
+     "medio": "El Tiempo",
+     "titulo": "Revelan cuánto tiempo habrían planeado los delincuentes el asalto que terminó en secuestro en Éxito de Cartagena: uno de ellos contó detalles a rehén",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/revelan-cuanto-tiempo-habrian-planeado-los-delincuentes-el-secuestro-masivo-en-el-exito-de-cartagena-uno-de-ellos-le-conto-detalles-a-un-rehen-3605101",
+     "fecha": "2026-11-28T03:56:38.000Z",
+     "resumen": "El fiscal del caso leyó un testimonio en medio de la audiencia de legalización de captura."
+    }
+   ],
+   "medios": [
+    "Semana",
+    "El Tiempo"
+   ]
+  },
+  {
+   "id": "7758ddf3a03a",
+   "titular": "“Juegos sexuales o lo que ella quiera”: así cayó en España el exgobernador Carlos Caicedo. SEMANA reveló investigación clave",
+   "region": "Nacional",
+   "fecha": "2026-11-28T09:43:20.000Z",
+   "items": [
+    {
+     "id": "7758ddf3a03a",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "“Juegos sexuales o lo que ella quiera”: así cayó en España el exgobernador Carlos Caicedo. SEMANA reveló investigación clave",
+     "url": "https://www.semana.com/nacion/articulo/juegos-sexuales-o-lo-que-ella-quiera-asi-cayo-en-espana-el-exgobernador-carlos-caicedo-semana-revelo-investigacion-clave/202620/",
+     "fecha": "2026-11-28T09:43:20.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "c0d3a499e9af",
+   "titular": "El habitante de calle que radicó una tutela que podría provocar un nuevo Estado de Cosas Inconstitucional",
+   "region": "Nacional",
+   "fecha": "2026-11-28T09:41:39.000Z",
+   "items": [
+    {
+     "id": "c0d3a499e9af",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "El habitante de calle que radicó una tutela que podría provocar un nuevo Estado de Cosas Inconstitucional",
+     "url": "https://www.semana.com/nacion/articulo/el-habitante-de-calle-que-radico-una-tutela-que-podria-provocar-un-nuevo-estado-de-cosas-inconstitucional/202639/",
+     "fecha": "2026-11-28T09:41:39.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "24124311e752",
+   "titular": "Exclusivo: negociadora de la Policía en secuestro del Éxito en Cartagena habló con SEMANA. Los momentos más dramáticos del rescate",
+   "region": "Nacional",
+   "fecha": "2026-11-28T09:39:00.000Z",
+   "items": [
+    {
+     "id": "24124311e752",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Exclusivo: negociadora de la Policía en secuestro del Éxito en Cartagena habló con SEMANA. Los momentos más dramáticos del rescate",
+     "url": "https://www.semana.com/nacion/articulo/exclusivo-negociadora-de-la-policia-en-secuestro-del-exito-en-cartagena-hablo-con-semana-los-mas-momentos-dramaticos-del-rescate/202600/",
+     "fecha": "2026-11-28T09:39:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "76eea72515b3",
+   "titular": "Esta es la apuesta por la excelencia médica de la Universidad Militar Nueva Granada",
+   "region": "Nacional",
+   "fecha": "2026-11-28T09:34:00.000Z",
+   "items": [
+    {
+     "id": "76eea72515b3",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Esta es la apuesta por la excelencia médica de la Universidad Militar Nueva Granada",
+     "url": "https://www.semana.com/foros-semana/articulo/esta-es-la-apuesta-por-la-excelencia-medica-de-la-universidad-militar-nueva-granada/202600/",
+     "fecha": "2026-11-28T09:34:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "b24714e5de2f",
+   "titular": "Salud respiratoria: ¿cómo impacta el corazón?",
+   "region": "Nacional",
+   "fecha": "2026-11-28T09:33:00.000Z",
+   "items": [
+    {
+     "id": "b24714e5de2f",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Salud respiratoria: ¿cómo impacta el corazón?",
+     "url": "https://www.semana.com/foros-semana/articulo/salud-respiratoria-como-impacta-el-corazon/202600/",
+     "fecha": "2026-11-28T09:33:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "519d6d5b40a8",
+   "titular": "Lotería de Santander, estos fueron los resultados del último sorteo de hoy viernes 27 de noviembre de 2026",
+   "region": "Nacional",
+   "fecha": "2026-11-28T09:30:00.000Z",
+   "items": [
+    {
+     "id": "519d6d5b40a8",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "Lotería de Santander, estos fueron los resultados del último sorteo de hoy viernes 27 de noviembre de 2026",
+     "url": "https://www.infobae.com/colombia/2026/11/28/loteria-de-santander-estos-fueron-los-resultados-del-ultimo-sorteo-de-hoy-viernes-27-de-noviembre-de-2026/",
+     "fecha": "2026-11-28T09:30:00.000Z",
+     "resumen": "Como cada sábado, aquí están los números ganadores del últimos sorteo de esta lotería colombiana"
+    },
+    {
+     "id": "81a31860e9b8",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "Lotería de Medellín: revisa el premio mayor y resultados del viernes 27 de noviembre de 2026",
+     "url": "https://www.infobae.com/colombia/2026/11/28/loteria-de-medellin-revisa-el-premio-mayor-y-resultados-del-viernes-27-de-noviembre-de-2026/",
+     "fecha": "2026-11-28T09:00:00.000Z",
+     "resumen": "Como cada viernes aquí están los resultados de la Lotería de Medellín"
+    },
+    {
+     "id": "63145129bc29",
+     "fuente": "google-colombia",
+     "medio": "Blu Radio",
+     "titulo": "¡Cayó MiLoto! Conozca resultados del sorteo del viernes 27 de noviembre de 2026 y nuevo acumulado",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdU9Tb1U5eWFzTDhUNjZvdlZkZnhiVmNGSk5TN0lEbjc0S3duVnp1NFBBQl9rV3V5NndFWEpMVkxuYkY3LU5pNUw5dUFRaUthdjhNUUlpMmlLZlQxOFNCTm1BajRjQkktQUtCdnRTODRXc0hUX1oybGhIZzd0X2dSb0RfcEJUUDRhNTY3dEpkV2JULVI4VGRKOGpneVlvTU1KU201UkdqWGxkNlM3eXoyc0pCVUZsNkwzMkY1MUpwelBoUdIBzwFBVV95cUxOcy00T2R6S21sdHRiRWNyaWZLdV9mLXBMVjNTUEYzTVBiUGpXSlljdzlvUzRnelpFXzBBMUFkNGMtZkdQVEQwSlJEcFVHY3dBQy1reGM3VmJybnJlU2JobEtxSmo4Q0JrSW1zVXkyYTJVcTRReWs5X1I4OXJiZE45OHBIZ1VNMnQ1TlM2dU55U3Iyc3JVWGphajE0Ykh4RXJKb2tsZlY4dnRJeF9sdXpjczFzcVhsQmNOLXFlOTM4TW1RbTFjSlRsamRlNkg1XzQ?oc=5",
+     "fecha": "2026-11-28T02:58:53.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "1196fb9026f0",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "Resultado Chontico Noche: números ganadores del último sorteo hoy, viernes 27 de noviembre de 2026",
+     "url": "https://www.infobae.com/colombia/2026/11/28/resultado-chontico-noche-numeros-ganadores-del-ultimo-sorteo-hoy-viernes-27-de-noviembre-de-2026/",
+     "fecha": "2026-11-28T02:01:20.000Z",
+     "resumen": "Los sorteos de esta lotería se llevan a cabo todas las noches en el país. A continuación le compartimos los últimos números que salieron ganadores"
+    }
+   ],
+   "medios": [
+    "Infobae Colombia",
+    "Blu Radio"
+   ]
+  },
+  {
+   "id": "ad5411b5372a",
+   "titular": "Grave incendio en Chinchiná, Caldas, dejó seis viviendas destruidas: organismos de socorro lograron controlar las llamas",
+   "region": "Nacional",
+   "fecha": "2026-11-28T09:22:14.000Z",
+   "items": [
+    {
+     "id": "ad5411b5372a",
+     "fuente": "eltiempo",
+     "medio": "El Tiempo",
+     "titulo": "Grave incendio en Chinchiná, Caldas, dejó seis viviendas destruidas: organismos de socorro lograron controlar las llamas",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/grave-incendio-en-chinchina-caldas-dejo-seis-viviendas-destruidas-organismos-de-socorro-lograron-controlar-las-llamas-3605120",
+     "fecha": "2026-11-28T09:22:14.000Z",
+     "resumen": "El gobernador Henry Gutiérrez Ángel entregó reportes a medida que la emergencia avanzaba."
+    },
+    {
+     "id": "5cb804ccc35f",
+     "fuente": "caracol",
+     "medio": "Caracol Radio",
+     "titulo": "Organismos de socorro controlan fuerte incendio estructural en Chinchiná, Caldas",
+     "url": "https://caracol.com.co/2026/11/28/organismos-de-socorro-controlan-fuerte-incendio-estructural-en-chinchina-caldas/",
+     "fecha": "2026-11-28T08:34:55.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "El Tiempo",
+    "Caracol Radio"
+   ]
+  },
+  {
+   "id": "fc87d39fe7a0",
+   "titular": "Los requisitos para tramitar la licencia A1 en Colombia y cuándo la contraseña sirve",
+   "region": "Nacional",
+   "fecha": "2026-11-28T08:50:51.000Z",
+   "items": [
+    {
+     "id": "fc87d39fe7a0",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "Los requisitos para tramitar la licencia A1 en Colombia y cuándo la contraseña sirve",
+     "url": "https://www.infobae.com/colombia/2026/11/28/los-requisitos-para-tramitar-la-licencia-a1-en-colombia-y-cuando-la-contrasena-sirve/",
+     "fecha": "2026-11-28T08:50:51.000Z",
+     "resumen": "Los conductores que deseen obtener la licencia A1 para motocicletas en Colombia deben cumplir una serie de requisitos establecidos por las autoridades de tránsito"
+    }
+   ],
+   "medios": [
+    "Infobae Colombia"
+   ]
+  },
+  {
+   "id": "18659618297b",
+   "titular": "Tormenta en el petrismo por el aterrizaje de Claudia López: la decisión habría sido una imposición de Gustavo Petro",
+   "region": "Nacional",
+   "fecha": "2026-11-28T08:36:27.000Z",
+   "items": [
+    {
+     "id": "18659618297b",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Tormenta en el petrismo por el aterrizaje de Claudia López: la decisión habría sido una imposición de Gustavo Petro",
+     "url": "https://www.semana.com/politica/articulo/tormenta-en-el-petrismo-por-el-aterrizaje-de-claudia-lopez-la-decision-habria-sido-una-imposicion-de-gustavo-petro/202627/",
+     "fecha": "2026-11-28T08:36:27.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "eca9218e5e33",
+   "titular": "SEMANA revela detalles del quiebre entre De La Espriella y Lafaurie: los recursos del Fondo Nacional del Ganado están bajo la lupa",
+   "region": "Nacional",
+   "fecha": "2026-11-28T07:53:28.000Z",
+   "items": [
+    {
+     "id": "eca9218e5e33",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "SEMANA revela detalles del quiebre entre De La Espriella y Lafaurie: los recursos del Fondo Nacional del Ganado están bajo la lupa",
+     "url": "https://www.semana.com/nacion/articulo/semana-revela-detalles-del-quiebre-entre-de-la-espriella-y-lafaurie-los-recursos-del-fondo-nacional-del-ganado-estan-bajo-la-lupa/202628/",
+     "fecha": "2026-11-28T07:53:28.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "44d423e2af66",
+   "titular": "“Plan Dominó y la Nueva Alianza”: SEMANA revela los detalles del pacto criminal para asesinar a guardianes del Inpec",
+   "region": "Nacional",
+   "fecha": "2026-11-28T07:28:47.000Z",
+   "items": [
+    {
+     "id": "44d423e2af66",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "“Plan Dominó y la Nueva Alianza”: SEMANA revela los detalles del pacto criminal para asesinar a guardianes del Inpec",
+     "url": "https://www.semana.com/nacion/articulo/plan-domino-y-la-nueva-alianza-semana-revela-los-detalles-del-pacto-criminal-para-asesinar-a-guardianes-del-inpec/202647/",
+     "fecha": "2026-11-28T07:28:47.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "1c187666cc22",
+   "titular": "Sandra Ramírez podría ser expulsada de la JEP: los detalles del choque interno por su caso",
+   "region": "Nacional",
+   "fecha": "2026-11-28T07:12:49.000Z",
+   "items": [
+    {
+     "id": "1c187666cc22",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Sandra Ramírez podría ser expulsada de la JEP: los detalles del choque interno por su caso",
+     "url": "https://www.semana.com/confidenciales/articulo/sandra-ramirez-podria-ser-expulsada-de-la-jep-los-detalles-del-choque-interno-por-su-caso/202649/",
+     "fecha": "2026-11-28T07:12:49.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "d218a6f57e54",
+   "titular": "Alias Araña y el magnicidio de Miguel Uribe: el extraditado narco podría cantar en Estados Unidos",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:58:52.000Z",
+   "items": [
+    {
+     "id": "d218a6f57e54",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Alias Araña y el magnicidio de Miguel Uribe: el extraditado narco podría cantar en Estados Unidos",
+     "url": "https://www.semana.com/confidenciales/articulo/alias-arana-y-el-magnicidio-de-miguel-uribe-el-extraditado-narco-podria-cantar-en-estados-unidos/202652/",
+     "fecha": "2026-11-28T06:58:52.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "f779367d03d0",
+   "titular": "Títulos falsos: Verónica Estrada deberá dar la cara en el Congreso tras suspensión",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:57:27.000Z",
+   "items": [
+    {
+     "id": "f779367d03d0",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Títulos falsos: Verónica Estrada deberá dar la cara en el Congreso tras suspensión",
+     "url": "https://www.semana.com/confidenciales/articulo/titulos-falsos-veronica-estrada-debera-dar-la-cara-en-el-congreso-tras-suspension/202627/",
+     "fecha": "2026-11-28T06:57:27.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "243f2b52a0ac",
+   "titular": "Diver Ney Franco, el único congresista graduado de la Fundación San José",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:56:11.000Z",
+   "items": [
+    {
+     "id": "243f2b52a0ac",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Diver Ney Franco, el único congresista graduado de la Fundación San José",
+     "url": "https://www.semana.com/confidenciales/articulo/diver-ney-franco-el-unico-congresista-graduado-de-la-fundacion-san-jose/202611/",
+     "fecha": "2026-11-28T06:56:11.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "054b4d4392e1",
+   "titular": "Gustavo Petro sería el padrino en el pacto de Claudia Romero, la otra congresista señalada de títulos falsos",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:54:49.000Z",
+   "items": [
+    {
+     "id": "054b4d4392e1",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Gustavo Petro sería el padrino en el pacto de Claudia Romero, la otra congresista señalada de títulos falsos",
+     "url": "https://www.semana.com/confidenciales/articulo/gustavo-petro-seria-el-padrino-en-el-pacto-de-claudia-romero-la-otra-congresista-senalada-de-titulos-falsos/202649/",
+     "fecha": "2026-11-28T06:54:49.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "e0ae52d10d32",
+   "titular": "Operativo contra Iván Mordisco y Calarcá: inteligencia busca golpe antes de 2027",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:53:59.000Z",
+   "items": [
+    {
+     "id": "e0ae52d10d32",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Operativo contra Iván Mordisco y Calarcá: inteligencia busca golpe antes de 2027",
+     "url": "https://www.semana.com/confidenciales/articulo/operativo-contra-ivan-mordisco-y-calarca-inteligencia-busca-golpe-antes-de-2027/202659/",
+     "fecha": "2026-11-28T06:53:59.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "806f0178342c",
+   "titular": "Colombia podría enfrentar un apagón en 2027 por cuenta del Gobierno Petro: estas son las razones que encendieron las alarmas",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:51:49.000Z",
+   "items": [
+    {
+     "id": "806f0178342c",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Colombia podría enfrentar un apagón en 2027 por cuenta del Gobierno Petro: estas son las razones que encendieron las alarmas",
+     "url": "https://www.semana.com/economia/macroeconomia/articulo/colombia-podria-enfrentar-un-apagon-en-2027-por-cuenta-del-gobierno-petro-estas-son-las-razones-que-encendieron-las-alarmas/202649/",
+     "fecha": "2026-11-28T06:51:49.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "9715573dcce5",
+   "titular": "De La Espriella expresa apoyo a Abascal, candidato de Vox para las elecciones del domingo en España",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:50:43.000Z",
+   "items": [
+    {
+     "id": "9715573dcce5",
+     "fuente": "caracol",
+     "medio": "Caracol Radio",
+     "titulo": "De La Espriella expresa apoyo a Abascal, candidato de Vox para las elecciones del domingo en España",
+     "url": "https://caracol.com.co/2026/11/28/de-la-espriella-expresa-apoyo-a-abascal-candidato-de-vox-para-las-elecciones-del-domingo-en-espana/",
+     "fecha": "2026-11-28T06:50:43.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "f1df9c31a6c5",
+     "fuente": "elespectador",
+     "medio": "El Espectador",
+     "titulo": "De la Espriella anuncia apoyo al líder de Vox, Santiago Abascal, en las elecciones de España",
+     "url": "https://www.elespectador.com/mundo/america/de-la-espriella-anuncia-apoyo-al-lider-de-vox-santiago-abascal-en-las-elecciones-de-espana/",
+     "fecha": "2026-11-28T02:48:14.000Z",
+     "resumen": "El presidente Abelardo de la Espriella se metió en la campaña electoral de España para respaldar a Santiago Abascal."
+    },
+    {
+     "id": "e1ad536b21ba",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "Abelardo de la Espriella expresó su respaldo a Santiago Abascal en las elecciones generales de España: “Un hombre defensor de los principios”",
+     "url": "https://www.infobae.com/colombia/2026/11/28/abelardo-de-la-espriella-expreso-su-respaldo-a-santiago-abascal-en-las-elecciones-generales-de-espana-un-hombre-defensor-de-los-principios/",
+     "fecha": "2026-11-28T02:10:57.000Z",
+     "resumen": "El presidente del partido VOX español agradeció el apoyo del mandatario colombiano por medio de un mensaje que compartió en la red social X"
+    },
+    {
+     "id": "27f181d75631",
+     "fuente": "caracol",
+     "medio": "Caracol Radio",
+     "titulo": "¿Qué se juega España con las elecciones del 29 de noviembre?",
+     "url": "https://caracol.com.co/2026/11/28/que-se-juega-espana-con-las-elecciones-del-29-de-noviembre/",
+     "fecha": "2026-11-28T01:00:00.000Z",
+     "resumen": ""
+    },
+    {
+     "id": "82033238eed2",
+     "fuente": "90minutos",
+     "medio": "90 Minutos",
+     "titulo": "¿Qué se elige en las elecciones de España y quiénes son los candidatos?",
+     "url": "https://90minutos.co/mundo/elecciones-de-espana-y-quienes-son-los-candidatos-27-11-2026/",
+     "fecha": "2026-11-27T22:02:47.000Z",
+     "resumen": "El próximo 29 de noviembre se celebrarán las elecciones generales en España, donde se van a escoger los representantes del próximo periodo ¿Qué se elige en las elecciones de España y quiénes son los candidatos? aparece en Noticiero 90 Minutos ."
+    }
+   ],
+   "medios": [
+    "Caracol Radio",
+    "El Espectador",
+    "Infobae Colombia",
+    "90 Minutos"
+   ]
+  },
+  {
+   "id": "3200a1c31e42",
+   "titular": "El secuestrado del que se sabe poco: los detalles del caso de Luis Hernando Íñiguez",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:49:49.000Z",
+   "items": [
+    {
+     "id": "3200a1c31e42",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "El secuestrado del que se sabe poco: los detalles del caso de Luis Hernando Íñiguez",
+     "url": "https://www.semana.com/confidenciales/articulo/el-secuestrado-del-que-se-sabe-poco-los-detalles-del-caso-de-luis-hernando-iniguez/202649/",
+     "fecha": "2026-11-28T06:49:49.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "e2597404ccff",
+   "titular": "La alianza Agmeth Escaf y Mario Fernández Alcocer: lo que dicen las denuncias de Eva Ferrer",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:49:15.000Z",
+   "items": [
+    {
+     "id": "e2597404ccff",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "La alianza Agmeth Escaf y Mario Fernández Alcocer: lo que dicen las denuncias de Eva Ferrer",
+     "url": "https://www.semana.com/confidenciales/articulo/la-alianza-agmeth-escaf-y-mario-fernandez-alcocer-lo-que-dicen-las-denuncias-de-eva-ferrer/202615/",
+     "fecha": "2026-11-28T06:49:15.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "c8bb7a5ea3e8",
+   "titular": "¿Mintió la congresista Andrea Vargas sobre sus estudios? Estas son las notas en poder de SEMANA",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:40:51.000Z",
+   "items": [
+    {
+     "id": "c8bb7a5ea3e8",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "¿Mintió la congresista Andrea Vargas sobre sus estudios? Estas son las notas en poder de SEMANA",
+     "url": "https://www.semana.com/nacion/articulo/mintio-la-congresista-andrea-vargas-sobre-sus-estudios-estas-son-las-notas-en-poder-de-semana/202651/",
+     "fecha": "2026-11-28T06:40:51.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "7d57f50e80f5",
+   "titular": "Ed. 2314",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:34:06.000Z",
+   "items": [
+    {
+     "id": "7d57f50e80f5",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Ed. 2314",
+     "url": "https://www.semana.com/edicion-impresa/articulo/ed-2314/202606/",
+     "fecha": "2026-11-28T06:34:06.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "d7cea77491f6",
+   "titular": "SAC pide que alza del salario mínimo en 2027 se mantenga lejos del doble dígito",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:29:00.000Z",
+   "items": [
+    {
+     "id": "d7cea77491f6",
+     "fuente": "infobae-colombia",
+     "medio": "Infobae Colombia",
+     "titulo": "SAC pide que alza del salario mínimo en 2027 se mantenga lejos del doble dígito",
+     "url": "https://www.infobae.com/colombia/2026/11/28/sac-pide-que-alza-del-salario-minimo-en-2027-se-mantenga-lejos-del-doble-digito/",
+     "fecha": "2026-11-28T06:29:00.000Z",
+     "resumen": "Jorge Bedoya advirtió sobre la caída de trabajadores que ganan un salario mínimo y pidió que el ajuste tenga en cuenta inflación, productividad y empleo"
+    },
+    {
+     "id": "6e8fd1a5d7f6",
+     "fuente": "google-colombia",
+     "medio": "El Espectador",
+     "titulo": "Salario mínimo: las lecciones del aumento del 23 % para la negociación de 2027",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaU5GZk0xYkxsZEt3U1lwVlNmWGNCZHBkNDNHaVl6bTlHMWktYjJ6aEFVUDZHaFdwV1RlUE94YW9faEJfVTI1WnFWZk55N1RlOXl3ZVNfRkxYODJPaV9GSXV3WGo2RXdFcVViT05HeVZnOVdvSi01VVNtUjI1YmdCVUFEWjB0dThzRFNnOUctYWZvR093ZEhYdGtUQWdqcnlyUGh4bDQ3SUwyUGVEN21IT050V3rSAcgBQVVfeXFMTlFJbmFkRVBkdDl6dEVPeUoyM0pXQjlTdzYyQ0t3Y080V0FET3lIUGhxRkxrdFFHOWpMZzVCRnh0WnlJQWUzZUl4TGswWEVMdjVDWGtXNFlIUGwzWndvYjBzV3I3dzVOS2V4akRWdHp4RVZmVjBSZ3NmR3hicFhCMldYb2JXYmxnZ2gtUTRkenoxVVZqbUdsc1UwVTRHTWtvQWV6YU1aanZEdjVibXJac0NpV0tmWm9JaVNQeWU3dDRKazlCYjBrQzc?oc=5",
+     "fecha": "2026-11-27T11:00:00.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Infobae Colombia",
+    "El Espectador"
+   ]
+  },
+  {
+   "id": "b375008adec5",
+   "titular": "Carro bomba, secuestrados en el Éxito, apagón y atentados: las frenéticas 72 horas de Abelardo De La Espriella",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:20:26.000Z",
+   "items": [
+    {
+     "id": "b375008adec5",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Carro bomba, secuestrados en el Éxito, apagón y atentados: las frenéticas 72 horas de Abelardo De La Espriella",
+     "url": "https://www.semana.com/politica/articulo/carro-bomba-secuestrados-en-el-exito-apagon-y-atentados-las-freneticas-72-horas-de-abelardo-de-la-espriella/202626/",
+     "fecha": "2026-11-28T06:20:26.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "1f47f98437a1",
+   "titular": "Atentado en Villavicencio destruyó parte de la memoria cultural de esa ciudad: esto es lo que ya no está",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:17:32.000Z",
+   "items": [
+    {
+     "id": "1f47f98437a1",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Atentado en Villavicencio destruyó parte de la memoria cultural de esa ciudad: esto es lo que ya no está",
+     "url": "https://www.semana.com/nacion/articulo/atentado-en-villavicencio-destruyo-parte-de-la-memoria-cultural-de-esa-ciudad-esto-es-lo-que-ya-no-esta/202632/",
+     "fecha": "2026-11-28T06:17:32.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "2807e5b01dce",
+   "titular": "SEMANA destapa un grave escándalo de presunta corrupción con viviendas en Caldas: este es el entramado empresarial",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:13:06.000Z",
+   "items": [
+    {
+     "id": "2807e5b01dce",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "SEMANA destapa un grave escándalo de presunta corrupción con viviendas en Caldas: este es el entramado empresarial",
+     "url": "https://www.semana.com/nacion/articulo/semana-destapa-un-grave-escandalo-de-presunta-corrupcion-con-viviendas-en-caldas-este-es-el-entramado-empresarial/202606/",
+     "fecha": "2026-11-28T06:13:06.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "d3401b58925a",
+   "titular": "Los secretos de la junta del fondo de MinIgualdad en la que participaron las hermanas Guerrero y exministros del gobierno Petro",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:10:40.000Z",
+   "items": [
+    {
+     "id": "d3401b58925a",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Los secretos de la junta del fondo de MinIgualdad en la que participaron las hermanas Guerrero y exministros del gobierno Petro",
+     "url": "https://www.semana.com/politica/articulo/los-secretos-de-la-junta-del-fondo-de-minigualdad-en-la-que-participaron-las-hermanas-guerrero-y-exministros-del-gobierno-petro/202640/",
+     "fecha": "2026-11-28T06:10:40.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "c63505353dea",
+   "titular": "La jugada de Ricardo Roa: busca tumbar la sanción del CNE por irregularidades en las cuentas de campaña",
+   "region": "Nacional",
+   "fecha": "2026-11-28T06:07:16.000Z",
+   "items": [
+    {
+     "id": "c63505353dea",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "La jugada de Ricardo Roa: busca tumbar la sanción del CNE por irregularidades en las cuentas de campaña",
+     "url": "https://www.semana.com/nacion/articulo/la-jugada-de-ricardo-roa-busca-tumbar-la-sancion-del-cne-por-irregularidades-en-las-cuentas-de-campana/202616/",
+     "fecha": "2026-11-28T06:07:16.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "cdf1a4734e69",
+   "titular": "Exclusivo: el Clan del Golfo se queda con el 92% del oro ilegal, logrando ganancias que superan los $10 billones",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:51:14.000Z",
+   "items": [
+    {
+     "id": "cdf1a4734e69",
+     "fuente": "semana",
+     "medio": "Semana",
+     "titulo": "Exclusivo: el Clan del Golfo se queda con el 92% del oro ilegal, logrando ganancias que superan los $10 billones",
+     "url": "https://www.semana.com/nacion/articulo/exclusivo-el-clan-del-golfo-se-queda-con-el-92-del-oro-ilegal-logrando-ganancias-que-superan-los-10-billones/202614/",
+     "fecha": "2026-11-28T05:51:14.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "Semana"
+   ]
+  },
+  {
+   "id": "4ecba4317a3c",
+   "titular": "Estudiante de la Universidad de Córdoba murió en accidente de tránsito tras caer a un canal de aguas residuales: otros alumnos resultaron heridos",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:27:17.000Z",
+   "items": [
+    {
+     "id": "4ecba4317a3c",
+     "fuente": "eltiempo",
+     "medio": "El Tiempo",
+     "titulo": "Estudiante de la Universidad de Córdoba murió en accidente de tránsito tras caer a un canal de aguas residuales: otros alumnos resultaron heridos",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/estudiante-de-la-universidad-de-cordoba-murio-en-accidente-de-transito-tras-caer-a-un-canal-de-aguas-residuales-otros-alumnos-resultaron-heridos-3605115",
+     "fecha": "2026-11-28T05:27:17.000Z",
+     "resumen": "Las autoridades investigan las circunstancias del caso. La universidad se pronunció."
+    }
+   ],
+   "medios": [
+    "El Tiempo"
+   ]
+  },
+  {
+   "id": "af317c2fd1a6",
+   "titular": "El milagro económico de las motosierras",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:08:00.000Z",
+   "items": [
+    {
+     "id": "af317c2fd1a6",
+     "fuente": "elespectador",
+     "medio": "El Espectador",
+     "titulo": "El milagro económico de las motosierras",
+     "url": "https://www.elespectador.com/opinion/columnistas/klaus-ziegler/el-milagro-economico-de-las-motosierras/",
+     "fecha": "2026-11-28T05:08:00.000Z",
+     "resumen": "Abelardo de la Espriella es manso como paloma con los grandes capitales y se convierte en un feroz depredador con quienes viven de su salario, escribe en un ensayo Klaus Ziegler."
+    }
+   ],
+   "medios": [
+    "El Espectador"
+   ]
+  },
+  {
+   "id": "241a8d84d056",
+   "titular": "Sustancias demasiado humanas",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:07:00.000Z",
+   "items": [
+    {
+     "id": "241a8d84d056",
+     "fuente": "elespectador",
+     "medio": "El Espectador",
+     "titulo": "Sustancias demasiado humanas",
+     "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/sustancias-demasiado-humanas/",
+     "fecha": "2026-11-28T05:07:00.000Z",
+     "resumen": "La civilización empezó cuando el sanitario se conectó a una red de alcantarillado y las calles dejaron de oler a mierda, escribe en un provocador e imperdible ensayo Julio César Londoño."
+    }
+   ],
+   "medios": [
+    "El Espectador"
+   ]
+  },
+  {
+   "id": "a615a27085ca",
+   "titular": "Sin lengua ni títulos",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:06:00.000Z",
+   "items": [
+    {
+     "id": "a615a27085ca",
+     "fuente": "elespectador",
+     "medio": "El Espectador",
+     "titulo": "Sin lengua ni títulos",
+     "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/sin-lengua-ni-titulos/",
+     "fecha": "2026-11-28T05:06:00.000Z",
+     "resumen": "Los escándalos por los títulos falsos tienen implicaciones nefastas para quienes no cuentan con \"palanca\", escribe Catalina Uribe."
+    }
+   ],
+   "medios": [
+    "El Espectador"
+   ]
+  },
+  {
+   "id": "903c2b6d2d9e",
+   "titular": "Las propuestas en vivienda, inmigración y política exterior en España",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:05:15.000Z",
+   "items": [
+    {
+     "id": "903c2b6d2d9e",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "Las propuestas en vivienda, inmigración y política exterior en España",
+     "url": "https://www.larepublica.co/globoeconomia/las-propuestas-en-vivienda-inmigracion-y-politica-exterior-en-espana-4535749",
+     "fecha": "2026-11-28T05:05:15.000Z",
+     "resumen": "El PP plantea recortes en el impuesto de sociedades y en la renta para rentas bajas y medias, sumados a la indexación de los tramos impositivos a la inflación y la exención del IVA"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "61ea796824cf",
+   "titular": "El protagonismo de la locura",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:05:00.000Z",
+   "items": [
+    {
+     "id": "61ea796824cf",
+     "fuente": "elespectador",
+     "medio": "El Espectador",
+     "titulo": "El protagonismo de la locura",
+     "url": "https://www.elespectador.com/opinion/columnistas/mauricio-garcia-villegas/el-protagonismo-de-la-locura/",
+     "fecha": "2026-11-28T05:05:00.000Z",
+     "resumen": "Mauricio García Villegas escribe sobre cómo sigue vigente el 'Elogio de la locura', libro de Erasmo de Rotterdam."
+    }
+   ],
+   "medios": [
+    "El Espectador"
+   ]
+  },
+  {
+   "id": "d5c6a56fbfa2",
+   "titular": "Consulta del Valle de San Nicolás, manchada por denuncia de constreñimiento",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:05:00.000Z",
+   "items": [
+    {
+     "id": "d5c6a56fbfa2",
+     "fuente": "elespectador",
+     "medio": "El Espectador",
+     "titulo": "Consulta del Valle de San Nicolás, manchada por denuncia de constreñimiento",
+     "url": "https://www.elespectador.com/opinion/editorial/consulta-del-valle-de-san-nicolas-manchada-por-denuncia-de-constrenimiento/",
+     "fecha": "2026-11-28T05:05:00.000Z",
+     "resumen": "Editorial de El Espectador sobre unas elecciones que ocurrirán mañana, pero están manchadas por una denuncia de constreñimiento."
+    }
+   ],
+   "medios": [
+    "El Espectador"
+   ]
+  },
+  {
+   "id": "d3f8205fa2c7",
+   "titular": "Proponen un “salario solidario” para vincular trabajadores informales a protección social",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:59.000Z",
+   "items": [
+    {
+     "id": "d3f8205fa2c7",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "Proponen un “salario solidario” para vincular trabajadores informales a protección social",
+     "url": "https://www.larepublica.co/economia/proponen-salario-solidario-para-vincular-los-informales-a-proteccion-social-4535708",
+     "fecha": "2026-11-28T05:01:59.000Z",
+     "resumen": "La propuesta la hizo el presidente De La Espriella, quien pidió no esquivar la discusión. Con corte a septiembre, más de 13 millones de personas estaban en informalidad laboral"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "f63bdb2b1743",
+   "titular": "Bajo ataque",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:58.000Z",
+   "items": [
+    {
+     "id": "f63bdb2b1743",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "Bajo ataque",
+     "url": "https://www.larepublica.co/analisis/felipe-jaramillo-velez-4190102/bajo-ataque-4535869",
+     "fecha": "2026-11-28T05:01:58.000Z",
+     "resumen": "Hoy, la tarea más importante es aprender sobre ciberseguridad, no para convertirnos en expertos en ello, sino para tomar conciencia de los riesgos"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "6cea7e0722cf",
+   "titular": "Los hinchas están dispuestos a pagar más por tener un seguro al viajar para ver fútbol",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:55.000Z",
+   "items": [
+    {
+     "id": "6cea7e0722cf",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "Los hinchas están dispuestos a pagar más por tener un seguro al viajar para ver fútbol",
+     "url": "https://www.larepublica.co/finanzas/los-hinchas-estan-dispuestos-a-pagar-mas-por-tener-un-seguro-al-viajar-para-ver-futbol-4535825",
+     "fecha": "2026-11-28T05:01:55.000Z",
+     "resumen": "Un estudio de la aseguradora chubb y la liga reveló que a los viajeros con fines deportivos invertirían en estar protegidos ante delitos, cancelaciones o retrasos de vuelos"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "88c00f97badd",
+   "titular": "Google y YouTube fueron las plataformas más visitadas durante septiembre de 2026",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:53.000Z",
+   "items": [
+    {
+     "id": "88c00f97badd",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "Google y YouTube fueron las plataformas más visitadas durante septiembre de 2026",
+     "url": "https://www.larepublica.co/internet-economy/google-y-youtube-fueron-las-mas-visitadas-durante-septiembre-de-2026-4535772",
+     "fecha": "2026-11-28T05:01:53.000Z",
+     "resumen": "Facebook cerró el podio durante el noveno mes del año. Los sitios pornográficos dominan el consumo en celulares"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "09ba2eb03e7f",
+   "titular": "Fedegan administra más de $165.000 millones del Fondo Nacional del Ganado",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:52.000Z",
+   "items": [
+    {
+     "id": "09ba2eb03e7f",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "Fedegan administra más de $165.000 millones del Fondo Nacional del Ganado",
+     "url": "https://www.larepublica.co/economia/fedegan-administra-mas-de-165-000-millones-del-fondo-nacional-del-ganado-4535701",
+     "fecha": "2026-11-28T05:01:52.000Z",
+     "resumen": "El Gobierno y el gremio ganadero subieron el tono de sus diferencias, que comenzaron por una auditoría integral al manejo de los fondos parafiscales"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "0404dde08329",
+   "titular": "Geopolítica de los minerales críticos en el IA",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:50.000Z",
+   "items": [
+    {
+     "id": "0404dde08329",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "Geopolítica de los minerales críticos en el IA",
+     "url": "https://www.larepublica.co/analisis/giovanni-franco-sepulveda-3732303/geopolitica-de-los-minerales-criticos-en-el-ia-4535827",
+     "fecha": "2026-11-28T05:01:50.000Z",
+     "resumen": "La concentración de la producción no se traduce automáticamente en una ventaja en IA. Los chips avanzados, la capacidad de fabricación, la infraestructura energética y el capital son factores importantes"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "53b65f7971f6",
+   "titular": "Sancocho estatista vs. crecimiento económico",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:47.000Z",
+   "items": [
+    {
+     "id": "53b65f7971f6",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "Sancocho estatista vs. crecimiento económico",
+     "url": "https://www.larepublica.co/analisis/luis-guillermo-echeverri-velez-3075852/sancocho-estatista-vs-crecimiento-economico-4535809",
+     "fecha": "2026-11-28T05:01:47.000Z",
+     "resumen": "Lo que hoy no sabemos es ¿de a dónde vamos a sacar los empresarios del sector real y productivo para seguir soportando una carga contributiva que supera los ingresos?"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "417b996afd99",
+   "titular": "La moto como motor de la economía",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:47.000Z",
+   "items": [
+    {
+     "id": "417b996afd99",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "La moto como motor de la economía",
+     "url": "https://www.larepublica.co/opinion/editorial/la-moto-como-motor-de-la-economia-4534420",
+     "fecha": "2026-11-28T05:01:47.000Z",
+     "resumen": "La Cámara de la Industria de Motos de la Andi sustenta que 45% de motociclistas usan su vehículo como herramienta de trabajo y 22% la necesita para llegar al lugar de trabajo"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "f2b8398a890b",
+   "titular": "Coordinar intención y acción",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:46.000Z",
+   "items": [
+    {
+     "id": "f2b8398a890b",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "Coordinar intención y acción",
+     "url": "https://www.larepublica.co/analisis/tatiana-arango-m-401859/coordinar-intencion-y-accion-4535559",
+     "fecha": "2026-11-28T05:01:46.000Z",
+     "resumen": "¿Cuántas veces sabemos qué queremos hacer, pero nuestras acciones parecen ir por otro camino?"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "1a4e30bb2029",
+   "titular": "“Colombia quería inmigrantes, pero eso no significaba abrir las puertas a cualquiera”",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:46.000Z",
+   "items": [
+    {
+     "id": "1a4e30bb2029",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "“Colombia quería inmigrantes, pero eso no significaba abrir las puertas a cualquiera”",
+     "url": "https://www.larepublica.co/ocio/colombia-queria-inmigrantes-pero-no-abrir-las-puertas-a-cualquiera-4534428",
+     "fecha": "2026-11-28T05:01:46.000Z",
+     "resumen": "En el libro ‘Crónicas de extranjeros indeseados’, Juan Fernando Hoyos reconstruye las políticas que definieron quién podía ingresar y permanecer en el país"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "e7c7ef9154e1",
+   "titular": "La deuda no se resuelve solo con recortes: crecer para pagar",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:45.000Z",
+   "items": [
+    {
+     "id": "e7c7ef9154e1",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "La deuda no se resuelve solo con recortes: crecer para pagar",
+     "url": "https://www.larepublica.co/analisis/raul-fernando-rodriguez-rincon-4237993/la-deuda-no-se-resuelve-solo-con-recortes-crecer-para-pagar-4535845",
+     "fecha": "2026-11-28T05:01:45.000Z",
+     "resumen": "El debate entonces sobre la deuda no debería terminar en cuánto debemos, sino incluir una pregunta igual de importante: ¿qué estamos haciendo para que Colombia produzca más y crezca de manera sostenida?"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "79eabbf26e08",
+   "titular": "Black Friday desata largas filas en EE.UU.",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:44.000Z",
+   "items": [
+    {
+     "id": "79eabbf26e08",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "Black Friday desata largas filas en EE.UU.",
+     "url": "https://www.larepublica.co/caja-fuerte/black-friday-desata-largas-filas-en-ee-uu-4535907",
+     "fecha": "2026-11-28T05:01:44.000Z",
+     "resumen": ""
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "d53dc1792bd9",
+   "titular": "El Jardín Botánico será escenario de un espectáculo de danza impulsado por Idartes",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:43.000Z",
+   "items": [
+    {
+     "id": "d53dc1792bd9",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "El Jardín Botánico será escenario de un espectáculo de danza impulsado por Idartes",
+     "url": "https://www.larepublica.co/ocio/el-jardin-botanico-sera-escenario-de-un-espectaculo-de-danza-impulsado-por-idartes-4535979",
+     "fecha": "2026-11-28T05:01:43.000Z",
+     "resumen": "La actividad tendrá como escenario el espacio público frente al Jardín Botánico, ubicado en la calle 63 No. 68-95, en la localidad de Engativá"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "93ed365ba84e",
+   "titular": "Clientes buenos y…",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:42.000Z",
+   "items": [
+    {
+     "id": "93ed365ba84e",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "Clientes buenos y…",
+     "url": "https://www.larepublica.co/analisis/carlos-fernando-villa-gomez-400403/clientes-buenos-y-4535524",
+     "fecha": "2026-11-28T05:01:42.000Z",
+     "resumen": "En mercadeo práctico, como se concibe hoy, un cliente se debe clasificar considerando todas las variables importantes, incluyendo la labor evangelizadora que desarrollan"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "c2de9cf8ca43",
+   "titular": "El Partido Popular llega a las elecciones con tres puntos de ventaja sobre el Psoe",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:42.000Z",
+   "items": [
+    {
+     "id": "c2de9cf8ca43",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "El Partido Popular llega a las elecciones con tres puntos de ventaja sobre el Psoe",
+     "url": "https://www.larepublica.co/globoeconomia/el-partido-popular-llega-a-las-elecciones-con-tres-puntos-de-ventaja-sobre-el-psoe-4535624",
+     "fecha": "2026-11-28T05:01:42.000Z",
+     "resumen": "Feijóo prometió dimitir si no gobierna. Abascal pidió frenar la “invasión migratoria” y Sánchez respondió que una cuarta parte del crecimiento económico se debe a los migrantes"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "2b995ac6a567",
+   "titular": "Bogotá recibe una nueva edición del festival Salsa al Parque en el Simón Bolívar",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:39.000Z",
+   "items": [
+    {
+     "id": "2b995ac6a567",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "Bogotá recibe una nueva edición del festival Salsa al Parque en el Simón Bolívar",
+     "url": "https://www.larepublica.co/ocio/bogota-recibe-una-nueva-edicion-del-festival-salsa-al-parque-en-el-simon-bolivar-4535716",
+     "fecha": "2026-11-28T05:01:39.000Z",
+     "resumen": "El festival reunirá a figuras nacionales e internacionales durante dos jornadas de conciertos gratuitos en el Parque Simón Bolívar"
+    }
+   ],
+   "medios": [
+    "La República"
+   ]
+  },
+  {
+   "id": "187fb3089576",
+   "titular": "Prefactibilidad del Tren de Cercanías del Caribe en estudios para impulsar movilidad",
+   "region": "Nacional",
+   "fecha": "2026-11-28T05:01:39.000Z",
+   "items": [
+    {
+     "id": "187fb3089576",
+     "fuente": "larepublica",
+     "medio": "La República",
+     "titulo": "Prefactibilidad del Tren de Cercanías del Caribe en estudios para impulsar movilidad",
+     "url": "https://www.larepublica.co/economia/gobierno-estudia-la-prefactibilidad-del-tren-de-cercanias-del-caribe-para-impulsar-la-movilidad-4535783",
+     "fecha": "2026-11-28T05:01:39.000Z",
+     "resumen": "El presidente de Colombia, Abelardo de la Espriella, fue el encargado de pronunciar las palabras de cierre del Congreso de la Cámara Colombiana de Infraestructura"
+    },
     {
      "id": "4b0844f892ed",
      "fuente": "infobae-colombia",
@@ -1417,15 +2928,6 @@
      "resumen": ""
     },
     {
-     "id": "db2b38e1d922",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "Abelardo De La Espriella anunció que iniciará el estudio de factibilidad del Tren de Cercanías del Caribe",
-     "url": "https://www.semana.com/economia/articulo/abelardo-de-la-espriella-anuncio-que-iniciara-el-estudio-de-factibilidad-del-tren-de-cercanias-del-caribe/202619/",
-     "fecha": "2026-11-28T00:18:19.000Z",
-     "resumen": ""
-    },
-    {
      "id": "7bd858b29735",
      "fuente": "larepublica",
      "medio": "La República",
@@ -1436,1497 +2938,29 @@
     }
    ],
    "medios": [
+    "La República",
     "Infobae Colombia",
-    "Caracol Radio",
-    "Semana",
-    "La República"
-   ]
-  },
-  {
-   "id": "adcd37fd5fee",
-   "titular": "Colombia se medirá ante Egipto en los dieciseisavos del Mundial Sub-17: esto dijo Freddy Hurtado sobre su próximo rival",
-   "region": "Nacional",
-   "fecha": "2026-11-28T01:15:14.000Z",
-   "items": [
-    {
-     "id": "adcd37fd5fee",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "Colombia se medirá ante Egipto en los dieciseisavos del Mundial Sub-17: esto dijo Freddy Hurtado sobre su próximo rival",
-     "url": "https://www.elpais.com.co/deportes/colombia-se-medira-ante-egipto-en-los-dieciseisavos-del-mundial-sub-17-esto-dijo-freddy-hurtado-sobre-su-proximo-rival-2714.html",
-     "fecha": "2026-11-28T01:15:14.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "c2f6f6db6978",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Colombia vs. Egipto en 16vos del Mundial Sub-17: fecha, hora y cuadro del torneo",
-     "url": "https://caracol.com.co/2026/11/28/colombia-vs-egipto-en-16vos-del-mundial-sub-17-fecha-hora-y-cuadro-del-torneo/",
-     "fecha": "2026-11-28T00:25:08.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "c9d666d89c21",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "Colombia cayó con Serbia, pero avanzó a la fase final del Mundial de Catar Sub-17; este será su rival en los dieciseisavos",
-     "url": "https://www.elpais.com.co/deportes/colombia-cayo-con-serbia-pero-avanzo-a-la-fase-final-del-mundial-de-catar-sub-17-este-sera-su-rival-en-los-dieciseisavos-2705.html",
-     "fecha": "2026-11-27T21:25:05.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El País Cali",
     "Caracol Radio"
    ]
   },
   {
-   "id": "38462aa571cd",
-   "titular": "María Fernanda Cabal respondió si se reunió en la Embajada de EE. UU. para hablar contra De la Espriella: ¿A qué juegan?",
+   "id": "1304f82b4e80",
+   "titular": "Precio del dólar en $3.498,46 para el Black Weekend; subió $36 en la semana",
    "region": "Nacional",
-   "fecha": "2026-11-28T01:14:42.000Z",
+   "fecha": "2026-11-28T05:01:38.000Z",
    "items": [
     {
-     "id": "38462aa571cd",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "María Fernanda Cabal respondió si se reunió en la Embajada de EE. UU. para hablar contra De la Espriella: ¿A qué juegan?",
-     "url": "https://www.elpais.com.co/colombia/maria-fernanda-cabal-respondio-si-se-reunio-en-la-embajada-de-ee-uu-para-hablar-contra-de-la-espriella-a-que-juegan-2742.html",
-     "fecha": "2026-11-28T01:14:42.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "7b3d8848ad86",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "¿María Fernanda Cabal habló de Abelardo de la Espriella en la embajada de EE. UU.? Así comenzó la polémica con el Gobierno",
-     "url": "https://www.elpais.com.co/colombia/maria-fernanda-cabal-hablo-de-abelardo-de-la-espriella-en-la-embajada-de-ee-uu-asi-comenzo-la-polemica-con-el-gobierno-2730.html",
-     "fecha": "2026-11-27T23:38:30.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "7e906e78091c",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Cabal negó haber tenido reuniones en la Embajada de EE. UU. para hablar en contra de De la Espriella",
-     "url": "https://caracol.com.co/2026/11/27/cabal-nego-haber-tenido-reuniones-en-la-embajada-de-ee-uu-para-hablar-en-contra-de-de-la-espriella/",
-     "fecha": "2026-11-27T22:58:37.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "6d6678deae17",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "María Fernanda Cabal le respondió a vocero del Gobierno tras acusarla de “hablar mal” de De La Espriella en embajada de EE. UU.",
-     "url": "https://www.semana.com/confidenciales/articulo/maria-fernanda-cabal-le-respondio-a-vocero-del-gobierno-tras-acusarla-de-hablar-mal-de-de-la-espriella-en-embajada-de-ee-uu/202605/",
-     "fecha": "2026-11-27T22:45:05.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "79852fe11175",
-     "fuente": "google-colombia",
-     "medio": "La Silla Vacía",
-     "titulo": "Miller Soto confirma ruptura entre Abelardo y Maria Fernanda Cabal",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDhvRVRZYkFyUU8wd0ZGOGlhTnF4N19pRzYxQ1Rrb2dIRHZXcWJLWkJqaDZ5V25WU3JTWnNaN21iSF9qa0NxYV9peF81N1huYlF6MzFleXJ2Z19HQ3BSTU5TYXJiMDlMZWF4RFJNNDh4SmVYNDI4MXRab2ZHdmJfQU1GR203RG0yWTZUU3VMUG5XeXBtQUFqd2pweU1OZkRMa0dRc2lfSQ?oc=5",
-     "fecha": "2026-11-27T21:19:47.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El País Cali",
-    "Caracol Radio",
-    "Semana",
-    "La Silla Vacía"
-   ]
-  },
-  {
-   "id": "c51bf8decb6f",
-   "titular": "Cuadro del expresidente Gustavo Petro no aparece en video publicado por De la Espriella",
-   "region": "Nacional",
-   "fecha": "2026-11-28T01:13:35.000Z",
-   "items": [
-    {
-     "id": "c51bf8decb6f",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Cuadro del expresidente Gustavo Petro no aparece en video publicado por De la Espriella",
-     "url": "https://caracol.com.co/2026/11/28/cuadro-del-expresidente-gustavo-petro-no-aparece-en-video-publicado-por-de-la-espriella/",
-     "fecha": "2026-11-28T01:13:35.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
-   ]
-  },
-  {
-   "id": "44421248ed40",
-   "titular": "Fue abatido a alias Maicol, presunto integrante del ELN señalado de ataques en Arauca, durante una operación en Hato Corozal, Casanare",
-   "region": "Nacional",
-   "fecha": "2026-11-28T01:12:07.000Z",
-   "items": [
-    {
-     "id": "44421248ed40",
-     "fuente": "infobae-colombia",
-     "medio": "Infobae Colombia",
-     "titulo": "Fue abatido a alias Maicol, presunto integrante del ELN señalado de ataques en Arauca, durante una operación en Hato Corozal, Casanare",
-     "url": "https://www.infobae.com/colombia/2026/11/28/fue-abatido-a-alias-maicol-presunto-integrante-del-eln-senalado-de-ataques-en-arauca-durante-una-operacion-en-hato-corozal-casanare/",
-     "fecha": "2026-11-28T01:12:07.000Z",
-     "resumen": "A través de sus redes sociales, el presidente Abelardo de la Espriella entregó detalles del operativo del Ejército que dio con la muerte del miembro de la comisión Martha Elena Barón, del frente Domingo Laín Sáenz"
-    }
-   ],
-   "medios": [
-    "Infobae Colombia"
-   ]
-  },
-  {
-   "id": "f53542df7208",
-   "titular": "Tatyana Orozco ratificó el compromiso de la CCI con las obras del país",
-   "region": "Nacional",
-   "fecha": "2026-11-28T01:11:34.000Z",
-   "items": [
-    {
-     "id": "f53542df7208",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Tatyana Orozco ratificó el compromiso de la CCI con las obras del país",
-     "url": "https://caracol.com.co/2026/11/28/tatyana-orozco-ratifico-el-compromiso-de-la-cci-con-las-obras-del-pais/",
-     "fecha": "2026-11-28T01:11:34.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
-   ]
-  },
-  {
-   "id": "2ac00e22b4e2",
-   "titular": "De Jaime Lombana a Roy Barreras: “no puedo creer que usted sea tan tramposo”",
-   "region": "Nacional",
-   "fecha": "2026-11-28T01:10:46.000Z",
-   "items": [
-    {
-     "id": "2ac00e22b4e2",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "De Jaime Lombana a Roy Barreras: “no puedo creer que usted sea tan tramposo”",
-     "url": "https://www.semana.com/confidenciales/articulo/de-jaime-lombana-a-roy-barreras-no-puedo-creer-que-usted-sea-tan-tramposo/202646/",
-     "fecha": "2026-11-28T01:10:46.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "626b3ac0a32b",
-   "titular": "Abelardo De La Espriella envió mensaje de apoyo a este candidato a la Presidencia de España",
-   "region": "Nacional",
-   "fecha": "2026-11-28T01:07:45.000Z",
-   "items": [
-    {
-     "id": "626b3ac0a32b",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "Abelardo De La Espriella envió mensaje de apoyo a este candidato a la Presidencia de España",
-     "url": "https://www.semana.com/confidenciales/articulo/abelardo-de-la-espriella-envio-mensaje-de-apoyo-a-este-candidato-a-la-presidencia-de-espana/202645/",
-     "fecha": "2026-11-28T01:07:45.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "28e82a650a1d",
-   "titular": "“Las mujeres hoy siempre nos sentimos en deuda”: Pilar Sordo",
-   "region": "Nacional",
-   "fecha": "2026-11-28T01:06:54.000Z",
-   "items": [
-    {
-     "id": "28e82a650a1d",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "“Las mujeres hoy siempre nos sentimos en deuda”: Pilar Sordo",
-     "url": "https://www.semana.com/mujeres/circulo-de-mujeres/articulo/las-mujeres-hoy-siempre-nos-sentimos-en-deuda-pilar-sordo/202654/",
-     "fecha": "2026-11-28T01:06:54.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "8f94986b9980",
-   "titular": "Karina González regresa INQUEBRANTABLE junto a JuanK Ricardo",
-   "region": "Nacional",
-   "fecha": "2026-11-28T01:06:49.000Z",
-   "items": [
-    {
-     "id": "8f94986b9980",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Karina González regresa INQUEBRANTABLE junto a JuanK Ricardo",
-     "url": "https://caracol.com.co/2026/11/28/karina-gonzalez-regresa-inquebrantable-junto-a-juank-ricardo/",
-     "fecha": "2026-11-28T01:06:49.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
-   ]
-  },
-  {
-   "id": "b8100adba9f9",
-   "titular": "Microsoft eliminará tres aplicaciones de su ecosistema Microsoft 365",
-   "region": "Nacional",
-   "fecha": "2026-11-28T01:05:19.000Z",
-   "items": [
-    {
-     "id": "b8100adba9f9",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Microsoft eliminará tres aplicaciones de su ecosistema Microsoft 365",
-     "url": "https://caracol.com.co/2026/11/28/microsoft-eliminara-tres-aplicaciones-de-su-ecosistema-microsoft-365/",
-     "fecha": "2026-11-28T01:05:19.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "2977d5462bea",
-     "fuente": "google-colombia",
-     "medio": "Revista Semana",
-     "titulo": "Microsoft tomó una decisión y eliminará tres aplicaciones de Windows: cuáles son y cómo desinstalarlas",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHJyQmRUZkRQUEU5SGhZNWZsdWwyWUw3dW8tYVRZUWZGcXFaaDU5cW5WZ09CQ3J4ZE9NSzFSaHNTSjdOQ1V5MTkzLWpxUHJXaXFSMkI3al9kQW93cHc3TWtGZTlnbURTWWJxbWwycVJrOGc1ajJwTmljVnJpank4ZC1XWkR0eFBpX2lFNnRScnluaG45czFGd1hGbXNZNkttVlc4ZE53RWp3NnZvTWlscWx3OUwwbGVpU0JmV3NMTndLN3hDc0d6Q0xrQ1Q3WWdzcXdSWWtuZlBETGZ0SEJPNjVqTXNGYXc?oc=5",
-     "fecha": "2026-11-27T12:48:37.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio",
-    "Revista Semana"
-   ]
-  },
-  {
-   "id": "f2a44b98dc85",
-   "titular": "Fedegán pide al Gobierno no excluir a gremios en diálogos con productores tras polémica por Cepeda",
-   "region": "Nacional",
-   "fecha": "2026-11-28T01:05:11.000Z",
-   "items": [
-    {
-     "id": "f2a44b98dc85",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Fedegán pide al Gobierno no excluir a gremios en diálogos con productores tras polémica por Cepeda",
-     "url": "https://caracol.com.co/2026/11/28/fedegan-pide-al-gobierno-no-excluir-a-gremios-en-dialogos-con-productores-tras-polemica-por-cepeda/",
-     "fecha": "2026-11-28T01:05:11.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
-   ]
-  },
-  {
-   "id": "db9bd21d1fe4",
-   "titular": "María Alejandra López compartió una reflexión luego de su participación en Miss Universo 2026: “Bajen el volumen de su ego”",
-   "region": "Nacional",
-   "fecha": "2026-11-28T01:00:10.000Z",
-   "items": [
-    {
-     "id": "db9bd21d1fe4",
-     "fuente": "infobae-colombia",
-     "medio": "Infobae Colombia",
-     "titulo": "María Alejandra López compartió una reflexión luego de su participación en Miss Universo 2026: “Bajen el volumen de su ego”",
-     "url": "https://www.infobae.com/colombia/2026/11/28/maria-alejandra-lopez-compartio-una-reflexion-luego-de-su-participacion-en-miss-universo-2026-bajen-el-volumen-de-su-ego/",
-     "fecha": "2026-11-28T01:00:10.000Z",
-     "resumen": "La representante de Colombia en el certamen concluyó su participación entre las 12 mejores aspirantes y difundió una reflexión sobre la responsabilidad social y el servicio público de los gobernantes"
-    }
-   ],
-   "medios": [
-    "Infobae Colombia"
-   ]
-  },
-  {
-   "id": "27f181d75631",
-   "titular": "¿Qué se juega España con las elecciones del 29 de noviembre?",
-   "region": "Nacional",
-   "fecha": "2026-11-28T01:00:00.000Z",
-   "items": [
-    {
-     "id": "27f181d75631",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "¿Qué se juega España con las elecciones del 29 de noviembre?",
-     "url": "https://caracol.com.co/2026/11/28/que-se-juega-espana-con-las-elecciones-del-29-de-noviembre/",
-     "fecha": "2026-11-28T01:00:00.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "82033238eed2",
-     "fuente": "90minutos",
-     "medio": "90 Minutos",
-     "titulo": "¿Qué se elige en las elecciones de España y quiénes son los candidatos?",
-     "url": "https://90minutos.co/mundo/elecciones-de-espana-y-quienes-son-los-candidatos-27-11-2026/",
-     "fecha": "2026-11-27T22:02:47.000Z",
-     "resumen": "El próximo 29 de noviembre se celebrarán las elecciones generales en España, donde se van a escoger los representantes del próximo periodo ¿Qué se elige en las elecciones de España y quiénes son los candidatos? aparece en Noticiero 90 Minutos ."
-    }
-   ],
-   "medios": [
-    "Caracol Radio",
-    "90 Minutos"
-   ]
-  },
-  {
-   "id": "9a65b8b4d36c",
-   "titular": "¿Puede hacer el traspaso de un vehículo sin que esté presente el comprador? Así funciona el trámite",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:57:23.000Z",
-   "items": [
-    {
-     "id": "9a65b8b4d36c",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "¿Puede hacer el traspaso de un vehículo sin que esté presente el comprador? Así funciona el trámite",
-     "url": "https://www.semana.com/vehiculos/articulo/puede-hacer-el-traspaso-de-un-vehiculo-sin-que-este-presente-el-comprador-asi-funciona-el-tramite/202623/",
-     "fecha": "2026-11-28T00:57:23.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "67059770bed5",
-   "titular": "Incautan 650 kilos de pólvora en operativo contra la venta ilegal en Los Mártires, Bogotá",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:56:21.000Z",
-   "items": [
-    {
-     "id": "67059770bed5",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Incautan 650 kilos de pólvora en operativo contra la venta ilegal en Los Mártires, Bogotá",
-     "url": "https://caracol.com.co/2026/11/28/incautan-650-kilos-de-polvora-en-operativo-contra-la-venta-ilegal-en-los-martires-bogota/",
-     "fecha": "2026-11-28T00:56:21.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
-   ]
-  },
-  {
-   "id": "99c144421fc5",
-   "titular": "Salario mínimo 2027: Nelson Alarcón de la CUT dijo que hay “datos que no coinciden” frente a los presentados por el Dane hoy",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:53:26.000Z",
-   "items": [
-    {
-     "id": "99c144421fc5",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "Salario mínimo 2027: Nelson Alarcón de la CUT dijo que hay “datos que no coinciden” frente a los presentados por el Dane hoy",
-     "url": "https://www.semana.com/economia/macroeconomia/articulo/salario-minimo-2027-nelson-alarcon-de-la-cut-dijo-que-hay-datos-que-no-coinciden-frente-a-los-presentados-por-el-dane-hoy/202626/",
-     "fecha": "2026-11-28T00:53:26.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "6e8fd1a5d7f6",
-     "fuente": "google-colombia",
-     "medio": "El Espectador",
-     "titulo": "Salario mínimo: las lecciones del aumento del 23 % para la negociación de 2027",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaU5GZk0xYkxsZEt3U1lwVlNmWGNCZHBkNDNHaVl6bTlHMWktYjJ6aEFVUDZHaFdwV1RlUE94YW9faEJfVTI1WnFWZk55N1RlOXl3ZVNfRkxYODJPaV9GSXV3WGo2RXdFcVViT05HeVZnOVdvSi01VVNtUjI1YmdCVUFEWjB0dThzRFNnOUctYWZvR093ZEhYdGtUQWdqcnlyUGh4bDQ3SUwyUGVEN21IT050V3rSAcgBQVVfeXFMTlFJbmFkRVBkdDl6dEVPeUoyM0pXQjlTdzYyQ0t3Y080V0FET3lIUGhxRkxrdFFHOWpMZzVCRnh0WnlJQWUzZUl4TGswWEVMdjVDWGtXNFlIUGwzWndvYjBzV3I3dzVOS2V4akRWdHp4RVZmVjBSZ3NmR3hicFhCMldYb2JXYmxnZ2gtUTRkenoxVVZqbUdsc1UwVTRHTWtvQWV6YU1aanZEdjVibXJac0NpV0tmWm9JaVNQeWU3dDRKazlCYjBrQzc?oc=5",
-     "fecha": "2026-11-27T11:00:00.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana",
-    "El Espectador"
-   ]
-  },
-  {
-   "id": "35b9b1c868f9",
-   "titular": "La app Gleeden vincula el Black Friday con la infidelidad",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:50:19.000Z",
-   "items": [
-    {
-     "id": "35b9b1c868f9",
-     "fuente": "infobae-colombia",
-     "medio": "Infobae Colombia",
-     "titulo": "La app Gleeden vincula el Black Friday con la infidelidad",
-     "url": "https://www.infobae.com/tecno/2026/11/28/la-app-gleeden-vincula-el-black-friday-con-la-infidelidad/",
-     "fecha": "2026-11-28T00:50:19.000Z",
-     "resumen": "El servicio francés de citas no monógamas sostiene que las jornadas de rebajas impulsan cuantiosas reservas en hoteles y obsequios lujosos"
-    }
-   ],
-   "medios": [
-    "Infobae Colombia"
-   ]
-  },
-  {
-   "id": "35653435e701",
-   "titular": "Hackers habrían atacado la nube de la Fuerza Aérea de Estados Unidos: información confidencial estaría en riesgo",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:46:59.000Z",
-   "items": [
-    {
-     "id": "35653435e701",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "Hackers habrían atacado la nube de la Fuerza Aérea de Estados Unidos: información confidencial estaría en riesgo",
-     "url": "https://www.semana.com/tecnologia/articulo/hackers-habrian-atacado-la-nube-de-la-fuerza-aerea-de-estados-unidos-informacion-confidencial-estaria-en-riesgo/202659/",
-     "fecha": "2026-11-28T00:46:59.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "6057b03d32d6",
-   "titular": "Magistrado pide negar tutela de Santiago Uribe contra condena por caso de Los 12 Apóstoles",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:45:52.000Z",
-   "items": [
-    {
-     "id": "6057b03d32d6",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "Magistrado pide negar tutela de Santiago Uribe contra condena por caso de Los 12 Apóstoles",
-     "url": "https://www.elespectador.com/judicial/magistrado-pide-negar-tutela-de-santiago-uribe-contra-condena-por-caso-de-los-12-apostoles/",
-     "fecha": "2026-11-28T00:45:52.000Z",
-     "resumen": "El magistrado señaló que Santiago Uribe estaría valiéndose de una acción de tutela para controvertir asuntos que ya fueron resueltos."
-    },
-    {
-     "id": "e167a3b4eb58",
-     "fuente": "infobae-colombia",
-     "medio": "Infobae Colombia",
-     "titulo": "Corte Suprema pidió negar nueva tutela de Santiago Uribe Vélez contra su condena por el caso de Los Doce Apóstoles",
-     "url": "https://www.infobae.com/colombia/2026/11/27/corte-suprema-pidio-negar-nueva-tutela-de-santiago-uribe-velez-contra-su-condena-por-el-caso-de-los-doce-apostoles/",
-     "fecha": "2026-11-28T00:14:04.000Z",
-     "resumen": "El magistrado Gerson Chaverra sostuvo que la defensa busca reabrir discusiones ya resueltas sobre la sentencia de 28 años de prisión por homicidio agravado y concierto para delinquir agravado"
-    }
-   ],
-   "medios": [
-    "El Espectador",
-    "Infobae Colombia"
-   ]
-  },
-  {
-   "id": "261d0a00478d",
-   "titular": "Fedegán se refirió a la polémica que generó la presencia de Iván Cepeda en el Congreso Nacional de Ganaderos: aseguró que invitó a todos los congresistas",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:45:29.000Z",
-   "items": [
-    {
-     "id": "261d0a00478d",
-     "fuente": "infobae-colombia",
-     "medio": "Infobae Colombia",
-     "titulo": "Fedegán se refirió a la polémica que generó la presencia de Iván Cepeda en el Congreso Nacional de Ganaderos: aseguró que invitó a todos los congresistas",
-     "url": "https://www.infobae.com/colombia/2026/11/27/fedegan-se-refirio-a-la-polemica-que-genero-la-presencia-de-ivan-cepeda-en-el-congreso-nacional-de-ganaderos-aseguro-que-invito-a-todos-los-congresistas/",
-     "fecha": "2026-11-28T00:45:29.000Z",
-     "resumen": "La Federación reconoció que algunos integrantes del sector se sintieron incómodos con la presencia del senador del Pacto Histórico"
-    }
-   ],
-   "medios": [
-    "Infobae Colombia"
-   ]
-  },
-  {
-   "id": "264e9c8ddd06",
-   "titular": "Se casa Juan Pablo Isaza, de Morat: ella es Juliana Cisneros, su futura esposa",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:45:28.000Z",
-   "items": [
-    {
-     "id": "264e9c8ddd06",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "Se casa Juan Pablo Isaza, de Morat: ella es Juliana Cisneros, su futura esposa",
-     "url": "https://www.elespectador.com/revista-vea/famosos/juan-pablo-isaza-de-morat-se-comprometio-ella-es-juliana-cisneros-su-futura-esposa/",
-     "fecha": "2026-11-28T00:45:28.000Z",
-     "resumen": "La propuesta de matrimonio de Juan Pablo Isaza, integrante de Morat, salió a la luz de una manera inesperada."
-    },
-    {
-     "id": "55a9ee408151",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "Juan Pablo Isaza, de Morat, se compromete: las imágenes que se volvieron virales",
-     "url": "https://www.semana.com/gente/articulo/juan-pablo-isaza-de-morat-se-compromete-las-imagenes-que-se-volvieron-virales/202602/",
-     "fecha": "2026-11-27T23:56:02.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El Espectador",
-    "Semana"
-   ]
-  },
-  {
-   "id": "d83647d99dbd",
-   "titular": "Medias de compresión para realizar deporte: 5 claves para escogerlas adecuadamente",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:43:59.000Z",
-   "items": [
-    {
-     "id": "d83647d99dbd",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Medias de compresión para realizar deporte: 5 claves para escogerlas adecuadamente",
-     "url": "https://caracol.com.co/2026/11/28/medias-de-compresion-para-realizar-deporte-5-claves-para-escogerlas-adecuadamente/",
-     "fecha": "2026-11-28T00:43:59.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
-   ]
-  },
-  {
-   "id": "f6535555f1a6",
-   "titular": "De la Espriella propone un ‘salario solidario’ en medio de la discusión del salario mínimo para 2027; ¿de qué se trata?",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:41:45.000Z",
-   "items": [
-    {
-     "id": "f6535555f1a6",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "De la Espriella propone un ‘salario solidario’ en medio de la discusión del salario mínimo para 2027; ¿de qué se trata?",
-     "url": "https://www.elpais.com.co/politica/de-la-espriella-propone-un-salario-solidario-en-medio-de-la-discusion-del-salario-minimo-para-2027-de-que-se-trata-2745.html",
-     "fecha": "2026-11-28T00:41:45.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El País Cali"
-   ]
-  },
-  {
-   "id": "568a04221281",
-   "titular": "Sociedad de Agricultores de Colombia advierte sobre aumento de trabajadores que ganan menos de un salario mínimo actualmente",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:41:28.000Z",
-   "items": [
-    {
-     "id": "568a04221281",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "Sociedad de Agricultores de Colombia advierte sobre aumento de trabajadores que ganan menos de un salario mínimo actualmente",
-     "url": "https://www.elpais.com.co/economia/sociedad-de-agricultores-de-colombia-advierte-sobre-aumento-de-trabajadores-que-ganan-menos-de-un-salario-minimo-actualmente-2728.html",
-     "fecha": "2026-11-28T00:41:28.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El País Cali"
-   ]
-  },
-  {
-   "id": "d4879cd58223",
-   "titular": "Distrito identificó en Bogotá 23.688 adultos mayores en presunto abandono",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:38:07.000Z",
-   "items": [
-    {
-     "id": "d4879cd58223",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "Distrito identificó en Bogotá 23.688 adultos mayores en presunto abandono",
-     "url": "https://www.elespectador.com/bogota/distrito-identifico-en-bogota-23-688-adultos-mayores-en-presunto-abandono/",
-     "fecha": "2026-11-28T00:38:07.000Z",
-     "resumen": ". El dato pone sobre la mesa un desafío mayor: cómo cuidar a una población que crecerá con rapidez durante la próxima década."
-    }
-   ],
-   "medios": [
-    "El Espectador"
-   ]
-  },
-  {
-   "id": "54bb264a7ae8",
-   "titular": "“18 meses no me sirven, ministra. En la patria milagro los términos se acortan”: Abelardo De La Espriella en congreso de la CCI",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:36:40.000Z",
-   "items": [
-    {
-     "id": "54bb264a7ae8",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "“18 meses no me sirven, ministra. En la patria milagro los términos se acortan”: Abelardo De La Espriella en congreso de la CCI",
-     "url": "https://www.semana.com/politica/articulo/18-meses-no-me-sirven-ministra-en-la-patria-milagro-los-terminos-se-acortan-abelardo-de-la-espriella-en-congreso-de-la-cci/202640/",
-     "fecha": "2026-11-28T00:36:40.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "f3be66e3f900",
-   "titular": "Los secretos de la policía comunista que Hungría sacó a la luz",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:35:00.000Z",
-   "items": [
-    {
-     "id": "f3be66e3f900",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "Los secretos de la policía comunista que Hungría sacó a la luz",
-     "url": "https://www.elespectador.com/mundo/europa/secretos-policia-comunista-hungria/",
-     "fecha": "2026-11-28T00:35:00.000Z",
-     "resumen": "El gobierno húngaro reveló la identidad de 60.000 informantes de la era comunista que reclutó para vigilar a sus vecinos. Algunos jóvenes han encontrado a sus padres en las listas."
-    }
-   ],
-   "medios": [
-    "El Espectador"
-   ]
-  },
-  {
-   "id": "00b2f139b922",
-   "titular": "Sudamérica concentró la mayor pérdida mundial de agua de los últimos 35 años",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:35:00.000Z",
-   "items": [
-    {
-     "id": "00b2f139b922",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "Sudamérica concentró la mayor pérdida mundial de agua de los últimos 35 años",
-     "url": "https://www.elespectador.com/ambiente/blog-el-rio/sudamerica-concentro-la-mayor-perdida-mundial-de-agua-de-los-ultimos-35-anos/",
-     "fecha": "2026-11-28T00:35:00.000Z",
-     "resumen": "El calor extremo de 2023 y 2024 coincidió con una caída histórica del agua en el planeta. Un estudio publicado en Science revela que Sudamérica concentró el 70,4 % de la reducción global de los caudales de los ríos."
-    }
-   ],
-   "medios": [
-    "El Espectador"
-   ]
-  },
-  {
-   "id": "8f2d40797a6f",
-   "titular": "Daniel Muñoz deja en apuros a Xabi Alonso y Dibu Martínez: asistencia clave sentenció al Chelsea",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:33:38.000Z",
-   "items": [
-    {
-     "id": "8f2d40797a6f",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "Daniel Muñoz deja en apuros a Xabi Alonso y Dibu Martínez: asistencia clave sentenció al Chelsea",
-     "url": "https://www.semana.com/deportes/articulo/daniel-munoz-deja-en-apuros-a-xabi-alonso-y-dibu-martinez-asistencia-clave-sentencio-al-chelsea/202638/",
-     "fecha": "2026-11-28T00:33:38.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "3b54a9c19e5e",
-   "titular": "Lo que el orden oculta: lectura de “Orden en la casa”, de Luz Mary Giraldo (Opinión)",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:31:48.000Z",
-   "items": [
-    {
-     "id": "3b54a9c19e5e",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "Lo que el orden oculta: lectura de “Orden en la casa”, de Luz Mary Giraldo (Opinión)",
-     "url": "https://www.elespectador.com/el-magazin-cultural/lo-que-el-orden-oculta-lectura-de-orden-en-la-casa-de-luz-mary-giraldo-opinion/",
-     "fecha": "2026-11-28T00:31:48.000Z",
-     "resumen": "A propósito del galardón otorgado a la poeta colombiana Luz Mary Giraldo, el XIII Premio Internacional de Poesía “Pilar Fernández Labrador”, presentamos una lectura de su libro \"Orden en la casa\"."
-    }
-   ],
-   "medios": [
-    "El Espectador"
-   ]
-  },
-  {
-   "id": "9f7deb9384e0",
-   "titular": "España cierra campañas electorales: este es el candidato favorito en los sondeos",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:31:15.000Z",
-   "items": [
-    {
-     "id": "9f7deb9384e0",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "España cierra campañas electorales: este es el candidato favorito en los sondeos",
-     "url": "https://www.semana.com/mundo/articulo/espana-cierra-campanas-electorales-este-es-el-candidato-favorito-en-los-sondeos/202615/",
-     "fecha": "2026-11-28T00:31:15.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "23770b29f3ac",
-   "titular": "Así trabaja Uniguajira para que el acceso a la educación superior no dependa del lugar donde viven los estudiantes",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:31:08.000Z",
-   "items": [
-    {
-     "id": "23770b29f3ac",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "Así trabaja Uniguajira para que el acceso a la educación superior no dependa del lugar donde viven los estudiantes",
-     "url": "https://www.semana.com/mejor-colombia/articulo/asi-trabaja-uniguajira-para-que-el-acceso-a-la-educacion-superior-no-dependa-del-lugar-donde-viven-los-estudiantes/202608/",
-     "fecha": "2026-11-28T00:31:08.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "47308f767d63",
-   "titular": "Abelardo de la Espriella anunció alivios y medidas para beneficiarios del Icetex: “Espero que las decisiones anunciadas se ejecuten oportunamente”",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:30:09.000Z",
-   "items": [
-    {
-     "id": "47308f767d63",
-     "fuente": "infobae-colombia",
-     "medio": "Infobae Colombia",
-     "titulo": "Abelardo de la Espriella anunció alivios y medidas para beneficiarios del Icetex: “Espero que las decisiones anunciadas se ejecuten oportunamente”",
-     "url": "https://www.infobae.com/colombia/2026/11/28/abelardo-de-la-espriella-anuncio-alivios-y-medidas-para-beneficiarios-del-icetex-espero-que-las-decisiones-anunciadas-se-ejecuten-oportunamente/",
-     "fecha": "2026-11-28T00:30:09.000Z",
-     "resumen": "El presidente se refirió a condonaciones, incentivos y proyectos universitarios con los que espera respaldar a los estudiantes"
-    }
-   ],
-   "medios": [
-    "Infobae Colombia"
-   ]
-  },
-  {
-   "id": "1e8bd2bbf152",
-   "titular": "Terpel suscribió un contrato con Ecopetrol S.A. para la compra del combustible JET A/A1",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:30:07.000Z",
-   "items": [
-    {
-     "id": "1e8bd2bbf152",
+     "id": "1304f82b4e80",
      "fuente": "larepublica",
      "medio": "La República",
-     "titulo": "Terpel suscribió un contrato con Ecopetrol S.A. para la compra del combustible JET A/A1",
-     "url": "https://www.larepublica.co/empresas/terpel-suscribio-un-contrato-con-ecopetrol-s-a-para-la-compra-del-combustible-jet-a-a1-4535722",
-     "fecha": "2026-11-28T00:30:07.000Z",
-     "resumen": "El plazo de ejecución del Contrato es de tres meses desde el 01 de diciembre de 2026 al 28 de febrero de 2027, por un valor de $520.039 millones"
+     "titulo": "Precio del dólar en $3.498,46 para el Black Weekend; subió $36 en la semana",
+     "url": "https://www.larepublica.co/finanzas/el-precio-del-dolar-esta-en-3-498-46-para-el-black-weekend-subio-36-en-la-semana-4535741",
+     "fecha": "2026-11-28T05:01:38.000Z",
+     "resumen": "El precio de la divisa estadounidense registró un repunte de más de $100 entre el lunes y martes, pero en las siguientes jornadas, incluida next day, hubo corrección a la baja"
     }
    ],
    "medios": [
     "La República"
-   ]
-  },
-  {
-   "id": "8493c7b18bd9",
-   "titular": "Comedia romántica y fútbol americano: Sofia Carson, de origen colombiano, protagonizará una nueva cinta en Netflix",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:28:20.000Z",
-   "items": [
-    {
-     "id": "8493c7b18bd9",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "Comedia romántica y fútbol americano: Sofia Carson, de origen colombiano, protagonizará una nueva cinta en Netflix",
-     "url": "https://www.semana.com/cultura/cine/articulo/comedia-romantica-y-futbol-americano-sofia-carson-de-origen-colombiano-protagonizara-una-nueva-cinta-en-netflix/202620/",
-     "fecha": "2026-11-28T00:28:20.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "70f3a684acad",
-   "titular": "NWS hizo alerta en EE. UU. tras las emergencias por tormentas de este jueves y viernes: así está el país",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:25:28.000Z",
-   "items": [
-    {
-     "id": "70f3a684acad",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "NWS hizo alerta en EE. UU. tras las emergencias por tormentas de este jueves y viernes: así está el país",
-     "url": "https://www.semana.com/mundo/noticias-estados-unidos/articulo/nws-hizo-alerta-en-ee-uu-tras-las-emergencias-por-tormentas-de-este-jueves-y-viernes-asi-esta-el-pais/202628/",
-     "fecha": "2026-11-28T00:25:28.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "2df663e5ae76",
-   "titular": "Bronx Distrito Creativo terminó su primera etapa: así quedó el emblemático espacio en Bogotá",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:24:40.000Z",
-   "items": [
-    {
-     "id": "2df663e5ae76",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Bronx Distrito Creativo terminó su primera etapa: así quedó el emblemático espacio en Bogotá",
-     "url": "https://caracol.com.co/2026/11/28/bronx-distrito-creativo-termino-su-primera-etapa-asi-quedo-el-emblematico-espacio-en-bogota/",
-     "fecha": "2026-11-28T00:24:40.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
-   ]
-  },
-  {
-   "id": "ad1e785d2fac",
-   "titular": "Alejandra Sandoval responde a las críticas tras corregir a un presentador que la llamó venezolana en vivo",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:23:40.000Z",
-   "items": [
-    {
-     "id": "ad1e785d2fac",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "Alejandra Sandoval responde a las críticas tras corregir a un presentador que la llamó venezolana en vivo",
-     "url": "https://www.elpais.com.co/entretenimiento/alejandra-sandoval-responde-a-las-criticas-tras-corregir-a-un-presentador-que-la-llamo-venezolana-en-vivo-2740.html",
-     "fecha": "2026-11-28T00:23:40.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El País Cali"
-   ]
-  },
-  {
-   "id": "ebf0748f0d85",
-   "titular": "“No voy a permitir que las obras de infraestructura sigan paralizadas”: el mensaje del presidente De La Espriella en Congreso CCI",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:19:59.000Z",
-   "items": [
-    {
-     "id": "ebf0748f0d85",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "“No voy a permitir que las obras de infraestructura sigan paralizadas”: el mensaje del presidente De La Espriella en Congreso CCI",
-     "url": "https://www.semana.com/nacion/articulo/no-voy-a-permitir-que-las-obras-de-infraestructura-sigan-paralizadas-mensaje-del-presidente-de-la-espriella-en-congreso-cci/202659/",
-     "fecha": "2026-11-28T00:19:59.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "a08f3d53d771",
-   "titular": "Caravanas de Coca-Cola regresan a Bogotá: fechas, música y actividades para disfrutar la Navidad",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:17:25.000Z",
-   "items": [
-    {
-     "id": "a08f3d53d771",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Caravanas de Coca-Cola regresan a Bogotá: fechas, música y actividades para disfrutar la Navidad",
-     "url": "https://caracol.com.co/2026/11/28/caravanas-de-coca-cola-regresan-a-bogota-fechas-musica-y-actividades-para-disfrutar-la-navidad/",
-     "fecha": "2026-11-28T00:17:25.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
-   ]
-  },
-  {
-   "id": "b1ab7be8cba0",
-   "titular": "El colombiano Sebastián Montoya ya está listo para su debut con una nueva escudería en el Gran Premio de Catar de la Fórmula 2",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:06:53.000Z",
-   "items": [
-    {
-     "id": "b1ab7be8cba0",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "El colombiano Sebastián Montoya ya está listo para su debut con una nueva escudería en el Gran Premio de Catar de la Fórmula 2",
-     "url": "https://www.elpais.com.co/deportes/el-colombiano-sebastian-montoya-ya-esta-listo-para-su-debut-con-una-nueva-escuderia-en-el-gran-premio-de-catar-de-la-formula-2-2753.html",
-     "fecha": "2026-11-28T00:06:53.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El País Cali"
-   ]
-  },
-  {
-   "id": "37bb48463cd6",
-   "titular": "Dave Keuning, de The Killers, sobrevive a derrame cerebral: “Tenía 40 % de probabilidades”",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:06:41.000Z",
-   "items": [
-    {
-     "id": "37bb48463cd6",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "Dave Keuning, de The Killers, sobrevive a derrame cerebral: “Tenía 40 % de probabilidades”",
-     "url": "https://www.elespectador.com/revista-vea/lo-ultimo/dave-keuning-the-killers-acv/",
-     "fecha": "2026-11-28T00:06:41.000Z",
-     "resumen": "Descubre las principales noticias del entretenimiento en Colombia y el mundo dando clic aquí"
-    }
-   ],
-   "medios": [
-    "El Espectador"
-   ]
-  },
-  {
-   "id": "9d5d23eed948",
-   "titular": "Uninorte y Promigas invirtieron $11.570 millones en la granja solar universitaria más grande",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:05:28.000Z",
-   "items": [
-    {
-     "id": "9d5d23eed948",
-     "fuente": "larepublica",
-     "medio": "La República",
-     "titulo": "Uninorte y Promigas invirtieron $11.570 millones en la granja solar universitaria más grande",
-     "url": "https://www.larepublica.co/empresas/uninorte-y-promigas-invirtieron-11-570-millones-en-la-granja-solar-universitaria-mas-grande-4535413",
-     "fecha": "2026-11-28T00:05:28.000Z",
-     "resumen": "Estos recursos estarán disponibles para estudiantes, profesores e investigadores, quienes podrán utilizar los datos en actividades de docencia y proyectos de investigación"
-    }
-   ],
-   "medios": [
-    "La República"
-   ]
-  },
-  {
-   "id": "83f364e37f28",
-   "titular": "Bogotá mejora la calidad del aire, pero mantiene alerta fase 1 en el suroccidente",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:03:45.000Z",
-   "items": [
-    {
-     "id": "83f364e37f28",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Bogotá mejora la calidad del aire, pero mantiene alerta fase 1 en el suroccidente",
-     "url": "https://caracol.com.co/2026/11/28/bogota-mejora-la-calidad-del-aire-pero-mantiene-alerta-fase-1-en-el-suroccidente/",
-     "fecha": "2026-11-28T00:03:45.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
-   ]
-  },
-  {
-   "id": "6c8f3c0cc030",
-   "titular": "Lanzaron un carro por un precipicio a 70 km/h: el resultado de la prueba de seguridad sorprendió",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:02:03.000Z",
-   "items": [
-    {
-     "id": "6c8f3c0cc030",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "Lanzaron un carro por un precipicio a 70 km/h: el resultado de la prueba de seguridad sorprendió",
-     "url": "https://www.semana.com/vehiculos/articulo/lanzaron-un-carro-por-un-precipicio-a-70-kmh-el-resultado-de-la-prueba-de-seguridad-sorprendio/202603/",
-     "fecha": "2026-11-28T00:02:03.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "83fd52518aae",
-   "titular": "Silvestre Dangond fue confirmado como parte del Festival de Viña del Mar 2027: este es el día de su presentación en la Quinta Vergara",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:00:11.000Z",
-   "items": [
-    {
-     "id": "83fd52518aae",
-     "fuente": "infobae-colombia",
-     "medio": "Infobae Colombia",
-     "titulo": "Silvestre Dangond fue confirmado como parte del Festival de Viña del Mar 2027: este es el día de su presentación en la Quinta Vergara",
-     "url": "https://www.infobae.com/colombia/2026/11/28/silvestre-dangond-fue-confirmado-como-parte-del-festival-de-vina-del-mar-2027-este-es-el-dia-de-su-presentacion-en-la-quinta-vergara/",
-     "fecha": "2026-11-28T00:00:11.000Z",
-     "resumen": "El de Urumita llevará por primera vez sus canciones al emblemático escenario, compartiendo protagonismo en la jornada inaugural con Laura Pausini"
-    }
-   ],
-   "medios": [
-    "Infobae Colombia"
-   ]
-  },
-  {
-   "id": "ac0b8f151315",
-   "titular": "La última tendencia en Europa: tener un kit de emergencia",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:00:00.000Z",
-   "items": [
-    {
-     "id": "ac0b8f151315",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "La última tendencia en Europa: tener un kit de emergencia",
-     "url": "https://www.elespectador.com/mundo/europa/la-ultima-tendencia-en-europa-tener-un-kit-de-emergencia/",
-     "fecha": "2026-11-28T00:00:00.000Z",
-     "resumen": "Cada vez más gobiernos europeos piden a sus ciudadanos que se preparen para desastres y otras contingencias. Tras varios incidentes inesperados, muchos están haciendo caso."
-    }
-   ],
-   "medios": [
-    "El Espectador"
-   ]
-  },
-  {
-   "id": "bd4729466e28",
-   "titular": "¿Cómo sembrar mora en el jardín y cuánto demora en dar frutos?",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:00:00.000Z",
-   "items": [
-    {
-     "id": "bd4729466e28",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "¿Cómo sembrar mora en el jardín y cuánto demora en dar frutos?",
-     "url": "https://www.elespectador.com/gastronomia-y-recetas/como-sembrar-mora-en-el-jardin-y-cuanto-demora-en-dar-frutos/",
-     "fecha": "2026-11-28T00:00:00.000Z",
-     "resumen": "¿Le gustaría cosechar sus propias moras en casa? Aquí le contamos cómo sembrar esta planta, qué cuidados necesita y cuánto tiempo tarda en dar sus primeros frutos."
-    }
-   ],
-   "medios": [
-    "El Espectador"
-   ]
-  },
-  {
-   "id": "5bfb966748c5",
-   "titular": "En fotos: así se vivió la pasarela de moda en las alturas de la Torre Colpatria",
-   "region": "Nacional",
-   "fecha": "2026-11-28T00:00:00.000Z",
-   "items": [
-    {
-     "id": "5bfb966748c5",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "En fotos: así se vivió la pasarela de moda en las alturas de la Torre Colpatria",
-     "url": "https://www.elespectador.com/moda-e-industria/en-fotos-asi-se-vivio-la-pasarela-de-moda-en-las-alturas-de-la-torre-colpatria/",
-     "fecha": "2026-11-28T00:00:00.000Z",
-     "resumen": "La marca Anthias presentó La Ciudad del Trópico en la Torre Colpatria, una propuesta que llevó el contraste entre lo orgánico y lo urbano a las alturas de la capital."
-    }
-   ],
-   "medios": [
-    "El Espectador"
-   ]
-  },
-  {
-   "id": "f2b3b9ae0c21",
-   "titular": "Cambios en tiempos de concesiones y en adiciones a los contratos anunció el presidente De la Espriella",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:59:47.000Z",
-   "items": [
-    {
-     "id": "f2b3b9ae0c21",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "Cambios en tiempos de concesiones y en adiciones a los contratos anunció el presidente De la Espriella",
-     "url": "https://www.elpais.com.co/politica/cambios-en-tiempos-de-concesiones-y-en-adiciones-a-los-contratos-anuncio-el-presidente-de-la-espriella-2747.html",
-     "fecha": "2026-11-27T23:59:47.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El País Cali"
-   ]
-  },
-  {
-   "id": "3a7e67e893f6",
-   "titular": "Superintendencia de Salud detectó 311.796 reclamaciones por 12 patologías priorizadas en el Plan de Choque del Ministerio de Salud",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:58:03.000Z",
-   "items": [
-    {
-     "id": "3a7e67e893f6",
-     "fuente": "infobae-colombia",
-     "medio": "Infobae Colombia",
-     "titulo": "Superintendencia de Salud detectó 311.796 reclamaciones por 12 patologías priorizadas en el Plan de Choque del Ministerio de Salud",
-     "url": "https://www.infobae.com/colombia/2026/11/27/superintendencia-de-salud-detecto-311796-reclamaciones-por-12-patologias-priorizadas-en-el-plan-de-choque-del-ministerio-de-salud/",
-     "fecha": "2026-11-27T23:58:03.000Z",
-     "resumen": "El seguimiento realizado entre octubre y noviembre de 2026 busca comprobar la entrega de tratamientos, procedimientos y consultas, así como identificar obstáculos que impidan a los pacientes completar su atención"
-    }
-   ],
-   "medios": [
-    "Infobae Colombia"
-   ]
-  },
-  {
-   "id": "485ad9137f16",
-   "titular": "“Nos piden que sea un lugar familiar”, arquitecto del Hospital para la Paz",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:56:05.000Z",
-   "items": [
-    {
-     "id": "485ad9137f16",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "“Nos piden que sea un lugar familiar”, arquitecto del Hospital para la Paz",
-     "url": "https://www.elespectador.com/judicial/nos-piden-que-sea-un-lugar-familiar-arquitecto-del-hospital-para-la-paz/",
-     "fecha": "2026-11-27T23:56:05.000Z",
-     "resumen": "El arquitecto chileno Alejandro Aravena habla sobre la misión de diseñar uno de los proyectos plasmados en el Acuerdo de Paz."
-    }
-   ],
-   "medios": [
-    "El Espectador"
-   ]
-  },
-  {
-   "id": "42a13e7664f4",
-   "titular": "Fedegán defiende su independencia tras el anuncio de ruptura del Gobierno",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:55:44.000Z",
-   "items": [
-    {
-     "id": "42a13e7664f4",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "Fedegán defiende su independencia tras el anuncio de ruptura del Gobierno",
-     "url": "https://www.elespectador.com/economia/fedegan-defiende-su-independencia-tras-el-anuncio-de-ruptura-del-gobierno/",
-     "fecha": "2026-11-27T23:55:44.000Z",
-     "resumen": "El presidente Abelardo de la Espriella acusó a José Félix Lafaurie de proteger \"décadas de privilegios disfrazados de interés gremial\". Fedegán respondió que su independencia frente al Gobierno y al Congreso incluye conversar con quienes piensan distinto."
-    }
-   ],
-   "medios": [
-    "El Espectador"
-   ]
-  },
-  {
-   "id": "951db9950fb2",
-   "titular": "Bayer en el Valle, desarrolla más de 100 ensayos al año, durante los 365 días, en más de 20 cultivos",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:53:49.000Z",
-   "items": [
-    {
-     "id": "951db9950fb2",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Bayer en el Valle, desarrolla más de 100 ensayos al año, durante los 365 días, en más de 20 cultivos",
-     "url": "https://caracol.com.co/2026/11/27/bayer-en-el-valle-desarrolla-mas-de-100-ensayos-al-ano-durante-los-365-dias-en-mas-de-20-cultivos/",
-     "fecha": "2026-11-27T23:53:49.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
-   ]
-  },
-  {
-   "id": "d2e7456b3a3e",
-   "titular": "Cuatro dientes fósiles hallados en China aportan nuevas pistas sobre la evolución humana",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:53:35.000Z",
-   "items": [
-    {
-     "id": "d2e7456b3a3e",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "Cuatro dientes fósiles hallados en China aportan nuevas pistas sobre la evolución humana",
-     "url": "https://www.elespectador.com/ciencia/cuatro-dientes-fosiles-hallados-en-china-aportan-nuevas-pistas-sobre-la-evolucion-humana/",
-     "fecha": "2026-11-27T23:53:35.000Z",
-     "resumen": "Cuatro dientes fósiles hallados en el sur de China aportan nuevas pistas sobre la evolución humana: los restos apuntan a la presencia de denisovanos y de otro posible linaje humano aún desconocido."
-    }
-   ],
-   "medios": [
-    "El Espectador"
-   ]
-  },
-  {
-   "id": "183adbe45184",
-   "titular": "Reportan ataque con explosivos contra estación de Policía de Arenal, en Bolívar: presidente De La Espriella confirmó la muerte de un subintendente",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:53:17.000Z",
-   "items": [
-    {
-     "id": "183adbe45184",
-     "fuente": "eltiempo",
-     "medio": "El Tiempo",
-     "titulo": "Reportan ataque con explosivos contra estación de Policía de Arenal, en Bolívar: presidente De La Espriella confirmó la muerte de un subintendente",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-ataque-con-explosivos-contra-estacion-de-policia-de-arenal-en-bolivar-presidente-de-la-espriella-confirmo-la-muerte-de-un-subtendente-3605019",
-     "fecha": "2026-11-27T23:53:17.000Z",
-     "resumen": "Se mantienen desplegadas las capacidades de inteligencia e investigación para esclarecer los hechos."
-    },
-    {
-     "id": "5dae9e93dab5",
-     "fuente": "infobae-colombia",
-     "medio": "Infobae Colombia",
-     "titulo": "Ataque con drones contra estación de Policía en Arenal, Bolívar, dejó a un subintendente asesinado: De la Espriella dijo que “no quedará en la impunidad”",
-     "url": "https://www.infobae.com/colombia/2026/11/27/ataque-con-drones-contra-estacion-de-policia-en-arenal-bolivar-dejo-a-un-subintendente-asesinado-de-la-espriella-dijo-que-no-quedara-en-la-impunidad/",
-     "fecha": "2026-11-27T23:48:53.000Z",
-     "resumen": "El presidente aseguró que ordenó un despliegue de pies de fuerza para encontrar a los responsables del crimen registrado el 27 de noviembre de 2026"
-    },
-    {
-     "id": "8169f1b1e8c8",
-     "fuente": "google-colombia",
-     "medio": "Zona Cero",
-     "titulo": "Un subintendente de la Policía murió tras ataque con drones en Arenal, Bolívar",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSENmY0xlZXhpZGpBeHF0Q0YxQ2U2ZFEwd0w3b1NSMkVhekxhSkVHY1NfbUtGZi1adnJZdDhTSTFNSWpSdWlzVnRZb3lKVWpKNUsxM2J6eHN5MDhZUUhCR3RfUEYwTUliQ1BRMGJXOU9FUlFESTI2clJRQ3NBd3FvOWdQZG8zYzNHaWR2NjhUd25tREJxMTZFc1hxdS1UUlZBc1M5dFJfMWd0UG5OcUE?oc=5",
-     "fecha": "2026-11-27T22:13:00.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "aa642f1d7464",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "Subintendente de la Policía fue asesinado en ataque terrorista con drones contra estación policial en Bolívar",
-     "url": "https://www.elpais.com.co/judicial/subintendente-de-la-policia-fue-asesinado-en-ataque-terrorista-con-drones-contra-estacion-policial-en-bolivar-2747.html",
-     "fecha": "2026-11-27T21:55:47.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El Tiempo",
-    "Infobae Colombia",
-    "Zona Cero",
-    "El País Cali"
-   ]
-  },
-  {
-   "id": "dcca869c99cf",
-   "titular": "Un aumento del salario mínimo digno es el objetivo del Gobierno Nacional",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:51:29.000Z",
-   "items": [
-    {
-     "id": "dcca869c99cf",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Un aumento del salario mínimo digno es el objetivo del Gobierno Nacional",
-     "url": "https://caracol.com.co/2026/11/27/un-aumento-del-salario-minimo-digno-es-el-objetivo-del-gobierno-nacional/",
-     "fecha": "2026-11-27T23:51:29.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
-   ]
-  },
-  {
-   "id": "3c454e35ef3a",
-   "titular": "Juez confirmó archivo de denuncia de Helicol contra Ricardo Roa, expresidente de Ecopetrol",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:50:18.000Z",
-   "items": [
-    {
-     "id": "3c454e35ef3a",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Juez confirmó archivo de denuncia de Helicol contra Ricardo Roa, expresidente de Ecopetrol",
-     "url": "https://caracol.com.co/2026/11/27/juez-confirmo-archivo-de-denuncia-de-helicol-contra-ricardo-roa-expresidente-de-ecopetrol/",
-     "fecha": "2026-11-27T23:50:18.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
-   ]
-  },
-  {
-   "id": "fa4499086c56",
-   "titular": "Restablecen el servicio de energía eléctrica en Inzá y Páez tras varios días de interrupciones",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:50:03.000Z",
-   "items": [
-    {
-     "id": "fa4499086c56",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "Restablecen el servicio de energía eléctrica en Inzá y Páez tras varios días de interrupciones",
-     "url": "https://www.elpais.com.co/colombia/restablecen-el-servicio-de-energia-electrica-en-inza-y-paez-tras-varios-dias-de-interrupciones-2703.html",
-     "fecha": "2026-11-27T23:50:03.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "El País Cali"
-   ]
-  },
-  {
-   "id": "3e5194d17ac3",
-   "titular": "Enrique Peñalosa cuestionó a la Alcaldía de Bogotá tras la culminación de la Fase I del Bronx",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:49:23.000Z",
-   "items": [
-    {
-     "id": "3e5194d17ac3",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "Enrique Peñalosa cuestionó a la Alcaldía de Bogotá tras la culminación de la Fase I del Bronx",
-     "url": "https://www.semana.com/politica/articulo/enrique-penalosa-cuestiono-a-la-alcaldia-de-bogota-tras-la-culminacion-de-la-fase-i-del-bronx/202623/",
-     "fecha": "2026-11-27T23:49:23.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "58fb0503bc39",
-   "titular": "Daniel Galán, tenista colombiano, se retiró del Challenger Seguros del Estado",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:45:06.000Z",
-   "items": [
-    {
-     "id": "58fb0503bc39",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "Daniel Galán, tenista colombiano, se retiró del Challenger Seguros del Estado",
-     "url": "https://www.elespectador.com/deportes/futbol-colombiano/otros-equipos/daniel-galan-tenista-colombiano-se-retiro-del-challenger-seguros-del-estado/",
-     "fecha": "2026-11-27T23:45:06.000Z",
-     "resumen": "Daniel Galán no logró recuperarse a tiempo de un esguince de tobillo y estará ausente en el Challenger Seguros del Estado."
-    }
-   ],
-   "medios": [
-    "El Espectador"
-   ]
-  },
-  {
-   "id": "fb76237e1c50",
-   "titular": "Miller Soto, vocero del Gobierno, no guardó silencio y respondió reto que le lanzó María Fernanda Cabal: este fue el mensaje",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:43:48.000Z",
-   "items": [
-    {
-     "id": "fb76237e1c50",
-     "fuente": "semana",
-     "medio": "Semana",
-     "titulo": "Miller Soto, vocero del Gobierno, no guardó silencio y respondió reto que le lanzó María Fernanda Cabal: este fue el mensaje",
-     "url": "https://www.semana.com/politica/articulo/miller-soto-vocero-del-gobierno-no-guardo-silencio-y-respondio-reto-que-le-lanzo-maria-fernanda-cabal-este-fue-el-mensaje/202648/",
-     "fecha": "2026-11-27T23:43:48.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Semana"
-   ]
-  },
-  {
-   "id": "0e24fb169fb0",
-   "titular": "Colombia firmará acuerdo comercial con El Salvador el 16 de diciembre",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:39:39.000Z",
-   "items": [
-    {
-     "id": "0e24fb169fb0",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Colombia firmará acuerdo comercial con El Salvador el 16 de diciembre",
-     "url": "https://caracol.com.co/2026/11/27/colombia-firmara-acuerdo-comercial-con-el-salvador-el-16-de-diciembre/",
-     "fecha": "2026-11-27T23:39:39.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "38e9bbb60fb7",
-     "fuente": "elpais-cali",
-     "medio": "El País Cali",
-     "titulo": "Colombia firmará acuerdo con Estados Unidos para eliminar aranceles",
-     "url": "https://www.elpais.com.co/economia/colombia-firmara-acuerdo-con-estados-unidos-para-eliminar-aranceles-2732.html",
-     "fecha": "2026-11-27T23:19:32.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "f0ae218500f4",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Colombia firmará acuerdo con el Gobierno de Estados Unidos para eliminar aranceles, dice MinComercio",
-     "url": "https://caracol.com.co/2026/11/27/colombia-firmara-acuerdo-con-el-gobierno-de-estados-unidos-para-eliminar-aranceles-dice-mincomercio/",
-     "fecha": "2026-11-27T23:00:20.000Z",
-     "resumen": ""
-    },
-    {
-     "id": "f12ee17940de",
-     "fuente": "infobae-colombia",
-     "medio": "Infobae Colombia",
-     "titulo": "Colombia firmará un acuerdo con Estados Unidos que permitirá eliminar algunos aranceles: el ministro de Comercio afirmó que el trato se hará en diciembre",
-     "url": "https://www.infobae.com/colombia/2026/11/27/colombia-firmara-un-acuerdo-con-estados-unidos-que-permitira-eliminar-algunos-aranceles-el-ministro-de-comercio-afirmo-que-el-trato-se-hara-en-diciembre/",
-     "fecha": "2026-11-27T22:58:30.000Z",
-     "resumen": "Mauricio Gómez Amín aseguró que el gobierno del presidente Donald Trump le tiene confianza al país y que sabe lo que significa Colombia en Latinoamérica"
-    }
-   ],
-   "medios": [
-    "Caracol Radio",
-    "El País Cali",
-    "Infobae Colombia"
-   ]
-  },
-  {
-   "id": "3bf098397b68",
-   "titular": "Este domingo será la implosión del edificio Invico en Pereira: estas son las restricciones",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:39:32.000Z",
-   "items": [
-    {
-     "id": "3bf098397b68",
-     "fuente": "elespectador",
-     "medio": "El Espectador",
-     "titulo": "Este domingo será la implosión del edificio Invico en Pereira: estas son las restricciones",
-     "url": "https://www.elespectador.com/colombia/mas-regiones/este-domingo-sera-la-implosion-del-edificio-invico-en-pereira-estas-son-las-restricciones/",
-     "fecha": "2026-11-27T23:39:32.000Z",
-     "resumen": "La demolición controlada se realizará 29 de noviembre y tendrá restricciones peatonales y vehiculares en sectores cercanos a la edificación."
-    }
-   ],
-   "medios": [
-    "El Espectador"
-   ]
-  },
-  {
-   "id": "95969d4942f4",
-   "titular": "Carlos Caicedo comparecerá ante juez en España: esto sigue tras su captura",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:39:00.000Z",
-   "items": [
-    {
-     "id": "95969d4942f4",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Carlos Caicedo comparecerá ante juez en España: esto sigue tras su captura",
-     "url": "https://caracol.com.co/2026/11/27/carlos-caicedo-comparecera-ante-juez-en-espana-esto-sigue-tras-su-captura/",
-     "fecha": "2026-11-27T23:39:00.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
-   ]
-  },
-  {
-   "id": "acae587bf8e6",
-   "titular": "Último reporte del IDEAM: ¿Lloverá o hará sol? Clima y alertas fin de semana 27 y 29 de noviembre",
-   "region": "Nacional",
-   "fecha": "2026-11-27T23:38:23.000Z",
-   "items": [
-    {
-     "id": "acae587bf8e6",
-     "fuente": "caracol",
-     "medio": "Caracol Radio",
-     "titulo": "Último reporte del IDEAM: ¿Lloverá o hará sol? Clima y alertas fin de semana 27 y 29 de noviembre",
-     "url": "https://caracol.com.co/2026/11/27/ultimo-reporte-del-ideam-llovera-o-hara-sol-clima-y-alertas-fin-de-semana-27-y-29-de-noviembre/",
-     "fecha": "2026-11-27T23:38:23.000Z",
-     "resumen": ""
-    }
-   ],
-   "medios": [
-    "Caracol Radio"
    ]
   }
  ]
